@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<meta name="description" content="Money news for Los Angeles with live prices and a live news wire.">
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Libre+Franklin:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f5f0e3; --paper2:#efe8d6; --ink:#151412; --grey:#5d5a53; --rule:#2a2824; --hair:#b9b2a2;
+  --accent:#7a1f12; --money:#1f4d2e;
+  --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --head:"Playfair Display", Georgia, serif;
+  --black:"UnifrakturMaguntia", "Old English Text MT", Georgia, serif;
+  --sans:"Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+}
+*{box-sizing:border-box}
+html{background:#d9d2c0}
+body{margin:0;color:var(--ink);font-family:var(--serif);font-size:17px;line-height:1.55;
+  background:#d9d2c0}
+a{color:inherit;text-decoration:none}
+a:hover{text-decoration:underline;text-underline-offset:2px}
+.sheet{max-width:1240px;margin:0 auto;padding:22px 34px 40px;background:var(--paper);
+  background-image:radial-gradient(ellipse at 20% 0%,rgba(255,255,255,.55),transparent 60%),
+  radial-gradient(ellipse at 90% 100%,rgba(120,100,60,.08),transparent 55%);
+  box-shadow:0 0 0 1px rgba(0,0,0,.06),0 18px 50px rgba(40,30,10,.18);min-height:100vh}
+
+/* ---------- masthead ---------- */
+.mast{display:grid;grid-template-columns:170px 1fr 190px;align-items:center;gap:18px;padding-bottom:10px}
+.ear{border:1px solid var(--ink);padding:7px 9px;font-size:12.5px;line-height:1.35}
+.ear.l{font-style:italic;text-align:center}
+.ear.r{font-family:var(--sans);font-size:11px}
+.ear.r b{display:block;letter-spacing:.06em;margin-bottom:2px}
+.title{font-family:var(--black);font-weight:400;text-align:center;font-size:clamp(40px,7.4vw,92px);line-height:1;margin:0;letter-spacing:.01em}
+.title a:hover{text-decoration:none}
+.dateline{display:grid;grid-template-columns:1fr auto 1fr;font-family:var(--sans);font-weight:700;font-size:12px;letter-spacing:.08em;
+  text-transform:uppercase;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:6px 2px}
+.dateline span:nth-child(2){text-align:center}.dateline span:last-child{text-align:right}
+.secnav{display:flex;flex-wrap:wrap;justify-content:center;gap:4px 22px;font-family:var(--sans);font-size:12.5px;font-weight:700;
+  letter-spacing:.05em;text-transform:uppercase;padding:8px 0;border-bottom:1px solid var(--rule)}
+.secnav a.on{color:var(--accent)}
+
+/* ---------- live ticker ---------- */
+.tick{display:flex;flex-wrap:wrap;justify-content:center;gap:2px 0;font-family:var(--sans);font-size:12.5px;border-bottom:1px solid var(--rule);padding:6px 0}
+.tick span{padding:0 11px;border-right:1px solid var(--hair);white-space:nowrap}
+.tick span:last-child{border-right:0}
+.tick b{font-weight:800;margin-left:4px}
+.tick .lv{font-weight:800;letter-spacing:.08em;color:var(--accent)}
+.up{color:var(--money)}.dn{color:var(--accent)}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent);margin-right:6px;vertical-align:1px;animation:pulse 1.6s infinite}
+@keyframes pulse{50%{opacity:.25}}
+
+/* ---------- live panels (replace the moving pictures) ---------- */
+.panel{margin:0 0 14px;border:1px solid var(--ink);padding:5px;background:var(--paper2);box-shadow:inset 0 0 0 1px var(--paper),inset 0 0 0 2px var(--hair)}
+.panel .in{background:var(--paper);border:1px solid var(--hair);padding:10px 12px}
+.panel .hd{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-family:var(--sans);font-size:10.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+.panel .ft{font-family:var(--sans);font-size:10.5px;color:var(--grey);margin-top:6px;display:flex;justify-content:space-between;gap:8px}
+.chart .px{font-family:var(--head);font-weight:900;font-size:30px;line-height:1.1;margin-top:4px}
+.chart .px small{font-family:var(--sans);font-size:13px;font-weight:800;margin-left:8px}
+.chart svg{display:block;width:100%;height:auto;margin-top:6px}
+.chart .ln{fill:none;stroke:var(--ink);stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+.chart .ar{fill:rgba(21,20,18,.07);stroke:none}
+.chart .bl{stroke:var(--hair);stroke-width:1;stroke-dasharray:3 4}
+.chart .now{fill:var(--accent)}
+.chart.draw .ln{stroke-dasharray:var(--len);stroke-dashoffset:var(--len);animation:drawln 2.4s ease-out forwards}
+@keyframes drawln{to{stroke-dashoffset:0}}
+.chart.mini .px{font-size:22px}
+.boardlive{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;max-width:1100px;margin:0 auto 18px;text-align:left}
+.boardlive .panel{margin:0}
+.wire .in{background:#fbf8ef;background-image:repeating-linear-gradient(transparent 0 25px,rgba(120,100,60,.12) 25px 26px)}
+.wire .cur{font-family:"Courier New",Courier,monospace;font-size:16.5px;line-height:26px;min-height:78px;margin:6px 0 4px;font-weight:700}
+.wire .cur a{text-decoration:none}
+.wire .cur .caret{display:inline-block;width:9px;height:17px;background:var(--ink);vertical-align:-2px;margin-left:2px;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.wire .meta{font-family:var(--sans);font-size:11px;color:var(--grey);text-transform:uppercase;letter-spacing:.06em}
+.wire ol{margin:8px 0 0;padding:6px 0 0 18px;border-top:1px dashed var(--hair);font-size:13.5px;line-height:1.35}
+.wire li{margin-bottom:5px}
+.wire li small{font-family:var(--sans);font-size:10.5px;color:var(--grey);margin-left:4px}
+/* e-ink mode: no motion, more contrast */
+.eink *{animation:none!important;transition:none!important}
+.eink .chart.draw .ln{stroke-dasharray:none;stroke-dashoffset:0}
+.eink .ar,.eink .wire .in{background:#fff;background-image:none}
+.eink .sheet{background:#fff;background-image:none;box-shadow:none}
+.eink{--grey:#333;--hair:#888}
+
+/* ---------- front page ---------- */
+.lead{text-align:center;padding:18px 6% 6px}
+.lead h1{font-family:var(--head);font-weight:900;font-size:clamp(30px,4.2vw,50px);line-height:1.08;margin:0 0 10px}
+.lead p{font-style:italic;color:var(--grey);font-size:19px;margin:0 auto 16px;max-width:880px}
+.leadpic{max-width:900px;margin:0 auto 18px}
+.grid3{display:grid;grid-template-columns:1fr 1fr 1fr;border-top:3px double var(--rule);padding-top:14px}
+.grid3>div{padding:0 16px}
+.grid3>div+div{border-left:1px solid var(--hair)}
+.grid3>div:first-child{padding-left:0}.grid3>div:last-child{padding-right:0}
+.brief{border-bottom:1px solid var(--hair);padding-bottom:12px;margin-bottom:12px}
+.brief h3{font-family:var(--head);font-weight:700;font-size:21px;line-height:1.18;margin:0 0 6px}
+.brief p{margin:0 0 6px;font-size:15.5px;text-align:justify;hyphens:auto}
+.jump{font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--accent)}
+.board{border:1.5px solid var(--ink);margin-bottom:6px;font-family:var(--sans);font-size:13px}
+.board h4{margin:0;background:var(--ink);color:var(--paper);padding:5px 9px;font-size:12px;letter-spacing:.12em}
+.board div{display:flex;justify-content:space-between;padding:4px 9px;border-top:1px solid var(--hair)}
+.board div b{font-weight:800}
+.small{font-size:12.5px;font-style:italic;color:var(--grey)}
+
+/* index */
+.index{margin-top:26px;border-top:3px double var(--rule);padding-top:12px}
+.index h2,.banner h2{font-family:var(--head);font-weight:900;font-size:30px;margin:0 0 4px}
+.index>p{color:var(--grey);font-style:italic;margin:0 0 10px}
+.idx{width:100%;border-collapse:collapse;font-size:15px}
+.idx th{font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;text-align:left;border-bottom:1.5px solid var(--ink);padding:5px 6px}
+.idx td{border-bottom:1px solid var(--hair);padding:7px 6px;vertical-align:top}
+.idx td.n{font-family:var(--head);font-weight:900;font-size:20px;width:38px}
+.idx td.h a{font-family:var(--head);font-weight:700;font-size:16.5px;line-height:1.2}
+.idx td.h small{display:block;font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.07em;color:var(--grey);text-transform:uppercase;margin-top:2px}
+.idx td.w{font-family:var(--sans);font-size:12px;font-weight:700;white-space:nowrap}
+.idx td.s{color:#33312c;font-size:14.5px}
+
+/* ---------- section pages ---------- */
+.banner{background:var(--ink);color:var(--paper);display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:10px 16px;margin:16px 0 14px}
+.banner h2{margin:0;color:var(--paper);letter-spacing:.02em}
+.banner span{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;opacity:.85}
+.sechead{display:grid;grid-template-columns:1.35fr 1fr;gap:22px;align-items:start;margin-bottom:6px}
+.sechead .toc{font-size:15px}
+.sechead .toc h4{font-family:var(--sans);font-size:11px;letter-spacing:.1em;text-transform:uppercase;margin:0 0 6px;border-bottom:1.5px solid var(--ink);padding-bottom:4px}
+.sechead .toc a{display:block;font-family:var(--head);font-weight:700;font-size:17px;line-height:1.25;padding:6px 0;border-bottom:1px solid var(--hair)}
+.story{border-top:3px double var(--rule);padding-top:14px;margin-top:22px;scroll-margin-top:12px}
+.tag{font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--grey)}
+.tag .n{color:var(--accent)}
+.story h2{font-family:var(--head);font-weight:900;font-size:clamp(26px,3vw,36px);line-height:1.12;margin:4px 0 8px}
+.story .deck{font-style:italic;font-size:19px;color:var(--grey);margin:0 0 12px;line-height:1.4}
+.story .body{column-count:2;column-gap:30px;column-rule:1px solid var(--hair)}
+.story .body p{margin:0 0 10px;text-align:justify;hyphens:auto;text-indent:1.1em}
+.story .body p:first-child{text-indent:0}
+.story .body p:first-child::first-letter{font-family:var(--head);font-weight:900;float:left;font-size:3.3em;line-height:.82;padding:4px 7px 0 0}
+.story .panel.inline{float:right;width:42%;margin:2px 0 10px 22px}
+.money{clear:both;border:2px solid var(--money);background:rgba(31,77,46,.05);padding:12px 16px 6px;margin:14px 0 12px}
+.money h4{margin:0 0 6px;font-family:var(--sans);font-size:12px;font-weight:800;letter-spacing:.1em;color:var(--money)}
+.money ul{margin:0;padding-left:20px}
+.money li{margin:0 0 7px;font-size:16px}
+.src{font-family:var(--sans);font-size:12.5px;color:var(--grey)}
+.src b{letter-spacing:.06em;text-transform:uppercase;font-size:11px}
+.src a{text-decoration:underline;text-underline-offset:2px}
+.src a::after{content:" ↗"}
+.storynav{display:flex;justify-content:space-between;gap:12px;font-family:var(--sans);font-size:12.5px;font-weight:700;margin-top:10px;
+  padding-top:8px;border-top:1px solid var(--hair)}
+.storynav a{color:var(--accent)}
+footer{margin-top:30px;border-top:3px double var(--rule);padding-top:10px;font-family:var(--sans);font-size:12px;color:var(--grey);
+  display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+
+@media (max-width:900px){
+  body{font-size:16.5px}
+  .sheet{padding:14px 14px 30px}
+  .mast{grid-template-columns:1fr}.ear{display:none}
+  .dateline{grid-template-columns:1fr;text-align:center;gap:2px}.dateline span{text-align:center!important}
+  .grid3{grid-template-columns:1fr}.grid3>div{padding:0!important;border:0!important}
+  .sechead{grid-template-columns:1fr}
+  .story .body{column-count:1}
+  .story .panel.inline{float:none;width:100%;margin:0 0 12px}
+  .boardlive{grid-template-columns:1fr 1fr}
+  .idx td.s{display:none}
+  .lead{padding:14px 0 4px}
+}
+</style>
+</head>
+<body>
+<div class="sheet" id="app"></div>
+<script>
+const D = /*__DATA__*/null;
+const E = D.edition;
+const BY = Object.fromEntries(D.stories.map(s => [s.key, s]));
+const SEC = Object.fromEntries(D.sections.map(s => [s.key, s]));
+const app = document.getElementById('app');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const strip = s => { const d = document.createElement('div'); d.innerHTML = s; return d.textContent; };
+const storyHref = s => `#/sec/${s.sec}/${s.key}`;
+
+/* ---------------- live data (prices, charts, news wire) ---------------- */
+let EINK = false;
+try { EINK = /[?&]eink=1/.test(location.search) || localStorage.getItem('eink') === '1' ||
+  (/Kindle|Silk\//i.test(navigator.userAgent) && localStorage.getItem('eink') !== '0'); } catch(e) {}
+document.documentElement.classList.toggle('eink', EINK);
+const NAMES = {btc:'Bitcoin', eth:'Ether', spx:'S&amp;P 500', ndx:'Nasdaq', dji:'Dow', gold:'Gold', oil:'Brent Oil', tnx:'10-Yr Yield'};
+const TICK = ['btc','eth','spx','ndx','dji','gold','oil','tnx'];
+let Q = {}, qTimer = 0, timers = [], wires = [];
+const n0 = v => Math.round(v).toLocaleString('en-US');
+const n2 = v => v.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
+function fmtP(k, v){
+  if (v == null || isNaN(v)) return '—';
+  if (k === 'tnx') return v.toFixed(2) + '%';
+  if (k === 'btc' || k === 'eth' || k === 'gold') return '$' + n0(v);
+  if (k === 'oil') return '$' + n2(v);
+  return n2(v);
+}
+const fmtC = c => c == null || isNaN(c) ? '' : `<b class="${c >= 0 ? 'up' : 'dn'}">${c >= 0 ? '▲' : '▼'}${Math.abs(c).toFixed(2)}%</b>`;
+function ago(t){
+  if (!t) return '';
+  const m = Math.round((Date.now() - t) / 60000);
+  if (m < 1) return 'just now'; if (m < 60) return m + ' min ago';
+  const h = Math.round(m / 60); return h < 48 ? h + ' hr ago' : Math.round(h / 24) + ' days ago';
+}
+const clock = t => new Date(t).toLocaleTimeString('en-US', {hour:'numeric', minute:'2-digit', timeZone:'America/Los_Angeles'});
+
+async function getJSON(u){ const r = await fetch(u, {cache:'no-store'}); if (!r.ok) throw new Error(r.status); return r.json(); }
+async function coinbaseDirect(pair){
+  const c = (await getJSON(`https://api.exchange.coinbase.com/products/${pair}/candles?granularity=900`)).slice(0, 97).reverse();
+  const s = c.map(x => x[4]), p = s[s.length - 1];
+  return {price:p, prev:s[0], chg:(p - s[0]) / s[0] * 100, spark:s, time:c[c.length - 1][0] * 1000, src:'Coinbase', h24:true};
+}
+async function loadQuotes(){
+  let q = {};
+  try { q = await getJSON('/api/quotes'); } catch(e) {}
+  for (const [k, pair] of [['btc','BTC-USD'], ['eth','ETH-USD']])
+    if (!q[k] || q[k].price == null) { try { q[k] = await coinbaseDirect(pair); } catch(e) {} }
+  Q = q; renderTicker(); app.querySelectorAll('.chart').forEach(drawChart);
+}
+function tickerHTML(){ return `<div class="tick" id="tick"><span class="lv"><i class="dot"></i>LIVE</span>${TICK.map(k => `<span data-k="${k}">${NAMES[k]} <b>—</b></span>`).join('')}</div>`; }
+function renderTicker(){
+  app.querySelectorAll('#tick span[data-k]').forEach(el => {
+    const k = el.dataset.k, q = Q[k] || {};
+    el.innerHTML = `${NAMES[k]} <b>${fmtP(k, q.price)}</b>${fmtC(q.chg)}`;
+  });
+}
+function chart(k, mini){
+  return `<figure class="panel chart${mini ? ' mini' : ''}" data-k="${k}"><div class="in">
+    <div class="hd"><span><i class="dot"></i>Live · ${NAMES[k]}</span><span class="when"></span></div>
+    <div class="px">—</div><svg viewBox="0 0 300 ${mini ? 70 : 90}" preserveAspectRatio="none"></svg>
+    <div class="ft"><span class="rng">Loading…</span><span class="src"></span></div></div></figure>`;
+}
+function drawChart(fig){
+  const k = fig.dataset.k, q = Q[k]; if (!q || q.price == null) return;
+  fig.querySelector('.px').innerHTML = `${fmtP(k, q.price)}<small>${fmtC(q.chg)}</small>`;
+  fig.querySelector('.when').textContent = q.time ? clock(q.time) + ' PT' : '';
+  fig.querySelector('.rng').textContent = q.h24 ? 'Last 24 hours' : 'Latest session';
+  fig.querySelector('.src').textContent = 'Source: ' + (q.src || '');
+  const s = (q.spark || []).filter(v => v != null); if (s.length < 2) return;
+  const svg = fig.querySelector('svg'), W = 300, H = +svg.getAttribute('viewBox').split(' ')[3], pad = 6;
+  const all = q.prev ? s.concat([q.prev]) : s, lo = Math.min(...all), hi = Math.max(...all), rg = (hi - lo) || 1;
+  const X = i => i / (s.length - 1) * W, Y = v => pad + (1 - (v - lo) / rg) * (H - 2 * pad);
+  const pts = s.map((v, i) => `${X(i).toFixed(1)},${Y(v).toFixed(1)}`);
+  const first = !fig.dataset.drawn; fig.dataset.drawn = 1;
+  svg.innerHTML = `<path class="ar" d="M0,${H} L${pts.join(' L')} L${W},${H} Z"/>` +
+    (q.prev ? `<line class="bl" x1="0" x2="${W}" y1="${Y(q.prev).toFixed(1)}" y2="${Y(q.prev).toFixed(1)}" vector-effect="non-scaling-stroke"/>` : '') +
+    `<path class="ln" d="M${pts.join(' L')}" vector-effect="non-scaling-stroke"/>` +
+    `<circle class="now" cx="${W - 3}" cy="${Y(s[s.length - 1]).toFixed(1)}" r="3.5"/>`;
+  if (first && !EINK) { const ln = svg.querySelector('.ln'); try { fig.style.setProperty('--len', Math.ceil(ln.getTotalLength() * 3)); } catch(e) {} fig.classList.add('draw'); }
+}
+function wire(q, title){
+  return `<figure class="panel wire" data-q="${esc(q)}"><div class="in">
+    <div class="hd"><span><i class="dot"></i>Live wire · ${title}</span><span class="when"></span></div>
+    <div class="cur">Connecting to the wire…</div><div class="meta"></div><ol></ol></div></figure>`;
+}
+async function loadWire(st){
+  try {
+    const d = await getJSON('/api/news?q=' + encodeURIComponent(st.q));
+    st.items = (d.items || []).filter(x => x.title); st.fig.querySelector('.when').textContent = 'Updated ' + clock(d.updated || Date.now()) + ' PT';
+  } catch(e) { if (!st.items.length) st.fig.querySelector('.cur').textContent = 'The wire is quiet right now. Try again shortly.'; }
+  if (st.items.length && !st.started) { st.started = true; showNext(st); }
+}
+function showNext(st){
+  if (!document.body.contains(st.fig) || !st.items.length) return;
+  const it = st.items[st.i % st.items.length]; st.i++;
+  const cur = st.fig.querySelector('.cur');
+  st.fig.querySelector('.meta').textContent = [it.source, ago(it.time)].filter(Boolean).join(' · ');
+  st.fig.querySelector('ol').innerHTML = [1, 2, 3].map(j => st.items[(st.i - 1 + j) % st.items.length])
+    .map(x => `<li><a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a><small>${esc(x.source || '')}</small></li>`).join('');
+  const a = `<a href="${esc(it.link)}" target="_blank" rel="noopener">`;
+  if (EINK) { cur.innerHTML = a + esc(it.title) + '</a>'; st.t = setTimeout(() => showNext(st), 30000); return; }
+  const words = it.title.split(' '); let w = 0;
+  clearInterval(st.typing);
+  st.typing = setInterval(() => {
+    w++; cur.innerHTML = a + esc(words.slice(0, w).join(' ')) + '</a><span class="caret"></span>';
+    if (w >= words.length) { clearInterval(st.typing); st.t = setTimeout(() => showNext(st), 7000); }
+  }, 140);
+}
+function mountLive(){
+  app.querySelectorAll('.wire').forEach(fig => {
+    const st = {fig, q: fig.dataset.q, items: [], i: 0, started: false, t: 0, typing: 0};
+    wires.push(st); loadWire(st); st.reload = setInterval(() => loadWire(st), 5 * 60000);
+  });
+  renderTicker(); app.querySelectorAll('.chart').forEach(drawChart);
+}
+function unmountLive(){ wires.forEach(st => { clearTimeout(st.t); clearInterval(st.typing); clearInterval(st.reload); }); wires = []; }
+const PANELS = {
+  biz:   [['chart','spx'], ['chart','btc']],
+  trade: [['wire','tariffs','Tariffs'], ['wire','customs duties imports','Customs']],
+  world: [['wire','Ukraine OR Iran OR Congress','World'], ['chart','oil']],
+  law:   [['wire','California new law','California law'], ['chart','tnx']],
+  ai:    [['chart','ndx'], ['wire','artificial intelligence','AI']],
+  prog:  [['wire','California benefits program','CA programs'], ['wire','Los Angeles','Los Angeles']],
+};
+const panel = p => p[0] === 'chart' ? chart(p[1]) : wire(p[1], p[2]);
+
+/* ---------------- shared chrome ---------------- */
+function masthead(active){
+  return `<header class="mast">
+      <div class="ear l">Money news for<br>Los Angeles.<br>Read it. Use it.</div>
+      <h1 class="title"><a href="#/">${E.paper}</a></h1>
+      <div class="ear r"><b>${(E.date_long.split(',')[0] || '').toUpperCase()} EDITION</b>Live prices every minute and a live news wire. Every story ends with how to make or save money.</div>
+    </header>
+    <div class="dateline"><span>${E.vol} · ${E.no}</span><span>${E.date_long}</span><span>Los Angeles · Free</span></div>
+    ${tickerHTML()}
+    <nav class="secnav"><a href="#/" class="${active==='front'?'on':''}">Front Page</a>${
+      D.sections.map(s => `<a href="#/sec/${s.key}" class="${active===s.key?'on':''}">${s.title}</a>`).join('')}</nav>`;
+}
+const footer = () => `<footer><span>${E.paper} · ${E.date_short} · Not legal, tax or financial advice.</span>
+  <span>Live prices: Coinbase &amp; Yahoo Finance · Live wire: Google News · <a href="#" id="einkbtn">E-ink mode: ${EINK ? 'on' : 'off'}</a></span><a href="#/">Back to the front page ↑</a></footer>`;
+
+function brief(k, n){
+  const s = BY[k]; if (!s) return '';
+  let para = s.paras[0].startsWith('Disclosure') ? s.paras[1] : s.paras[0];
+  let txt = strip(para); if (txt.length > n) txt = txt.slice(0, n).replace(/\s+\S*$/, '') + '…';
+  return `<article class="brief"><h3><a href="${storyHref(s)}">${s.headline}</a></h3><p>${esc(txt)}</p>
+    <a class="jump" href="${storyHref(s)}">Full story &amp; money moves · read #${s.num} →</a></article>`;
+}
+
+/* ---------------- pages ---------------- */
+function front(){
+  const [c1, c2, c3] = D.frontCols;
+  const board = `<div class="board"><h4>MONEY BOARD</h4>${D.board.map(([a,b]) => `<div><span>${a}</span><b>${b}</b></div>`).join('')}</div>
+    <p class="small">${D.board_note || 'Sources in each story.'}</p>`;
+  app.innerHTML = masthead('front') + `
+    <section class="lead"><h1>${D.lead.headline}</h1><p>${D.lead.deck}</p>
+      <div class="boardlive">${chart('spx', 1)}${chart('ndx', 1)}${chart('btc', 1)}${chart('oil', 1)}</div></section>
+    <section class="grid3">
+      <div>${wire('stock market', 'Wall Street')}${c1.map(k => brief(k, 230)).join('')}</div>
+      <div>${board}${wire('Ukraine OR Iran OR Congress', 'World')}${c2.map(k => brief(k, 230)).join('')}</div>
+      <div>${wire('tariffs', 'Tariffs')}${c3.map(k => brief(k, 200)).join('')}</div>
+    </section>
+    <section class="index"><h2>Today's Paper: Read in This Order</h2>
+      <p>Ranked by how soon it happens and how much money is at stake. Tap any headline for the full story.</p>
+      <table class="idx"><thead><tr><th>#</th><th>Story</th><th>When</th><th>The short version</th></tr></thead><tbody>
+      ${D.stories.map(s => `<tr><td class="n">${s.num}</td><td class="h"><a href="${storyHref(s)}">${s.headline}</a><small>${SEC[s.sec].title}</small></td>
+        <td class="w">${s.when}</td><td class="s">${s.summary}</td></tr>`).join('')}
+      </tbody></table></section>` + footer();
+}
+
+function section(key, focus){
+  const sec = SEC[key]; if (!sec) return front();
+  const list = D.stories.filter(s => s.sec === key);
+  const order = D.sections.map(s => s.key);
+  const all = D.stories.slice().sort((a,b) => order.indexOf(a.sec) - order.indexOf(b.sec) || a.num - b.num);
+  app.innerHTML = masthead(key) + `
+    <div class="banner"><h2>${sec.title}</h2><span>${sec.label}</span></div>
+    <div class="sechead">${panel(PANELS[key][0])}
+      <div class="toc"><h4>In this section</h4>${list.map(s => `<a href="${storyHref(s)}">${s.headline}</a>`).join('')}</div></div>
+    ${list.map((s, i) => {
+      const gi = all.indexOf(s), nx = all[gi + 1];
+      return `<article class="story" id="s-${s.key}">
+        <div class="tag"><span class="n">#${s.num} in today's paper</span> · ${s.when}</div>
+        <h2>${s.headline}</h2><p class="deck">${s.deck}</p>
+        ${i === 1 ? panel(PANELS[key][1]).replace('class="panel ', 'class="panel inline ') : ''}
+        <div class="body">${s.paras.map(p => `<p>${p}</p>`).join('')}</div>
+        <div class="money"><h4>HOW THIS CAN MAKE (OR SAVE) YOU MONEY</h4><ul>${s.money.map(m => `<li>${m}</li>`).join('')}</ul></div>
+        <div class="src"><b>Sources:</b> ${s.sources.map(x => `<a href="${x.u}" target="_blank" rel="noopener">${x.t}</a>`).join(' · ')}</div>
+        <div class="storynav"><a href="#/">← Front page &amp; today's order</a>${nx ? `<a href="${storyHref(nx)}">Next: ${nx.headline} →</a>` : ''}</div>
+      </article>`;}).join('')}` + footer();
+  if (focus) requestAnimationFrame(() => { const el = document.getElementById('s-' + focus); el && el.scrollIntoView(); });
+  else window.scrollTo(0, 0);
+}
+
+let view = null;
+function route(){
+  const p = location.hash.replace(/^#\/?/, '').split('/');
+  const v = (p[0] === 'sec' && SEC[p[1]]) ? 'sec:' + p[1] : 'front';
+  if (v === view && p[2]) {  // same section: just scroll, keep the live panels running
+    const el = document.getElementById('s-' + p[2]); el && el.scrollIntoView({behavior:'smooth'}); return;
+  }
+  unmountLive(); view = v;
+  if (v !== 'front') section(p[1], p[2]); else { front(); window.scrollTo(0, 0); }
+  mountLive();
+  const eb = document.getElementById('einkbtn');
+  if (eb) eb.onclick = e => { e.preventDefault(); try { localStorage.setItem('eink', EINK ? '0' : '1'); } catch(_){} location.reload(); };
+}
+window.addEventListener('hashchange', route);
+route();
+loadQuotes(); setInterval(loadQuotes, EINK ? 120000 : 60000);
+// a new edition is published each morning; reload when it lands
+setInterval(async () => { try { const d = await getJSON('/api/edition'); if (d && d.edition && d.edition.date_long !== E.date_long) location.reload(); } catch(e) {} }, 30 * 60000);
+</script>
+</body>
+</html>

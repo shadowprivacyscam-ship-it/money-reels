@@ -1,0 +1,1233 @@
+{
+ "edition": {
+  "paper": "The Angeleno Ledger",
+  "date_long": "Sunday, November 8, 2026",
+  "date_short": "Nov. 8, 2026",
+  "vol": "Vol. I",
+  "no": "No. 2"
+ },
+ "sections": [
+  {
+   "key": "biz",
+   "title": "BUSINESS DAY",
+   "label": "Markets, Deals &amp; Money"
+  },
+  {
+   "key": "trade",
+   "title": "TRADE &amp; TARIFFS",
+   "label": "Duties, Deadlines &amp; Refunds"
+  },
+  {
+   "key": "world",
+   "title": "WORLD &amp; WASHINGTON",
+   "label": "War, Diplomacy &amp; Politics"
+  },
+  {
+   "key": "law",
+   "title": "LAW &amp; YOUR WALLET",
+   "label": "Taxes, Wages, Housing &amp; Health Rules"
+  },
+  {
+   "key": "ai",
+   "title": "TECHNOLOGY",
+   "label": "The AI Economy"
+  },
+  {
+   "key": "prog",
+   "title": "CALIFORNIA BENEFITS",
+   "label": "Programs That Pay You Back"
+  }
+ ],
+ "stories": [
+  {
+   "key": "china301",
+   "sec": "trade",
+   "prio": 1,
+   "when": "Expires Nov 9-10",
+   "headline": "Tariff Cliff Monday Night: 178 China Exclusions Expire",
+   "deck": "Unless Washington extends them, duties of 25% snap back on a list of factory machinery, medical goods and solar equipment.",
+   "summary": "178 Section 301 China exclusions expire 11:59 p.m. Nov 9; 25%/7.5% duties snap back unless extended.",
+   "paras": [
+    "The one-year U.S.-China trade truce struck in November 2025 is reaching its deadlines. The most concrete: 178 product exclusions from the Section 301 tariffs on Chinese goods (164 product exclusions plus 14 for solar-manufacturing equipment) expire at 11:59 p.m. Eastern on Monday, Nov. 9. Unless the U.S. Trade Representative acts, the underlying duty, 25% on Lists 1-3 and 7.5% on List 4A, applies automatically to entries from Nov. 10. As of the latest guidance, USTR had not announced an extension.",
+    "Other pieces of the truce were also written to run through Nov. 10, 2026, including China's suspension of export controls on several rare-earth materials and its own tariff-exclusion process for U.S. goods. A 25% tariff on Chinese-made port and cargo-handling equipment is scheduled for Nov. 10.",
+    "Whether Washington extends, lets things lapse, or uses the moment for leverage before the APEC summit in Shenzhen (Nov. 18-19) is the key unknown."
+   ],
+   "money": [
+    "Importers: check whether your products use HTS codes 9903.88.69 or 9903.88.70. If so, cost out a 25% increase now and talk to your customs broker about timing shipments.",
+    "If the exclusions lapse, U.S. and non-China makers of the same equipment gain pricing power; resellers holding inventory bought before the change may see its value rise.",
+    "Rare-earth stocks tend to jump on any sign China might restore export controls, and fall on extensions. They are volatile."
+   ],
+   "sources": [
+    {
+     "t": "Section 301 exclusions guide, Nov. 10 snap-back (Great Lakes Customs Law)",
+     "u": "https://greatlakescustomslaw.com/?p=9054"
+    },
+    {
+     "t": "USTR extension to Nov. 10, 2026 (USTR)",
+     "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2025/november/ustr-extends-exclusions-china-section-301-tariffs-related-forced-technology-transfer-investigation"
+    },
+    {
+     "t": "Federal Register notice (GovInfo)",
+     "u": "https://www.govinfo.gov/content/pkg/FR-2025-12-01/html/2025-21671.htm"
+    },
+    {
+     "t": "Rare-earth controls suspended to Nov. 10, 2026 (Reed Smith tracker)",
+     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+    },
+    {
+     "t": "Scheduled Nov. 10 port-equipment tariff (TecEx)",
+     "u": "https://tecex.com/tariff-tracker/"
+    }
+   ],
+   "num": 1
+  },
+  {
+   "key": "markets",
+   "sec": "biz",
+   "prio": 2,
+   "when": "CPI Tue Nov 10",
+   "headline": "Stocks Post Worst Week Since June as AI Jitters Spread",
+   "deck": "An AI-led selloff on Nov. 5 dragged the Nasdaq; Tuesday's inflation report and a likely December Fed hike are next.",
+   "summary": "Worst week since June; CPI Tuesday; Fed holding 3.75-4.00% with a December hike priced at roughly 80%+.",
+   "paras": [
+    "Wall Street ended the first week of November bruised. Big AI-linked names led a sharp global selloff on Thursday, Nov. 5, and the Nasdaq finished the week down roughly 3.4%, with the S&amp;P 500 off about 2.7%, its worst week since June. Investors are questioning whether the enormous sums being spent on AI data centers will pay off fast enough.",
+    "The economy itself is not the problem. The Federal Reserve held its benchmark rate at 3.75% to 4.00% on Oct. 28 in a 10-2 vote, with two officials dissenting in favor of a hike, and upgraded its view of growth to \"strong.\" Fed Chair Kevin Warsh did not rule out a December increase; after the meeting, traders still put the odds of a quarter-point hike on Dec. 8-9 at about 82%.",
+    "Inflation is the swing factor. September consumer prices ran 3.7% above a year earlier, driven in part by gasoline. October's CPI report lands Tuesday, Nov. 10. A hot number would harden the case for a December hike and pressure richly valued tech stocks; a cool one could spark a relief rally."
+   ],
+   "money": [
+    "Cash is paying again: with the Fed at 3.75-4.00%, money-market funds, Treasury bills and high-yield savings accounts typically yield near that range. Idle cash in a 0.5% bank account is money left on the table.",
+    "Selloffs are when long-term investors who buy on a schedule (dollar-cost averaging) get more shares per dollar. Rebalancing back to your target mix forces you to buy what fell.",
+    "If you carry credit-card or variable-rate debt, another hike makes it more expensive. Paying it down is a guaranteed return equal to the interest rate.",
+    "Risk: if CPI surprises high, rate-sensitive stocks and long bonds can fall further. Do not borrow to buy dips."
+   ],
+   "sources": [
+    {
+     "t": "Fed holds at 3.75%-4% (Bloomberg via WealthManagement)",
+     "u": "https://www.wealthmanagement.com/fixed-income/fed-holds-rates-says-more-data-will-help-next-decision"
+    },
+    {
+     "t": "December hike odds after Warsh press conference (investingLive)",
+     "u": "https://investinglive.com/central-banks/much-ado-about-nothing-fed-chair-warsh-talks-up-a-storm-but-december-rate-hike-bets-barely-budge/"
+    },
+    {
+     "t": "Inflation 3.7% in September (Money.com)",
+     "u": "https://money.com/irs-tax-brackets-standard-deduction-2027/?amp=true"
+    }
+   ],
+   "num": 2
+  },
+  {
+   "key": "ipo",
+   "sec": "biz",
+   "prio": 3,
+   "when": "Roadshow as soon as Tue",
+   "headline": "The Biggest IPO Ever Could Launch This Week",
+   "deck": "Anthropic may start marketing shares as early as Tuesday, with pricing possible the week of Nov. 16. Investors are pushing back on price.",
+   "summary": "Anthropic IPO (est. $75B+) could launch Tue, price week of Nov. 16; IPO index -6.8% YTD vs S&amp;P +8.2%.",
+   "paras": [
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting.",
+    "Anthropic, the AI company behind Claude, publicly filed for its initial public offering on Oct. 26. Renaissance Capital estimates it could raise $75 billion or more, potentially topping SpaceX's record $75 billion June listing, and says the roadshow could launch as early as Tuesday, Nov. 10, with pricing the week of Nov. 16. No price range has been set in a public filing.",
+    "Valuation is the fight. Reports in October put investor talk at $1.8 trillion to $2 trillion; Reuters has since reported that buyers are pushing for a more attractive price, and some accounts say bankers narrowed targets toward roughly $1.4-1.5 trillion. The company raised money at a $965 billion valuation in May. Prediction-market odds of a 2026 listing slipped from about 90% to 77% on Nov. 5 as AI stocks sold off.",
+    "The broader IPO market is cold: Renaissance's index of new listings was down 6.8% this year as of Nov. 5, versus an 8.2% gain for the S&amp;P 500. Smaller deals on deck include dental-tech firm vVardis and biotech Rezera."
+   ],
+   "money": [
+    "Most individuals cannot get shares at the IPO price; allocations go mainly to large institutions. Some brokers offer limited IPO access, so check yours if you want a chance.",
+    "Buying on the first trading day often means paying the \"pop.\" Many hot IPOs later trade below their first-day highs, especially near the end of the insider lockup (Anthropic's filing describes 180 days).",
+    "Indirect plays: a huge IPO can lift the companies that supply its computing (chips, cloud, power) and the IPO-focused ETFs that add new listings.",
+    "A failed or delayed deal could hit AI stocks broadly. Size positions accordingly."
+   ],
+   "sources": [
+    {
+     "t": "US IPO Week Ahead (Renaissance Capital)",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
+    },
+    {
+     "t": "Anthropic files for estimated $75B IPO (Renaissance Capital)",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122417/ai-model-developer-anthropic-pbc-files-for-an-estimated-75-billion-ipo"
+    },
+    {
+     "t": "IPO weekly recap, index performance (Renaissance Capital)",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122629/us-ipo-weekly-recap-community-bank-debuts-amid-market-fears"
+    },
+    {
+     "t": "S-1 to lockup explainer, Polymarket odds (FourWeekMBA)",
+     "u": "https://fourweekmba.com/ai-anthropic-ipo-explained-5-steps-from-s-1-to-180-day-lockup/"
+    },
+    {
+     "t": "Valuation talk $1.8-2T (Implicator)",
+     "u": "https://www.implicator.ai/anthropic-could-start-ipo-roadshow-week-of-nov-9-putting-debut-before-thanksgiving/"
+    }
+   ],
+   "num": 3
+  },
+  {
+   "key": "calendar",
+   "sec": "biz",
+   "prio": 4,
+   "when": "Next 5 weeks",
+   "headline": "The Money Calendar: Dates That Can Move Your Wallet",
+   "deck": "Mark these days. Several fall this week.",
+   "summary": "Key dates: Nov 9-10 tariff cliff, Nov 10 CPI and Ukraine talks, Nov 17 Nvidia, Dec 9 Fed, Dec 11 shutdown deadline.",
+   "paras": [
+    "<b>Mon., Nov. 9, 11:59 p.m. ET:</b> 178 China tariff exclusions expire unless extended (see Trade &amp; Tariffs).",
+    "<b>Tue., Nov. 10:</b> October CPI inflation report. Russia-Ukraine talks open in Abu Dhabi (through Nov. 11). Anthropic's IPO roadshow could begin. U.S.-China trade-truce provisions reach their one-year mark.",
+    "<b>Nov. 12:</b> OpenAI ends model access for coding tool Cursor.",
+    "<b>Tue., Nov. 17:</b> Nvidia reports quarterly earnings after the close (date confirmed per Earnings Whispers; analysts expect about $2.47 a share).",
+    "<b>Nov. 18:</b> Comments due on the Union Pacific-Norfolk Southern merger. <b>Nov. 18-19:</b> APEC summit in Shenzhen, where a Trump-Xi-Putin meeting has been floated.",
+    "<b>Nov. 26:</b> Thanksgiving; U.S. markets closed. <b>Dec. 8-9:</b> Fed meeting. <b>Dec. 11:</b> Federal funding runs out; a shutdown could start Dec. 12. <b>Dec. 31:</b> Covered California sign-up deadline for Jan. 1 coverage."
+   ],
+   "money": [
+    "Big scheduled events bring bigger price swings. Avoid placing large market orders right at the open on CPI day; limit orders protect you from bad fills.",
+    "If you run an import business, Nov. 9 is the day to confirm your customs broker knows which exclusion codes stop working.",
+    "If a shutdown starts Dec. 12, federal services like some SBA lending and IRS phone help can slow. File anything time-sensitive early."
+   ],
+   "sources": [
+    {
+     "t": "Nvidia earnings date and estimate (Earnings Whispers)",
+     "u": "https://www.earningswhispers.com/stocks/Nvda"
+    },
+    {
+     "t": "OpenAI-Cursor cutoff (AI/TLDR)",
+     "u": "https://ai-tldr.dev/releases/org/openai/"
+    },
+    {
+     "t": "Union Pacific-Norfolk Southern timeline (Dealroom)",
+     "u": "https://dealroom.net/blog/upcoming-m-a"
+    },
+    {
+     "t": "APEC Shenzhen, possible three-way meeting (Al Jazeera)",
+     "u": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+    },
+    {
+     "t": "Bitcoin key November dates (CryptoTicker)",
+     "u": "https://cryptoticker.io/en/bitcoin-monthly-returns-november/"
+    }
+   ],
+   "num": 4
+  },
+  {
+   "key": "ukraine",
+   "sec": "world",
+   "prio": 4,
+   "when": "Talks Nov 10-11",
+   "headline": "Russia, Ukraine and U.S. Return to the Table in Abu Dhabi",
+   "deck": "The first formal round since February will cover an energy and sea ceasefire, prisoners, and security guarantees. Europe is not invited.",
+   "summary": "Abu Dhabi trilateral talks Nov 10-11 (Witkoff, Kushner); energy/maritime ceasefire on agenda; possible APEC summit.",
+   "paras": [
+    "U.S. envoy Steve Witkoff announced that Washington will mediate working-level talks between Ukraine and Russia in Abu Dhabi on Nov. 10-11, covering \"post-war security agreements, de-escalation, humanitarian measures, and ending the war.\" Witkoff and Jared Kushner are expected to lead the U.S. side. It is the fourth formal round this year and the first since talks stalled when the Iran war began in late February.",
+    "The agenda is expected to include a possible energy and maritime ceasefire, prisoner exchanges and the return of Ukrainian children taken to Russia. European governments want a seat but are unlikely to be at the table; Germany's chancellor said Russia has yet to engage seriously. President Zelenskyy hopes the talks lead to a leaders' meeting, and a Trump-Xi-Putin meeting has been floated for the APEC summit in Shenzhen on Nov. 18-19. Territory in the east remains the main sticking point."
+   ],
+   "money": [
+    "An energy ceasefire or wider deal would likely push oil and European natural-gas prices lower, which is good for drivers, airlines and manufacturers and bad for energy producers.",
+    "Peace talk headlines tend to lift European stocks and companies tied to reconstruction (construction, steel, equipment), and weigh on defense names.",
+    "Wheat and fertilizer prices are sensitive to Black Sea shipping; a maritime deal could lower food-input costs."
+   ],
+   "sources": [
+    {
+     "t": "Witkoff announces Abu Dhabi talks (Khaleej Times)",
+     "u": "https://www.khaleejtimes.com/world/us-mediate-russia-ukraine-talks-abu-dhabi-november-witkoff"
+    },
+    {
+     "t": "Agenda: energy, maritime, POWs, children (Latin Times)",
+     "u": "https://www.latintimes.com/us-mediate-russia-ukraine-talks-abu-dhabi-600870"
+    },
+    {
+     "t": "Zelenskyy, Merz, APEC meeting (Al Jazeera)",
+     "u": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+    },
+    {
+     "t": "Brent falls on peace hopes (The Nation)",
+     "u": "https://www.nationthailand.com/news/world/40073076"
+    }
+   ],
+   "num": 5
+  },
+  {
+   "key": "iran",
+   "sec": "world",
+   "prio": 5,
+   "when": "Strikes possible",
+   "headline": "Iran: Peace Letters and Bomber Runs on Parallel Tracks",
+   "deck": "The U.S. struck Qeshm Island, tightened a port blockade and weighed new strikes, even as both sides traded proposals to reopen Hormuz.",
+   "summary": "U.S. struck Qeshm Island Nov 2, weighing new strikes; Hormuz tanker attacks near record pace; talks continue.",
+   "paras": [
+    "The U.S.-Iran war that began Feb. 28 has not ended; it has changed shape. U.S. officials confirmed a strike on Iran's strategic Qeshm Island on Nov. 2, the first there since June. On Nov. 5, President Trump met his national security team as the U.S. prepared for possible new strikes, Central Command said it was tightening a blockade of Iranian ports, and the carrier USS Roosevelt was expected in the region by mid-November.",
+    "Diplomacy continues alongside. Iran's foreign minister described talks on a two-day plan to reopen the Strait of Hormuz, Iran's security chief called a recent U.S. letter a \"very positive sign,\" and Iran's parliament speaker said the \"ball is in the U.S. court.\" Meanwhile, attacks on oil tankers are running near a record pace, according to Britain's maritime security agency.",
+    "The cost is large: Pentagon data show the U.S. has spent more than $47 billion on the war, and Defense Secretary Pete Hegseth is seeking $350 billion for the military."
+   ],
+   "money": [
+    "Oil is the transmission line from this war to your wallet: diplomacy headlines push crude down, strike headlines push it up. In California that shows up at the pump within days to weeks.",
+    "Defense contractors benefit from replacement orders (the Pentagon says more than $29 billion went to restocking munitions alone).",
+    "Gold and the dollar often rise on escalation. Trying to trade each headline is mostly a way to pay commissions; long-term investors usually hold steady."
+   ],
+   "sources": [
+    {
+     "t": "U.S. strikes Qeshm Island (RFE/RL)",
+     "u": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html?lbis=474743"
+    },
+    {
+     "t": "Possible new strikes, blockade, carrier (Fox News live)",
+     "u": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-elections-november-5.amp"
+    },
+    {
+     "t": "Hormuz two-day plan, positive letter (Al Jazeera live)",
+     "u": "https://www.aljazeera.com/amp/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz"
+    },
+    {
+     "t": "Qalibaf: ball in U.S. court (AP via News4Jax)",
+     "u": "https://www.news4jax.com/news/world/2026/11/03/irans-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/"
+    },
+    {
+     "t": "War cost over $47B (Al Jazeera live)",
+     "u": "https://www.aljazeera.com/amp/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us"
+    },
+    {
+     "t": "Tanker attacks near record (OE Digital)",
+     "u": "https://www.oedigital.com/amp/news/544192-oil-heads-for-steep-weekly-drop-despite-middle-east-supply-risks"
+    }
+   ],
+   "num": 6
+  },
+  {
+   "key": "commod",
+   "sec": "biz",
+   "prio": 6,
+   "when": "Gas still high",
+   "headline": "Oil Drops 12% on Peace Hopes; Gold Rebounds Above $4,000; Mortgage Rates Ease",
+   "deck": "Commodities whipsawed on war headlines and the election. Borrowers caught a small break.",
+   "summary": "Brent ~$99 (-12% week); gold back above $4,100; 30-yr mortgage 7.18%, third weekly drop.",
+   "paras": [
+    "Oil had one of its steepest weekly drops in memory: Brent fell about 12% to roughly $99 a barrel and U.S. crude about 12% to near $91 as traders bet on U.S.-Iran diplomacy, even as Iran reported three more tankers attacked in the Strait of Hormuz on Thursday. Prices had plunged more than 7% on Nov. 2 and then bounced nearly 4% on Nov. 5 on fresh tanker attacks.",
+    "Gold jumped 3.4% on Nov. 4, its biggest one-day gain since August, as Democrats swept Congress and the dollar weakened, and touched a two-week high of $4,146.63 an ounce on Nov. 5. It had hit a one-year low near $3,870 on Oct. 30 and remains well below January's record of about $5,608.",
+    "Home borrowing costs fell for a third straight week: Freddie Mac's 30-year fixed average was 7.18% on Nov. 5, down from 7.32% two weeks earlier but still about a point above a year ago."
+   ],
+   "money": [
+    "Shopping several mortgage lenders can save $600 to $1,200 a year, according to Freddie Mac research. Get at least three quotes the same day.",
+    "If oil keeps falling, California gas prices usually follow with a lag; businesses with vehicle fleets may lock fuel contracts carefully, not in a panic.",
+    "Gold tends to rise when the dollar and real interest rates fall. Gold ETFs are simpler than physical bullion for most people.",
+    "Energy stocks and airlines move in opposite directions on oil headlines; that tension is why many investors avoid betting the farm on war news."
+   ],
+   "sources": [
+    {
+     "t": "Oil 12% weekly drop (Grafa)",
+     "u": "https://grafa.com/en/news/united-states/brent-wti-oil-prices-12-percent-weekly-drop-middle-east-tensions"
+    },
+    {
+     "t": "Oil plunges 15%, peace pricing (OilPrice)",
+     "u": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.amp.html"
+    },
+    {
+     "t": "Gold two-week high (The Nation)",
+     "u": "https://www.nationthailand.com/business/trading-investment/40073160"
+    },
+    {
+     "t": "Gold history and record (Trading Economics)",
+     "u": "https://tradingeconomics.com/commodity/gold?refid=refid"
+    },
+    {
+     "t": "Mortgage rates 7.18% (Real Estate News)",
+     "u": "https://realestatenews.com/2026/11/05/mortgage-rates-fall-again-but-buyer-activity-stays-muted"
+    },
+    {
+     "t": "Shop lenders, save $600-1,200 (Fortune)",
+     "u": "https://fortune.com/article/current-mortgage-rates-11-06-2026/"
+    }
+   ],
+   "num": 7
+  },
+  {
+   "key": "tax2027",
+   "sec": "law",
+   "prio": 6,
+   "when": "Plan now",
+   "headline": "IRS Sets 2027 Tax Brackets: Standard Deduction Rises to $16,600",
+   "deck": "Brackets climb 3.2% for inflation, the child tax credit reaches $2,300, and HSA limits rise. California does not follow every federal break.",
+   "summary": "2027: std deduction $16,600 single / $33,200 married; brackets +3.2%; child credit $2,300; HSA $4,500.",
+   "paras": [
+    "The IRS on Nov. 5 released inflation adjustments for tax year 2027 (returns filed in 2028). The standard deduction rises to $16,600 for single filers, $24,925 for heads of household and $33,200 for married couples filing jointly. Bracket thresholds rise about 3.2%; for single filers, the 37% top rate starts above $396,825. The child tax credit increases $100 to $2,300, with up to $1,800 refundable.",
+    "Health Savings Account limits for 2027 were set earlier: $4,500 for self-only coverage and $9,000 for families. The 2027 401(k) limit has not yet been announced; forecasters at Milliman and Marsh both project $25,500, up $1,000.",
+    "California sets its own rules. Its standard deduction is far lower than the federal one, it does not allow the federal QBI deduction, and it does not cap its own deduction for state taxes."
+   ],
+   "money": [
+    "Raise your 401(k) and HSA contributions when the new limits take effect; every dollar into an HSA can be tax-free going in, growing and coming out for medical costs.",
+    "With a $16,600 standard deduction, \"bunching\" (stacking two years of charitable gifts into one year) can let you itemize every other year.",
+    "Families: make sure each child has a valid Social Security number to claim the $2,300 credit."
+   ],
+   "sources": [
+    {
+     "t": "IRS release IR-2026-133 (IRS)",
+     "u": "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    },
+    {
+     "t": "Brackets and 3.2% adjustment (NerdWallet)",
+     "u": "https://www.nerdwallet.com/taxes/news/tax-changes-2027"
+    },
+    {
+     "t": "Child tax credit $2,300 (NBC Connecticut)",
+     "u": "https://www.nbcconnecticut.com/news/national-international/irs-announces-increase-child-tax-credit-deductions-for-2027/3793186/"
+    },
+    {
+     "t": "401(k) projection, HSA limits (401k Specialist)",
+     "u": "https://401kspecialistmag.com/2027-401k-contribution-limits-all-but-official-25500-expected/"
+    },
+    {
+     "t": "California vs. federal differences (KDA Inc.)",
+     "u": "https://kdainc.com/california-tax-resources/tax-prep/california-vs-federal/"
+    }
+   ],
+   "num": 8
+  },
+  {
+   "key": "refunds",
+   "sec": "trade",
+   "prio": 7,
+   "when": "File now",
+   "headline": "Billions in Tariff Refunds Are Still Unclaimed",
+   "deck": "After the Supreme Court struck down the IEEPA tariffs in February, importers must apply to get money back, with interest.",
+   "summary": "IEEPA tariff refunds: CAPE portal open since Apr 20; $35B+ processed, ~41% paid; must apply to get paid.",
+   "paras": [
+    "On Feb. 20, the Supreme Court ruled that the tariffs imposed under the International Emergency Economic Powers Act were unlawful. Customs set up a refund system, CAPE, which opened April 20, and began paying in May. One accounting firm reports more than $35 billion processed; the Cato Institute counts about 41% of total refund obligations paid so far.",
+    "Refunds are not automatic: importers must apply. The Court of International Trade has also ruled that importers are entitled to refunds on \"finally liquidated\" entries (generally more than 80 days past liquidation), though the government has appealed the broader refund order. Refunds typically include interest at the IRS underpayment rate, around 5% to 6% a year."
+   ],
+   "money": [
+    "If you or your business was the importer of record on goods brought in since February 2025, pull every entry (CBP Form 7501) and file through CAPE now.",
+    "If you paid a supplier's \"tariff surcharge,\" check your contracts: some customers have claims to part of the refund their supplier receives.",
+    "Customs-broker and attorney teams now do this work on contingency; compare fees, since self-filing is possible for simple cases."
+   ],
+   "sources": [
+    {
+     "t": "Refund progress, 41% paid (Cato Institute)",
+     "u": "https://www.cato.org/blog/ieepa-refunds-update-good-progress-still-ways-go"
+    },
+    {
+     "t": "CAPE and $35B processed (Barnes Dennig)",
+     "u": "https://www.barnesdennig.com/section-122-tariffs-ieepa-refunds-update/"
+    },
+    {
+     "t": "Finally liquidated entries ruling (Foley)",
+     "u": "https://www.foley.com/insights/publications/2026/09/what-every-multinational-should-know-about-securing-refunds-for-finally-liquidated-entries/"
+    },
+    {
+     "t": "Interest on refunds (RSM)",
+     "u": "https://realeconomy.rsmus.com/ieepa-tariffs-struck-down-what-consumer-and-other-importers-need-to-know/"
+    },
+    {
+     "t": "Government appeal of refund order (Mondaq)",
+     "u": "https://www.mondaq.com/unitedstates/international-trade-investment/1806310/ieepa-tariff-refunds-and-the-us-governments-appeal-where-the-litigation-stands-and-what-it-means-for-importers"
+    }
+   ],
+   "num": 9
+  },
+  {
+   "key": "health",
+   "sec": "law",
+   "prio": 7,
+   "when": "Enroll by Dec 31",
+   "headline": "Health and Food Aid: Enrollment Is Open and the Rules Are Tightening",
+   "deck": "Covered California sign-up runs through Jan. 31; Medi-Cal work rules start in January; CalFresh rules already changed.",
+   "summary": "Covered CA open enrollment to Jan 31 (Dec 31 for Jan 1 coverage); Medi-Cal work rules Jan 2027; CalFresh rules tightened.",
+   "paras": [
+    "Covered California's open enrollment runs from Nov. 1 through Jan. 31; sign up by Dec. 31 for coverage starting Jan. 1. Average premiums rise 9.9%, partly offset by $110 million in state subsidies. A $35 monthly insulin cap extends to individual and small-group plans on Jan. 1, 2027.",
+    "Federal work requirements for Medi-Cal begin in January 2027. For CalFresh (food stamps), expanded work and community-engagement rules took effect June 1, 2026: the age range for able-bodied adults without dependents widened to 18-64 and parents of children 14 and older can now be covered. Current recipients are evaluated at their annual renewal. Full-time students at community colleges, CSU and UC are exempt, and seven counties (not Los Angeles) have time-limit waivers from Nov. 1."
+   ],
+   "money": [
+    "Compare Covered California plans every year; subsidies are based on income and can make a higher tier cheaper than expected.",
+    "If your CalFresh renewal is coming, gather proof of work, volunteering or training hours now to avoid a gap in benefits.",
+    "Students: the new exemption means many full-time students can keep CalFresh without meeting work hours."
+   ],
+   "sources": [
+    {
+     "t": "CalFresh work requirements (CDSS)",
+     "u": "https://www.cdss.ca.gov/inforesources/cdss-programs/calfresh/able-bodied-adults-without-dependents"
+    },
+    {
+     "t": "County waivers from Nov. 1 (CDSS)",
+     "u": "https://cdss.ca.gov/inforesources/CalFresh/ABAWD"
+    },
+    {
+     "t": "Student exemption (Second Harvest)",
+     "u": "https://www.shfb.org/impact/blog/calfresh-work-requirements-2026-are-you-affected/"
+    },
+    {
+     "t": "Medi-Cal work requirements January 2027 (DDS)",
+     "u": "https://www.dds.ca.gov/?p=60050"
+    },
+    {
+     "t": "Insulin cap timeline (California Insider)",
+     "u": "https://californiainsider.com/news/10-major-laws-taking-effect-in-california-beginning-2026-post-5956515"
+    },
+    {
+     "t": "Covered California",
+     "u": "https://www.coveredca.com/"
+    }
+   ],
+   "num": 10
+  },
+  {
+   "key": "movers",
+   "sec": "biz",
+   "prio": 8,
+   "when": "This week",
+   "headline": "AppLovin Soars 31%, Intel and Fortinet Crater: The Week's Biggest Swings",
+   "deck": "Earnings moves blew past what options traders expected, a reminder that single stocks can gap 10% to 35% overnight.",
+   "summary": "AppLovin +31%, Block +15%; Arm, Coherent, MercadoLibre, CVS fell double digits; Intel -35% on the week.",
+   "paras": [
+    "Earnings season produced violent moves. AppLovin jumped 31% on Nov. 5 after its report, far beyond the roughly 17.5% swing options had priced in. Block rose 15.3% the day before. On the losing side, Arm Holdings fell 13.1%, Coherent 13%, AMC Entertainment 12.6%, MercadoLibre 12.1% and Qualcomm 9.5% on Nov. 5, while Datadog dropped 14.5% and CVS Health 12.5% on Nov. 4.",
+    "Over the trailing week, Intel lost about 35% and Fortinet about 31%, according to Trefis's mover tables. Restaurant chain Portillo's went the other way: up about 85% over the past month after a 28.8% one-day jump. Microsoft, by contrast, gained 6.6% on Nov. 4 as investors rewarded its AI cloud results."
+   ],
+   "money": [
+    "Options traders pay for expected moves; when actual moves keep exceeding them (as with AppLovin and MercadoLibre), the people selling that \"insurance\" lose and the buyers profit. Beginners should note the reverse is just as common.",
+    "After a big earnings gap, stocks often keep drifting in the same direction for weeks (post-earnings drift). Some investors wait a few days rather than chasing the first-day move.",
+    "Deep losers can become bargains, or value traps. Check whether the drop came from a one-time miss or a broken business before buying.",
+    "Keep any single stock to a small slice of your money; these swings show why."
+   ],
+   "sources": [
+    {
+     "t": "Earnings reactions, Nov. 5 (Earnings Watcher)",
+     "u": "https://earnings-watcher.com/wiki/earnings-reactions-2026-11-05"
+    },
+    {
+     "t": "Earnings reactions, Nov. 4 (Earnings Watcher)",
+     "u": "https://earnings-watcher.com/wiki/earnings-reactions-2026-11-04"
+    },
+    {
+     "t": "Market movers, Nov. 6 (Trefis)",
+     "u": "https://www.trefis.com/stock/spy/articles/623168/market-movers-winners-app-dnut-ptlo-losers-mntn-vcyt-pct/2026-11-06"
+    },
+    {
+     "t": "Market movers, Nov. 4 (Trefis)",
+     "u": "https://www.trefis.com/stock/spy/articles/622450/market-movers-winners-aehr-acb-arry-losers-adtn-bvs-xpro/2026-11-04"
+    },
+    {
+     "t": "Stock movers, Nov. 4 (Tapeboard)",
+     "u": "https://tapeboard.com/movers/archive/2026-11-04"
+    }
+   ],
+   "num": 11
+  },
+  {
+   "key": "mergers",
+   "sec": "biz",
+   "prio": 9,
+   "when": "Deals pending",
+   "headline": "Marvell's $115 Billion Bet on Light, and the Other Deals in Motion",
+   "deck": "The year's largest takeover by equity value targets laser maker Lumentum. Several other deals offer arbitrage spreads.",
+   "summary": "Marvell-Lumentum $115B all-stock (4.5 MRVL per LITE); Shield-Echodyne $5.3B; Helen of Troy bid; UNP-NSC review.",
+   "paras": [
+    "Marvell Technology agreed on Nov. 2 to buy Lumentum, a maker of lasers and optical parts for AI data centers, in an all-stock deal valuing Lumentum at about $115 billion including debt. Lumentum holders get 4.5 Marvell shares per share, worth about $1,132 at announcement, a 23.9% premium to the Oct. 28 price. Bloomberg calls it the largest deal of 2026 by equity value. Closing is expected in the first half of 2028.",
+    "Investors were unimpressed at first: Reuters reported Lumentum shares fell about 8% and Marvell about 22% after talks became public. The thesis is that AI clusters are moving from copper wiring to light-based connections. Marvell projects more than $1 billion a year in cost savings. If regulators block it, Marvell owes a $3.2 billion regulatory break fee.",
+    "Elsewhere: defense firm Shield agreed to buy radar maker Echodyne for $5.3 billion; Oaktree-backed Empower Brands proposed a $1.6 billion takeover of Helen of Troy; and SpaceX was reported to be exploring a purchase of EchoStar's Boost Mobile. Opposition comments on Union Pacific's $85 billion Norfolk Southern merger are due Nov. 18."
+   ],
+   "money": [
+    "Merger arbitrage: in stock deals, the target often trades below the implied deal value. Traders buy the target (and sometimes short the acquirer) to capture that gap if the deal closes. The gap is the market's price for the risk it doesn't.",
+    "Long closing timelines (Marvell into 2028) mean more regulatory and market risk, which is why spreads can be wide.",
+    "Proposed (not agreed) bids like Helen of Troy can fail or be raised; that uncertainty is both the risk and the opportunity."
+   ],
+   "sources": [
+    {
+     "t": "Marvell-Lumentum terms (Light Reading)",
+     "u": "https://lightreading.com/ai-machine-learning/marvell-strikes-115b-deal-for-lumentum"
+    },
+    {
+     "t": "Share reactions, largest deal of 2026 (The Next Web)",
+     "u": "https://thenextweb.com/news/marvell-lumentum-acquisition-115bn-all-stock"
+    },
+    {
+     "t": "Termination fees and synergies (NAND Research)",
+     "u": "https://nand-research.com/?p=6084"
+    },
+    {
+     "t": "Deal list Nov. 2-6 (The Middle Market)",
+     "u": "https://www.themiddlemarket.com/?p=99518"
+    },
+    {
+     "t": "Pending M&amp;A tracker (Dealroom)",
+     "u": "https://dealroom.net/blog/upcoming-m-a"
+    }
+   ],
+   "num": 12
+  },
+  {
+   "key": "capex",
+   "sec": "ai",
+   "prio": 9,
+   "when": "Earnings fallout",
+   "headline": "Big Tech Will Spend About $800 Billion on AI This Year. Who Gets Paid?",
+   "deck": "Investors rewarded Microsoft and Amazon but punished Alphabet, Meta and Oracle. Cash flow is the new scorecard.",
+   "summary": "2026 AI capex ~$803-828B (5 giants); 2027 seen above $1T; Oracle files $20B raise; suppliers win first.",
+   "paras": [
+    "Amazon, Alphabet, Microsoft, Meta and SpaceX together project roughly $803 billion to $828 billion of capital spending in 2026, mostly AI data centers, and about $242 billion to $272 billion in the fourth quarter alone. Full-year guides: Amazon about $220 billion, Alphabet $195 billion to $205 billion with a \"significant\" increase flagged for 2027, Meta $130 billion to $145 billion, and Microsoft over $50 billion in its current quarter. Wall Street now models more than $1 trillion in 2027.",
+    "The money is straining balance sheets. Oracle filed on Nov. 2 to raise $20 billion through $10 billion of stock and $10 billion of notes, its second $20 billion financing this year; Meta reported its first cash outflow in more than a decade. After earnings, Microsoft and Amazon rose while Alphabet, Meta and Oracle fell, a sign investors now judge spending by how quickly it turns into revenue."
+   ],
+   "money": [
+    "The \"picks and shovels\" (chips, memory, optical links, power equipment, construction) convert this spending into revenue first, as Marvell's Lumentum deal shows.",
+    "Spenders with strong cash flow (Microsoft, Amazon) can fund AI internally; heavy borrowers (Oracle) face dilution and debt risk. That split has been driving stock moves.",
+    "Rising component and memory prices, cited by Amazon and Meta, can lift memory-chip makers and raise the cost of laptops and phones for consumers."
+   ],
+   "sources": [
+    {
+     "t": "$803-828B 2026 capex (HyperAI)",
+     "u": "https://hyper.ai/en/stories/243495b33adb20d879ecfc2fd066269b"
+    },
+    {
+     "t": "Q4 capex guides, Microsoft over $50B (FourWeekMBA)",
+     "u": "https://fourweekmba.com/ai-big-tech-and-spacex-guide-q4-capex-up-to-270b-above-q3/"
+    },
+    {
+     "t": "Winners and losers of spending week (Motley Fool via Webull)",
+     "u": "https://www.webull.com/news/15339040379773952"
+    },
+    {
+     "t": "Oracle $20B filing (Winzheng)",
+     "u": "https://www.winzheng.com/en/article/oracle-20-billion-stock-bond-offering-ai-infrastructure-2026"
+    },
+    {
+     "t": "Meta cash outflow, AI financing worries (IfYouSpent)",
+     "u": "https://news.ifyouspent.com/en/news/big-tech-earnings-what-to-watch-october-2026"
+    },
+    {
+     "t": "2027 capex above $1T (AllMind)",
+     "u": "https://allmind.ai/news/8d47c8f128d751309b3c77583794e820b0c42532813f7215ca9eac8da16e815f"
+    }
+   ],
+   "num": 13
+  },
+  {
+   "key": "crypto",
+   "sec": "biz",
+   "prio": 10,
+   "when": "Volatile",
+   "headline": "Bitcoin Slides After Record $6.3 Billion Binance Heist",
+   "deck": "North Korea-linked hackers drained the world's largest exchange; bitcoin fell below $76,000 as ETF money flowed out.",
+   "summary": "Binance lost $6.3B in an Oct. 29 hack; BTC ~$76-77K; post-midterm rally erased; tougher crypto law likely.",
+   "paras": [
+    "Hackers stole about $6.3 billion from Binance on Oct. 29, the largest crypto theft on record and roughly four times Bybit's 2025 loss. Blockchain analysts at TRM Labs attributed it with high confidence to North Korea's TraderTraitor group. Binance says it will cover customer losses from its emergency fund (SAFU) and corporate money; Tether and Circle froze roughly $1.8 billion of stolen stablecoins.",
+    "Bitcoin fell about 5% to below $77,000 after the hack and dipped under $76,000 on Nov. 5 as U.S. spot bitcoin and ether ETFs saw about $530 million of net outflows. October was bitcoin's weakest October since 2016 (-7.3%). Ether traded near $2,200-2,300.",
+    "Politics matters too: Schwab expects the new Democratic Congress to push a crypto market-structure bill that is \"much tougher\" on crypto companies than the version that collapsed in the Senate in September."
+   ],
+   "money": [
+    "Exchange risk is real: coins held on an exchange are only as safe as that exchange. Long-term holders often move coins to a hardware wallet they control.",
+    "After every hack, scammers send fake \"refund\" and \"support\" messages. Never click links or share seed phrases; use only the official app.",
+    "Some traders buy fear-driven dips; others wait for ETF flows to turn positive. Either way, only risk money you can afford to lose.",
+    "Tighter rules could weigh on crypto-company stocks (exchanges, miners) more than on bitcoin itself."
+   ],
+   "sources": [
+    {
+     "t": "Binance hack facts and attribution (ChangeNOW)",
+     "u": "https://changenow.io/blog/binance-hack-2026"
+    },
+    {
+     "t": "What we know (Al Jazeera)",
+     "u": "https://aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+    },
+    {
+     "t": "ETF outflows, price below $76K (CoinGape via Coinalyze)",
+     "u": "https://coinalyze.net/bitcoin/usdc/deribit/btc_usdc-10nov26/price-chart-live/"
+    },
+    {
+     "t": "Weakest October since 2016 (CryptoTicker)",
+     "u": "https://cryptoticker.io/en/bitcoin-monthly-returns-november/"
+    },
+    {
+     "t": "Democrats' win and crypto rules (Schwab)",
+     "u": "https://www.schwabassetmanagement.com/story/democrats-win-policy-and-market-implications"
+    }
+   ],
+   "num": 14
+  },
+  {
+   "key": "washington",
+   "sec": "world",
+   "prio": 11,
+   "when": "Dec 11 deadline",
+   "headline": "A Democratic Congress Means Gridlock, Oversight and a December Shutdown Test",
+   "deck": "Markets usually like divided government. The first test is a Dec. 11 funding deadline.",
+   "summary": "Democrats won both chambers; expect gridlock, a Dec 11 shutdown fight, a 2027 debt-ceiling fight and tougher crypto rules.",
+   "paras": [
+    "Democrats won majorities in both the House and the Senate on Nov. 3, setting up two years of divided government under President Trump. Analysts at Schwab expect gridlock, a potential government shutdown in December, a debt-ceiling fight in 2027 and tougher proposals on cryptocurrency and data centers. Because Democrats control the Senate, judges, cabinet officials and Federal Reserve nominees will now need Democratic votes.",
+    "Federal funding runs out Dec. 11; a lapse would start Dec. 12. In Los Angeles, Nithya Raman takes office as mayor on Dec. 14 after defeating Karen Bass."
+   ],
+   "money": [
+    "Historically, markets have tended to rise in the months after midterms as uncertainty clears, and gridlock limits surprise laws that could hit earnings. Past patterns are not guarantees.",
+    "Defense spending is one area with bipartisan support, according to State Street analysts.",
+    "If you are a federal contractor or depend on SBA loans or federal permits, build a cash cushion for a possible mid-December shutdown."
+   ],
+   "sources": [
+    {
+     "t": "Democrats' win: policy and market implications (Schwab)",
+     "u": "https://www.schwabassetmanagement.com/story/democrats-win-policy-and-market-implications"
+    },
+    {
+     "t": "Midterms and markets (State Street)",
+     "u": "https://www.ssga.com/in/en_gb/individual/insights/us-midterms-limited-change-now-greater-policy-risks-ahead"
+    },
+    {
+     "t": "Fed and confirmations under a Democratic Senate (Lombard Odier)",
+     "u": "https://www.lombardodier.com/insights/2026/september/us-midterms-and-a-narrower.html"
+    }
+   ],
+   "num": 15
+  },
+  {
+   "key": "bankrupt",
+   "sec": "biz",
+   "prio": 12,
+   "when": "Ongoing",
+   "headline": "Franchise Bankruptcies Pile Up as Lease and Credit Costs Bite",
+   "deck": "A Denny's operator, a Mattress Firm franchisee and a string of restaurant groups filed this month.",
+   "summary": "Denny's operator, Mattress Firm franchisee, restaurant groups filed Ch. 11; liquidations create bargains.",
+   "paras": [
+    "A wave of mid-size franchise failures continued. Texas-based EYM Diner, operator of about 30 Denny's restaurants, filed for Chapter 11 on Nov. 5, the latest blow to former mega-franchisee EYM Group. Mattress Firm franchisee D&amp;A Mattress, with stores in Texas and New Mexico, filed on Nov. 2, citing a pattern of elevated lease costs, softer demand for discretionary goods and tighter credit for franchisees.",
+    "Other recent filings include Out West Restaurant Group and Cerca Trova Restaurant Group in Delaware, holding company Bamboo Purchaser (liabilities of $100 million to $500 million), Florida produce firm Mancini Foods, and pecan-candy brand Stuckey's, which says it will keep operating."
+   ],
+   "money": [
+    "Chapter 11 cases often lead to store closures and court-approved liquidation sales. Restaurant equipment, fixtures and retail inventory frequently sell at steep discounts through auctions, which is a source of cheap stock for resellers and new business owners.",
+    "Closed restaurant sites can mean negotiable leases for anyone opening a new business, since landlords want vacancies filled.",
+    "If you hold gift cards or deposits with a struggling chain, use them quickly; in bankruptcy you may become an unsecured creditor."
+   ],
+   "sources": [
+    {
+     "t": "Denny's operator files (Nation's Restaurant News)",
+     "u": "https://www.nrn.com/family-dining/a-30-unit-denny-s-operator-files-for-bankruptcy"
+    },
+    {
+     "t": "Mattress Firm franchisee files (L'Express Franchise)",
+     "u": "https://lexpress-franchise.com/en-us/news/da-mattress-mattress-firm-franchisee-chapter-11-texas/"
+    },
+    {
+     "t": "Out West / Cerca Trova filings (Bondoro)",
+     "u": "https://bondoro.com/out-west-restaurant-group-filing-alert/"
+    },
+    {
+     "t": "Bamboo Purchaser (Bloomberg Tax)",
+     "u": "https://news.bloombergtax.com/bankruptcy-law/bamboo-purchaser-files-for-ch-11-bankruptcy-in-delaware"
+    },
+    {
+     "t": "Mancini Foods (Blue Book)",
+     "u": "https://www.bluebookservices.com/?p=456412"
+    },
+    {
+     "t": "Stuckey's (WRDW)",
+     "u": "https://www.wrdw.com/2026/10/30/stuckeys-turns-chapter-11-bankruptcy-after-recent-plant-closure/?outputType=amp"
+    }
+   ],
+   "num": 16
+  },
+  {
+   "key": "tipsot",
+   "sec": "law",
+   "prio": 13,
+   "when": "Tax season",
+   "headline": "\"No Tax on Tips\" Stops at the California Border",
+   "deck": "The federal deductions for tips and overtime are real, but Californians still owe state tax on every dollar.",
+   "summary": "Federal tips (up to $25K) and overtime deductions apply; California does not conform, so add them back on Form 540.",
+   "paras": [
+    "The 2025 federal tax law created deductions of up to $25,000 for qualified tips and a separate deduction for overtime premium pay, running through 2028 and phasing out at higher incomes. New 2026 W-2 codes (Box 12 code TP for tips, TT for overtime) will report the amounts.",
+    "California's Franchise Tax Board says the state does not conform to either deduction. Workers who take them on their federal return must add the amounts back on California Form 540, where the income is taxed at state rates up to 13.3%."
+   ],
+   "money": [
+    "Tipped and hourly workers: keep your own log of tips and overtime and check that your W-2 reports them correctly; that is what unlocks the federal deduction.",
+    "Do not expect a matching state refund; budget for California tax on that income.",
+    "Employers: misreporting on the new W-2 codes can bring penalties of about $310 per form."
+   ],
+   "sources": [
+    {
+     "t": "State-by-state conformity (US Tax Tools)",
+     "u": "https://ustax.tools/tips-overtime-tax-by-state/"
+    },
+    {
+     "t": "California does not conform (EY Tax News)",
+     "u": "https://taxnews.ey.com/news/2026-0665-california-law-largely-does-not-conform-to-obbba-provisions-affecting-compensation-and-benefits"
+    },
+    {
+     "t": "W-2 codes and penalties (Clockspot)",
+     "u": "https://www.clockspot.com/research/no-tax-on-tips-and-overtime"
+    },
+    {
+     "t": "Overtime in California (CountryTaxCalc)",
+     "u": "https://www.countrytaxcalc.com/tax-guides/usa/no-tax-on-overtime-california-2026/"
+    }
+   ],
+   "num": 17
+  },
+  {
+   "key": "tariffmap",
+   "sec": "trade",
+   "prio": 14,
+   "when": "In force",
+   "headline": "Where Tariffs Stand Now: Autos, Chips, Canada, Brazil",
+   "deck": "With the emergency tariffs gone, the administration leans on older trade laws. A divided Congress adds a new wildcard.",
+   "summary": "Active: autos 25%, semiconductors 25%, Canada 50% on $20B, Brazil 25%, forced-labor 10-12.5%; Congress now Democratic.",
+   "paras": [
+    "Today's tariff wall is built from other statutes. Under Section 232, autos and parts carry 25% for most countries (15% for Japan, South Korea and the U.K.), certain semiconductors 25% since Jan. 14, 2026, and lumber 10%. Under Section 338, Canada faces 50% duties on about $20 billion of goods since Aug. 22, modified Oct. 30 and now challenged in court. Brazil faces 25% on about $7 billion of exports, and a Section 301 forced-labor action imposed 10% to 12.5% on goods from 60 trading partners in July.",
+    "On Oct. 30, the administration said it would not impose new Section 232 tariffs on wind turbines, robots and industrial machinery. A 10% tariff on Nicaragua is scheduled for Jan. 1, 2027.",
+    "Democrats now control both chambers. Trade policy remains largely in White House hands, but expect hearings and court challenges."
+   ],
+   "money": [
+    "Tariffs on new autos and parts tend to raise demand and prices for used vehicles and recycled/used parts. That helps salvage, repair and resale businesses.",
+    "Canadian-made goods hit by 50% duties may be cheaper to source from domestic or Mexican suppliers; check USMCA eligibility.",
+    "The decision not to tariff robots and industrial machines lowers the cost of automating a small factory or shop."
+   ],
+   "sources": [
+    {
+     "t": "Tariff tracker (TecEx)",
+     "u": "https://tecex.com/tariff-tracker/"
+    },
+    {
+     "t": "Section 232 decision on robots, machines (V. Alexander)",
+     "u": "https://www.valexander.com/?p=3610"
+    },
+    {
+     "t": "Section 338 Canada challenge (Sandler, Travis &amp; Rosenberg)",
+     "u": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/tariff-changes-for-imports-from-china-made-official"
+    },
+    {
+     "t": "Midterms and trade powers (Brown Brothers Harriman)",
+     "u": "https://www.bbh.com/us/en/insights/investor-services-insights/how-might-the-2026-us-midterms-influence-financial-markets.html"
+    }
+   ],
+   "num": 18
+  },
+  {
+   "key": "work",
+   "sec": "law",
+   "prio": 15,
+   "when": "Jan 1, 2027",
+   "headline": "Minimum Wage Hits $17.40, and Eight New Workplace Laws Arrive Jan. 1",
+   "deck": "AI-driven layoffs now need notice, \"stay-or-pay\" clawbacks are curbed, and the salary floor for exempt staff rises.",
+   "summary": "CA min wage $17.40, exempt salary $72,384; new laws on AI layoffs, surveillance, stay-or-pay, privacy.",
+   "paras": [
+    "California's minimum wage rises to $17.40 an hour on Jan. 1, 2027, for all employers, which lifts the minimum salary for exempt employees to $72,384 a year. Many cities and counties, including Los Angeles, set higher local rates.",
+    "New laws taking effect include SB 951, which brings AI-related layoffs under California's WARN notice rules; AB 1331 on workplace surveillance; and AB 1697, which applies the ban on \"stay-or-pay\" repayment clauses (such as clawing back training costs or sign-on bonuses) to contracts signed on or after Jan. 1, 2027. AB 2155 aligns state arbitration rules with federal law, SB 923 expands privacy-deletion rights to data collected \"from or about\" a person, and AB 2495 broadens limits on immigration-related threats by employers. A separate change ends private \"pen register\" lawsuits over common website cookies and pixels."
+   ],
+   "money": [
+    "Workers: if you signed a contract requiring you to repay training or a bonus if you quit, the new rules may make it unenforceable for agreements dated in 2027 and later.",
+    "Employers: reclassify any exempt employee earning under $72,384 or raise their pay before Jan. 1 to avoid overtime claims.",
+    "Small websites and online sellers face less risk of tracking-pixel lawsuits, a meaningful legal-cost saving."
+   ],
+   "sources": [
+    {
+     "t": "New California laws for 2027 (Faegre Drinker)",
+     "u": "https://www.faegredrinker.com/en/insights/publications/2026/10/new-california-laws-for-2027-and-beyond-what-employers-should-know"
+    },
+    {
+     "t": "Employment laws for 2027 (CDF Labor Law)",
+     "u": "https://www.cdflaborlaw.com/blog/new-california-employment-laws-for-2027-what-employers-need-to-know"
+    },
+    {
+     "t": "Exempt salary $72,384 (CalChamber HRWatchdog)",
+     "u": "https://hrwatchdog.calchamber.com/?p=18863"
+    }
+   ],
+   "num": 19
+  },
+  {
+   "key": "housing",
+   "sec": "law",
+   "prio": 16,
+   "when": "In effect",
+   "headline": "L.A. Rent Rules: 1% to 4% Caps and New Court Limits",
+   "deck": "About 650,000 rent-stabilized units now follow a CPI-based formula, and a court struck a relocation-payment rule.",
+   "summary": "LA RSO increases capped 1-4% (90% of CPI), utility add-ons ended; court struck LA's rent-hike relocation rule.",
+   "paras": [
+    "Los Angeles's overhauled Rent Stabilization Ordinance sets annual increases at 90% of inflation, with a 1% floor and 4% ceiling, for roughly 650,000 units in buildings with two or more units built before Oct. 1, 1978, and removes extra charges for gas and electricity. The city also runs a Right to Counsel program providing attorneys to low-income tenants facing eviction.",
+    "Separately, a state appeals court struck down L.A.'s rule requiring relocation assistance when a large rent increase pushes a tenant out, and the city released an updated Renter Protections Notice that landlords must use for the July 2026-June 2027 period."
+   ],
+   "money": [
+    "Tenants in pre-1978 buildings: check that any increase is within the allowed percentage; overcharges can be challenged through the L.A. Housing Department.",
+    "Landlords: the cap compresses income on older buildings; newer (post-1978) and single-family rentals fall under different, generally looser state rules.",
+    "Investors often price RSO buildings lower, which can create bargains for buyers who plan around the caps."
+   ],
+   "sources": [
+    {
+     "t": "RSO 1%-4% caps (Barnes &amp; Thornburg)",
+     "u": "https://general.btlaw.com/post/102luow/los-angeles-sets-new-1-to-4-cap-on-rso-rent-increases-what-landlords-should-kn"
+    },
+    {
+     "t": "650,000 units, utility charges (AFM Local 47)",
+     "u": "https://afm47.org/press/great-news-for-l-a-renters-larso-caps-pass/"
+    },
+    {
+     "t": "Relocation rule struck, new notice (CAA)",
+     "u": "https://caanet.org/?p=107078"
+    },
+    {
+     "t": "Right to Counsel (AAGLA)",
+     "u": "https://members.aagla.org/news/the-year-in-review-local-housing-ordinances-passed-during-2025"
+    }
+   ],
+   "num": 20
+  },
+  {
+   "key": "insure",
+   "sec": "law",
+   "prio": 17,
+   "when": "Renewals",
+   "headline": "Home Insurance: FAIR Plan Up 29%, New Wildfire Protections",
+   "deck": "Premiums keep climbing, but new laws strengthen smoke-damage coverage and mortgage relief after disasters.",
+   "summary": "FAIR Plan rates +29.1% from Oct 15; ~1M pushed off standard market; new laws on smoke damage and mortgage relief.",
+   "paras": [
+    "California's FAIR Plan, the insurer of last resort, raised rates an average of 29.1% starting Oct. 15. Roughly a million Californians have been pushed off the standard market, where premiums are up about 84% since 2020.",
+    "On Sept. 15, Gov. Newsom signed four bills expanding mortgage protections after disasters, strengthening insurance coverage (including for smoke damage), and setting the country's first enforceable standards for testing and cleaning smoke-damaged homes. Insurers had paid about $23.7 billion on roughly 42,000 claims from the January 2025 fires as of March 2026."
+   ],
+   "money": [
+    "Get quotes from standard insurers at every renewal; some have re-entered parts of the market, and FAIR Plan plus a \"difference in conditions\" policy is not always cheapest.",
+    "Home-hardening steps (ember-resistant vents, cleared defensible space) can qualify for mitigation discounts.",
+    "After any disaster, document everything immediately; new rules give at least 100 days to submit proof of loss after a declared emergency."
+   ],
+   "sources": [
+    {
+     "t": "Wildfire recovery package (Office of the Governor)",
+     "u": "https://www.gov.ca.gov/2026/09/15/governor-newsom-signs-wildfire-recovery-package-to-strengthen-protections-and-focus-on-rebuilding-for-survivors/"
+    },
+    {
+     "t": "Insurance bills, 84% premium rise (Sovereign Magazine)",
+     "u": "https://sovereignmagazine.com/article/california-home-insurance-bills-newsom-desk"
+    },
+    {
+     "t": "100 days proof of loss (InsuranceNewsNet)",
+     "u": "https://insurancenewsnet.com/oarticle/lara-applauds-governors-signing-of-new-consumer-protections-for-california-wildfire-survivors"
+    }
+   ],
+   "num": 21
+  },
+  {
+   "key": "power",
+   "sec": "ai",
+   "prio": 18,
+   "when": "Long-term",
+   "headline": "AI's Electric Bill: Utilities and Grid Suppliers Cash In, Households Pay More",
+   "deck": "Data-center demand is lifting power prices and fueling a backlash, which is pushing tech companies to pay their own way.",
+   "summary": "PJM capacity prices up 11x; $150B+ of projects delayed by pushback; utilities and grid-equipment makers benefit.",
+   "paras": [
+    "Power is the bottleneck for AI. In the PJM grid that serves 13 Eastern states, capacity prices jumped from $28.92 per megawatt-day for 2024-25 to $329.17 for 2026-27. More than $150 billion of data-center projects have been delayed or canceled since 2023 because of local opposition, and a Gallup poll found 71% of Americans oppose a data center nearby.",
+    "Tech companies are responding with deals that have them fund new generation; utilities that sign them say customers can see savings of $100 or more a year. Equipment makers such as Eaton and GE Vernova have risen with AI stocks. Residential electricity prices hit record highs."
+   ],
+   "money": [
+    "Regulated utilities with signed data-center contracts, and makers of transformers, switchgear and turbines, are the steadier way investors play AI power demand.",
+    "For households, rising rates improve the payback on efficiency upgrades; check LADWP or SCE rebates, since some state programs are paused (see California Benefits).",
+    "Risk: if AI spending slows, power stocks priced for endless growth can fall hard, as happened in late 2025."
+   ],
+   "sources": [
+    {
+     "t": "PJM capacity prices, Gallup poll (Traders Union)",
+     "u": "https://tradersunion.com/news/financial-news/show/2484414-ai-data-centers-power-utilities/"
+    },
+    {
+     "t": "Trillion-dollar electric bill (Barron's via Tiger)",
+     "u": "https://www.itiger.com/news/2614353891"
+    },
+    {
+     "t": "Record residential prices (Capital Group)",
+     "u": "https://www.capitalgroup.com/individual/ca/en/insights/articles/ai-supercharges-rise-electricity-prices.html"
+    }
+   ],
+   "num": 22
+  },
+  {
+   "key": "aiprod",
+   "sec": "ai",
+   "prio": 19,
+   "when": "This month",
+   "headline": "The AI Product Race: ChatGPT Search Grows, OpenAI Cuts Off Cursor, Siri Goes Gemini",
+   "deck": "Platforms are closing ranks, which matters for small businesses that build on them or depend on search traffic.",
+   "summary": "ChatGPT search ~1/5 of Google; OpenAI cuts Cursor Nov 12 and gates routers Nov 20; Meta pauses scraping terms.",
+   "paras": [
+    "OpenAI says ChatGPT's search volume has reached about one-fifth of Google's. OpenAI will stop supplying its models to the coding tool Cursor on Nov. 12 after SpaceX bought Cursor, and from Nov. 20 will require approval for services that resell direct model access, such as model routers and AI gateways.",
+    "Meta indefinitely paused a Nov. 20 terms change that would have let it scrape websites of Meta Business users, after rulings in Norway and Brazil. Apple's rebuilt Siri, unveiled at WWDC in June, runs partly on a custom Google Gemini model under a deal reported at about $1 billion a year. The frontier-model race continues among OpenAI, Google, Anthropic, Meta and Chinese labs, with new releases nearly every week."
+   ],
+   "money": [
+    "If customers find you through search, optimize for AI answers too: clear prices, hours, reviews and FAQs on your site make it easier for AI assistants to recommend you.",
+    "Businesses that rely on one AI vendor through a third-party app face platform risk (Cursor users just learned this); keep a backup tool.",
+    "Competition keeps cutting AI prices; recheck your AI subscriptions and API plans every few months."
+   ],
+   "sources": [
+    {
+     "t": "ChatGPT search one-fifth of Google (MarketingProfs)",
+     "u": "https://www.marketingprofs.com/opinions/2026/56257/ai-update-november-6-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+     "t": "OpenAI ends Cursor access (AI/TLDR)",
+     "u": "https://ai-tldr.dev/releases/org/openai/"
+    },
+    {
+     "t": "Router approval from Nov. 20 (OpenTools)",
+     "u": "https://opentools.ai/news/openai-to-launch-sora-2-and-ai-powered-tiktok-like-app"
+    },
+    {
+     "t": "Meta pauses scraping terms (AI Weekly)",
+     "u": "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+    },
+    {
+     "t": "Siri AI on Gemini (The Next Web)",
+     "u": "https://thenextweb.com/news/apple-wwdc-2026-siri-ai-gemini-ios-27"
+    }
+   ],
+   "num": 23
+  },
+  {
+   "key": "aireg",
+   "sec": "ai",
+   "prio": 20,
+   "when": "Congress",
+   "headline": "Who Regulates AI? Washington's Preemption Push Meets a New Congress",
+   "deck": "Federal efforts to override state AI laws have stalled repeatedly; California's rules stay in force for now.",
+   "summary": "Federal push to preempt state AI laws stalled; 3-year freeze draft opposed; CA SB 53 and AI-layoff notices stand.",
+   "paras": [
+    "The administration has pushed for one federal AI standard that overrides state laws, through a December 2025 executive order creating an AI Litigation Task Force and a March 2026 national framework. In Congress, a bipartisan draft called the Great American AI Act would freeze state laws on how AI models are developed for three years. More than 200 state lawmakers from 42 states have urged Congress to reject any preemption.",
+    "Meanwhile California's own rules keep expanding, including frontier-model transparency requirements and, from Jan. 1, notice rules for AI-related layoffs. A divided Congress makes sweeping federal AI legislation harder."
+   ],
+   "money": [
+    "Companies using AI to screen job applicants, set prices or replace staff in California should plan to follow state rules; preemption is not coming quickly.",
+    "Compliance, audit and AI-safety tooling is a growing business as rules multiply."
+   ],
+   "sources": [
+    {
+     "t": "Great American AI Act draft (Broadband Breakfast)",
+     "u": "https://www.broadbandbreakfast.com/ai-preemption-battle-lands-in-congress-with-substantive-discussion-draft/"
+    },
+    {
+     "t": "200+ state lawmakers oppose (Route Fifty)",
+     "u": "https://www.route-fifty.com/artificial-intelligence/2026/06/worries-mount-about-another-state-ai-law-preemption/414244/"
+    },
+    {
+     "t": "Preemption history (Washington Legal Foundation)",
+     "u": "https://www.wlf.org/2026/06/22/wlf-legal-pulse/compromise-necessary-but-not-sufficient-for-ai-preemption/"
+    }
+   ],
+   "num": 24
+  },
+  {
+   "key": "credits",
+   "sec": "prog",
+   "prio": 21,
+   "when": "Tax season",
+   "headline": "Cash-Back Credits Most Eligible Californians Miss",
+   "deck": "The CalEITC pays up to $3,756, and families with a child under 6 can add $1,189, even with little or no tax owed.",
+   "summary": "CalEITC up to $3,756; Young Child Tax Credit up to $1,189; Foster Youth credit $1,189; ITIN filers can qualify.",
+   "paras": [
+    "California's Earned Income Tax Credit refunds up to $3,756 to low-income working Californians, and it is refundable, so you get cash back even if you owe nothing. Families who qualify and have a child under 6 can add the Young Child Tax Credit of up to $1,189 per child, and former foster youth ages 18-25 can claim up to $1,189 more (tax year 2025 amounts).",
+    "Unlike the federal EITC, the CalEITC is available to ITIN filers. The Young Child Tax Credit can be claimed even with $0 of earned income if you otherwise qualify. You must file a California return to get the money."
+   ],
+   "money": [
+    "File a state return even if your income is low; free filing help is available through IRS VITA sites and the FTB's tools.",
+    "Self-employment income counts as earned income; side hustlers often qualify.",
+    "Stack with the federal EITC and child tax credit for a larger total refund."
+   ],
+   "sources": [
+    {
+     "t": "CalEITC (Franchise Tax Board)",
+     "u": "https://ftb.ca.gov/file/personal/credits/caleitc/index.html"
+    },
+    {
+     "t": "Young Child Tax Credit (Franchise Tax Board)",
+     "u": "https://www.ftb.ca.gov/about-ftb/newsroom/caleitc/index.html"
+    },
+    {
+     "t": "$0 earned income rule (Reed Corp)",
+     "u": "https://reedcorp.tax/helpful-guides/california/california-young-child-tax-credit/"
+    }
+   ],
+   "num": 25
+  },
+  {
+   "key": "homebuy",
+   "sec": "prog",
+   "prio": 22,
+   "when": "Get ready",
+   "headline": "Buying a Home: Up to $150,000 in Help, If You Prepare Before the Next Lottery",
+   "deck": "Dream For All's 2026 round is closed and no 2027 date is set, but buyers who are pre-qualified will be first in line.",
+   "summary": "Dream For All: up to 20%/$150K; next round unannounced; CalHFA MyHome up to 3.5%; $11.25B housing bond.",
+   "paras": [
+    "CalHFA's Dream For All program lends first-generation, first-time buyers up to 20% of the price, capped at $150,000, for the down payment; nothing is repaid until the home is sold or refinanced, when the state shares in the appreciation. The 2026 round ran Feb. 24-March 16 by random lottery with $150 million to $200 million available. No date has been set for the next round.",
+    "CalHFA's MyHome program offers up to 3.5% of the price for down payment and closing costs alongside a CalHFA first mortgage, and many cities run their own grants. Voters also had an $11.25 billion affordable-housing bond on the November ballot that includes homeownership programs."
+   ],
+   "money": [
+    "Get pre-qualified now with a CalHFA-approved lender and take the required homebuyer education course, so you can apply the day a new round opens.",
+    "Rates near 7% make assistance more valuable; 20% down also removes private mortgage insurance.",
+    "Understand the trade-off: shared appreciation means giving up part of future gains in exchange for help today."
+   ],
+   "sources": [
+    {
+     "t": "Dream For All guide and status (SuperMoney)",
+     "u": "https://www.supermoney.com/california-dream-for-all-program"
+    },
+    {
+     "t": "CalHFA announcement (CalHFA)",
+     "u": "https://calhfa.ca.gov/about/press/press-releases/2026/pr2026-01-16.htm"
+    },
+    {
+     "t": "State down payment programs (SuperMoney)",
+     "u": "https://www.supermoney.com/down-payment-assistance-programs-in-california"
+    },
+    {
+     "t": "$11.25B housing bond (HousingWire)",
+     "u": "https://www.housingwire.com/articles/california-budget-housing-funding/"
+    }
+   ],
+   "num": 26
+  },
+  {
+   "key": "energy",
+   "sec": "prog",
+   "prio": 23,
+   "when": "Waitlist",
+   "headline": "Heat Pump Rebates Ran Dry. Here Is What Is Still Available",
+   "deck": "State and federal heat-pump money is fully reserved, the federal tax credit expired, but utility rebates and a new federal program remain.",
+   "summary": "TECH and HEEHRA rebates fully reserved (waitlist); 25C credit ended; LADWP rebates and HOMES program pending.",
+   "paras": [
+    "TECH Clean California stopped accepting new single-family heat-pump reservations, and the income-qualified federal HEEHRA rebates (up to $8,000) were fully reserved statewide by Feb. 24, 2026; new requests go to a waitlist. The federal 25C tax credit for heat pumps ended for installs after Dec. 31, 2025.",
+    "Still available: utility rebates (LADWP offers roughly $1,250 to $2,500 per ton for heat pumps, according to local contractors) and the federally funded HOMES whole-home efficiency program, which is funded at $291 million in California but pending launch."
+   ],
+   "money": [
+    "Get on the HEEHRA waitlist through a TECH-certified contractor if you are income-qualified; rebates apply only to installs after your reservation is approved.",
+    "Ask your utility (LADWP, SCE, SoCalGas) for current rebates before buying any HVAC system.",
+    "Contractors who track reopenings can win jobs when funds return."
+   ],
+   "sources": [
+    {
+     "t": "HEEHRA rebates (Switch Is On)",
+     "u": "https://www.switchison.org/techcleanca/heehra"
+    },
+    {
+     "t": "Statewide reservation status (Venta HVAC)",
+     "u": "https://ventahvac-site.pages.dev/rebates-and-tax-credits/"
+    },
+    {
+     "t": "HOMES program status (Energy Rebate Calculator)",
+     "u": "https://energyrebatecalculator.com/rebates/california"
+    }
+   ],
+   "num": 27
+  },
+  {
+   "key": "smallbiz",
+   "sec": "prog",
+   "prio": 24,
+   "when": "Rolling",
+   "headline": "Money for Small Businesses: Grants, Credits and Free Help",
+   "deck": "Most grants are small and competitive; the bigger dollars are in tax credits, refunds and free consulting.",
+   "summary": "LA County $3K recovery grants; California Competes credit ($215M); free SBDC consulting; tariff refunds; rent relief.",
+   "paras": [
+    "GrantWatch lists more than 400 open small-business grants in California, typically $20,000 to $1 million, with November the busiest deadline month. Locally, L.A. County's Department of Economic Opportunity lists $3,000 Small Business Recovery Grants, and Council District 14 has offered microenterprise grants of up to $3,000.",
+    "Bigger money comes through tax credits: the California Competes Tax Credit has about $215 million for 2026-27 for businesses that create jobs and invest. The state also funds free consulting and capital-access help through Small Business Development Centers. L.A. County's Emergency Rent Relief Program has run additional rounds for residents hit by the 2025 fires or income loss."
+   ],
+   "money": [
+    "Start with free SBDC advising; advisors help with grant applications, loans and the California Competes credit.",
+    "If you imported goods in 2025, the tariff refund (see Trade &amp; Tariffs) may be worth more than most grants.",
+    "Grant scams are common; real government grants never charge an application fee."
+   ],
+   "sources": [
+    {
+     "t": "California small business grants (GrantWatch)",
+     "u": "https://california.grantwatch.com/cat/13/small-business-grants.html"
+    },
+    {
+     "t": "LA County recovery grant listing (GrantExec)",
+     "u": "https://grantexec.com/grants/state/california/page/4"
+    },
+    {
+     "t": "California Competes $215M (Granted AI)",
+     "u": "https://grantedai.com/grants/california-digital-tools-for-small-business-resilience-the-grant-portal-administered-through-va-7f984e7b"
+    },
+    {
+     "t": "SBDC programs (CalOSBA)",
+     "u": "https://calosba.ca.gov/wp-content/uploads/TAP-2026-2027_Program-Announcement.pdf"
+    },
+    {
+     "t": "LA County emergency rent relief (FOX 11)",
+     "u": "https://www.foxla.com/news/la-county-emergency-rent-relief-second-round-2026"
+    }
+   ],
+   "num": 28
+  },
+  {
+   "key": "seniors",
+   "sec": "prog",
+   "prio": 25,
+   "when": "Jan 2027",
+   "headline": "Social Security Rises 3.6%; Other Help for Seniors and Low-Income Families",
+   "deck": "The 2027 cost-of-living raise is the biggest in years, but Medicare premiums rise too.",
+   "summary": "Social Security COLA 3.6% for 2027; taxable max $192,300; LA County guaranteed-income selections Nov 10.",
+   "paras": [
+    "Social Security and SSI payments rise 3.6% in January 2027, reflecting higher inflation. The maximum earnings subject to Social Security tax rises to $192,300, and the standard Medicare Part B premium is projected at about $209.50 a month.",
+    "In Los Angeles County, a guaranteed-income pilot for General Relief recipients pays selected participants $13,200 over 24 months; applications closed Oct. 27 and selections are scheduled for Nov. 10."
+   ],
+   "money": [
+    "Retirees: check whether your Part B increase eats part of your raise, and review Medicare Advantage or Part D plans during open enrollment, which ends Dec. 7.",
+    "High earners: wages above $192,300 are not subject to the 6.2% Social Security tax.",
+    "If you are 62-70, every year you delay claiming raises your benefit permanently, a guaranteed, inflation-adjusted return."
+   ],
+   "sources": [
+    {
+     "t": "2027 COLA 3.6% (401k Specialist)",
+     "u": "https://401kspecialistmag.com/2027-401k-contribution-limits-all-but-official-25500-expected/"
+    },
+    {
+     "t": "LA County guaranteed income program (211 LA)",
+     "u": "https://211la.org/services/Hxw433jl1IqX2qDgtdqpey8SnwzBqQ/basic-income-maintenance-programs"
+    },
+    {
+     "t": "Social Security (SSA)",
+     "u": "https://www.ssa.gov/cola/"
+    }
+   ],
+   "num": 29
+  }
+ ],
+ "board": [
+  [
+   "Fed funds rate",
+   "3.75-4.00%"
+  ],
+  [
+   "Dec. hike odds",
+   "~82%"
+  ],
+  [
+   "30-yr mortgage",
+   "7.18%"
+  ],
+  [
+   "Brent crude",
+   "~$99 (-12% wk)"
+  ],
+  [
+   "Gold",
+   "~$4,100"
+  ],
+  [
+   "Bitcoin",
+   "~$76-77K"
+  ],
+  [
+   "Sept. CPI",
+   "3.7% y/y"
+  ],
+  [
+   "CA min. wage 1/1",
+   "$17.40"
+  ]
+ ],
+ "lead": {
+  "headline": "A Tariff Cliff, an Inflation Test and the Biggest IPO Ever: The Week That Could Move Your Money",
+  "deck": "China duty exclusions expire Monday night, October inflation lands Tuesday, Russia and Ukraine meet in Abu Dhabi, and a record AI listing may begin marketing, all in the next 72 hours."
+ },
+ "frontCols": [
+  [
+   "china301",
+   "markets",
+   "ipo"
+  ],
+  [
+   "ukraine",
+   "iran"
+  ],
+  [
+   "tax2027",
+   "health",
+   "crypto"
+  ]
+ ],
+ "board_note": "Figures as of Nov. 5-6; sources in each story."
+}
