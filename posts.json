@@ -1,0 +1,2705 @@
+{
+ "updated": "2026-11-09T07:11:26Z",
+ "items": [
+  {
+   "id": "cola-2027",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Announced Oct 14",
+   "headline": "Social Security checks rise 3.6% in January, about $75 a month",
+   "caption": "The 2027 cost-of-living raise covers 76 million people on Social Security and SSI. It is the biggest bump since 2023. SSI recipients see it first, on Dec 31.",
+   "visual": {
+    "type": "stat",
+    "title": "2027 COLA",
+    "num": "+3.6%",
+    "tone": "gain",
+    "label": "Raise for Social Security and SSI, starting with January payments.",
+    "facts": [
+     [
+      "Average retiree check",
+      "$2,170/mo",
+      "SSA estimate for Jan 2027"
+     ],
+     [
+      "SSI raise starts",
+      "Dec 31, 2026",
+      ""
+     ],
+     [
+      "Max earnings taxed",
+      "$192,300",
+      "Up from $184,500"
+     ]
+    ]
+   },
+   "detail": [
+    "The Social Security Administration set the 2027 cost-of-living adjustment at 3.6%, based on the CPI-W inflation index. Nearly 72 million Social Security beneficiaries get it starting in January, and about 7.3 million SSI recipients get it on December 31.",
+    "It follows raises of 2.8% for 2026 and 2.5% for 2025, and is the largest since the 8.7% jump in 2023.",
+    "If you want to see your notice online, set up a my Social Security account and choose paperless notices by November 18. Paper notices go out by mail in December."
+   ],
+   "money": [
+    "Update your 2027 budget with the new amount once your notice arrives.",
+    "Still working? The cap on wages hit by Social Security tax rises to $192,300, so high earners pay a bit more.",
+    "If you are retired and have savings, the raise is a reminder to keep cash in accounts that beat inflation."
+   ],
+   "risk": [
+    "Medicare premium changes for 2027 are set separately and can eat part of the raise."
+   ],
+   "sources": [
+    {
+     "t": "COLA 2027: Social Security announces 3.6% benefit increase",
+     "d": "ssa.gov",
+     "u": "https://www.ssa.gov/news/en/mip/2026-10-01-f.html"
+    },
+    {
+     "t": "Social Security COLA 2027: what it means for checks",
+     "d": "newsnationnow.com",
+     "u": "https://www.newsnationnow.com/business/your-money/social-security-cola-2027-3/amp/"
+    },
+    {
+     "t": "2027 Social Security COLA increase: what it means and when",
+     "d": "nbcchicago.com",
+     "u": "https://www.nbcchicago.com/news/local/2027-social-security-cola-increase-heres-what-it-means-for-checks-and-when/4002339/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "tax-2027",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes"
+   ],
+   "date": "Thu Nov 5",
+   "headline": "IRS raises 2027 tax brackets and the standard deduction",
+   "caption": "The IRS adjusted nearly 70 tax rules for inflation. Single filers get a $16,600 standard deduction, married couples $33,200. Rates stay the same.",
+   "visual": {
+    "type": "board",
+    "title": "2027 standard deduction · filed in 2028",
+    "rows": [
+     {
+      "k": "Single",
+      "s": "Up $500",
+      "v": "$16,600"
+     },
+     {
+      "k": "Head of household",
+      "s": "Up $775",
+      "v": "$24,925"
+     },
+     {
+      "k": "Married filing jointly",
+      "s": "Up $1,000",
+      "v": "$33,200"
+     },
+     {
+      "k": "Child Tax Credit",
+      "s": "Per child",
+      "v": "$2,300"
+     },
+     {
+      "k": "Top 37% bracket",
+      "s": "Married, joint",
+      "v": "$793,650+"
+     }
+    ]
+   },
+   "detail": [
+    "The adjustments apply to the 2027 tax year, so they show up on returns filed in 2028 and in paycheck withholding during 2027. Tax rates themselves did not change.",
+    "Brackets are indexed to chained CPI. Inflation reached 3.7% in September, so the increases were sizable and in line with forecasts.",
+    "About 86% of filers take the standard deduction instead of itemizing."
+   ],
+   "money": [
+    "Higher brackets mean slightly less tax withheld from 2027 paychecks; check your first January pay stub.",
+    "If your itemized deductions are close to the standard amount, \"bunching\" donations into one year can push you over.",
+    "Families: the Child Tax Credit rises to $2,300 per child for 2027."
+   ],
+   "risk": [
+    "Your actual savings depend on income, filing status and credits."
+   ],
+   "sources": [
+    {
+     "t": "IRS adjusts tax brackets, standard deduction for tax year 2027",
+     "d": "cpapracticeadvisor.com",
+     "u": "https://www.cpapracticeadvisor.com/2026/11/05/irs-adjusts-tax-brackets-standard-deduction-for-tax-year-2027/193358/"
+    },
+    {
+     "t": "2027 tax brackets and standard deduction: full IRS rates",
+     "d": "foxla.com",
+     "u": "https://www.foxla.com/news/irs-2027-tax-brackets-standard-deduction"
+    },
+    {
+     "t": "Here are the new federal income tax brackets for 2027",
+     "d": "money.com",
+     "u": "https://money.com/irs-tax-brackets-standard-deduction-2027/?amp=true"
+    },
+    {
+     "t": "IRS raises 2027 brackets: what the changes mean",
+     "d": "ibtimes.co.uk",
+     "u": "https://www.ibtimes.co.uk/irs-raises-2027-tax-brackets-standard-deduction-1830574"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "limits-2027",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "markets"
+   ],
+   "date": "IRS notice due soon",
+   "headline": "Your 401(k) limit is expected to rise to $25,500 in 2027",
+   "caption": "The IRS has not announced it yet, but Milliman’s final forecast points to a $1,000 increase. HSA limits are already official: $4,500 self-only, $9,000 family.",
+   "visual": {
+    "type": "board",
+    "title": "2027 savings limits",
+    "rows": [
+     {
+      "k": "401(k) employee limit",
+      "s": "Projected · Milliman final estimate",
+      "v": "$25,500"
+     },
+     {
+      "k": "Catch-up, age 50+",
+      "s": "Projected",
+      "v": "$8,500"
+     },
+     {
+      "k": "HSA, self-only",
+      "s": "Official (IRS, May)",
+      "v": "$4,500",
+      "tone": "gain"
+     },
+     {
+      "k": "HSA, family",
+      "s": "Official (IRS, May)",
+      "v": "$9,000",
+      "tone": "gain"
+     },
+     {
+      "k": "IRA",
+      "s": "Forecasts split: $7,500–$8,000",
+      "v": "$7,500+"
+     }
+    ]
+   },
+   "detail": [
+    "Milliman’s final forecast, based on September inflation data, estimates a roughly 3.5% increase factor for 2027 retirement limits. Last year the IRS announced the 2026 limits on November 13.",
+    "Health Savings Account limits use a different formula and were published in May: $4,500 for self-only coverage and $9,000 for family coverage.",
+    "The 2026 401(k) limit is $24,500."
+   ],
+   "money": [
+    "Set your 401(k) contribution percentage in December so January paychecks start at the higher limit.",
+    "An HSA is the only account that is tax-free going in, growing and coming out for medical costs.",
+    "Self-employed? A Solo 401(k) lets you contribute as both employee and employer."
+   ],
+   "risk": [
+    "401(k) and IRA figures are projections until the IRS publishes its notice."
+   ],
+   "sources": [
+    {
+     "t": "2027 IRS limits forecast: final estimates",
+     "d": "milliman.com",
+     "u": "https://www.milliman.com/pt-BR/insight/2027-irs-limits-forecast-final-estimates"
+    },
+    {
+     "t": "2027 401(k) contribution limits all but official",
+     "d": "401kspecialistmag.com",
+     "u": "https://401kspecialistmag.com/2027-401k-contribution-limits-all-but-official-25500-expected/"
+    },
+    {
+     "t": "2027 retirement contribution limits",
+     "d": "countrytaxcalc.com",
+     "u": "https://www.countrytaxcalc.com/tax-guides/usa/2027-retirement-contribution-limits/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "edu-deduction",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "headline": "Standard deduction or itemize? The 30-second test",
+   "caption": "Which one lowers your taxes, using the new 2027 numbers.",
+   "scenes": [
+    {
+     "k": "Taxes 101",
+     "t": "Standard deduction or itemize?",
+     "s": "You get to subtract whichever is bigger from your taxable income."
+    },
+    {
+     "k": "Option 1",
+     "t": "The standard deduction.",
+     "s": "A flat amount, no receipts. For 2027: $16,600 single, $33,200 married."
+    },
+    {
+     "k": "Option 2",
+     "t": "Itemizing.",
+     "s": "Add up mortgage interest, state and local taxes, and charitable donations."
+    },
+    {
+     "k": "The test",
+     "t": "Pick the bigger number.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Standard, single",
+        "$16,600"
+       ],
+       [
+        "Your itemized total",
+        "?"
+       ]
+      ]
+     },
+     "say": "If your itemized total beats sixteen thousand six hundred dollars, itemize. If not, take the standard."
+    },
+    {
+     "k": "Reality check",
+     "t": "86% take the standard.",
+     "s": "For most people it wins without any paperwork."
+    },
+    {
+     "k": "Pro move",
+     "t": "Bunch your deductions.",
+     "s": "Close to the line? Group two years of donations into one year and itemize that year."
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "aca-2027",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Since Nov 1",
+   "headline": "ACA open enrollment is live, and benchmark premiums are up 13%",
+   "caption": "It is the second double-digit jump in a row: benchmark plans cost 42% more than in 2025. Most enrollees still get subsidies, but not above 400% of the poverty level.",
+   "visual": {
+    "type": "stat",
+    "title": "2027 ACA marketplace",
+    "num": "+13%",
+    "tone": "loss",
+    "label": "Average rise in benchmark silver premiums for 2027.",
+    "facts": [
+     [
+      "Since 2025",
+      "+42%",
+      "Benchmark silver premiums"
+     ],
+     [
+      "HealthCare.gov states",
+      "+11%",
+      ""
+     ],
+     [
+      "State-run exchanges",
+      "+16%",
+      "Includes Covered California"
+     ]
+    ]
+   },
+   "detail": [
+    "Open enrollment for 2027 coverage started November 1 in most states. The enhanced premium tax credits expired at the end of 2025, and paid enrollment fell 12% to 19.2 million by February 2026.",
+    "Deadlines shifted this year. Healthinsurance.org says enrollment ends December 15 in HealthCare.gov states and cannot run past December 31 anywhere; some news reports still cite January 15. Check your state’s exchange.",
+    "New Mexico fully replaced the lost federal help for its residents in 2026, and its enrollment grew while the national total fell."
+   ],
+   "money": [
+    "Do not auto-renew. Insurers are leaving some markets and the cheapest plan last year may not be this year.",
+    "Estimate your income carefully: subsidies are based on it, and underestimating means paying some back at tax time.",
+    "A bronze plan paired with an HSA can be cheaper for healthy people who want tax-free savings."
+   ],
+   "risk": [
+    "Missing the deadline usually means no coverage until next year unless you have a qualifying life event."
+   ],
+   "sources": [
+    {
+     "t": "9 things to watch for the 2027 ACA open enrollment period",
+     "d": "kff.org",
+     "u": "https://kff.org/affordable-care-act/9-things-to-watch-for-the-2027-aca-open-enrollment-period/"
+    },
+    {
+     "t": "With premiums on the rise, what to know as ACA enrollment begins",
+     "d": "abc7news.com",
+     "u": "https://abc7news.com/story/premiums-rise-what-know-aca-coverage-open-enrollment-begins/20009427"
+    },
+    {
+     "t": "When is the ACA’s next open enrollment period?",
+     "d": "healthinsurance.org",
+     "u": "https://www.healthinsurance.org/obamacare-enrollment-guide/when-is-the-acas-next-open-enrollment-period/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "edu-aca",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "headline": "Premiums up 13%? How ACA subsidies actually work",
+   "caption": "The income rules, the 400% cliff, and the mistake that costs people at tax time.",
+   "scenes": [
+    {
+     "k": "Health insurance 101",
+     "t": "Premiums are up 13%. Most people still pay less.",
+     "s": "Here is why."
+    },
+    {
+     "k": "The subsidy",
+     "t": "It is a tax credit based on income.",
+     "s": "The lower your income, the more of the premium it covers."
+    },
+    {
+     "k": "The cliff",
+     "t": "Above 400% of poverty: no help.",
+     "s": "The enhanced credits that removed that cliff expired at the end of 2025."
+    },
+    {
+     "k": "Watch out",
+     "t": "Your income estimate matters.",
+     "s": "Guess too low and you repay part of the credit when you file taxes."
+    },
+    {
+     "k": "Save money",
+     "t": "Never auto-renew.",
+     "s": "Plans and prices change every year. Compare before you click renew."
+    },
+    {
+     "k": "Deadline",
+     "t": "Dec 15 in most states.",
+     "s": "State-run exchanges like Covered California can differ. Check yours."
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "snap-fall",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Oct 1–Nov 4",
+   "headline": "SNAP changes this fall: new work rules, new limits, new store rules",
+   "caption": "Benefit amounts rose with inflation on Oct 1, but work requirements now reach most adults up to 64, some noncitizens lose eligibility, and stores face new stocking rules.",
+   "visual": {
+    "type": "points",
+    "title": "SNAP: what changed",
+    "items": [
+     "Oct 1: benefit amounts and income limits adjusted up for inflation",
+     "Work rules: most adults through age 64 need 80 hours a month",
+     "Some noncitizens without green cards lose eligibility",
+     "Nov 4: new stocking standards for stores that take SNAP",
+     "Several states now restrict candy and soda purchases"
+    ]
+   },
+   "detail": [
+    "The new federal fiscal year brought higher maximum benefits, higher income limits and a bigger minimum benefit on October 1.",
+    "Last year’s budget law also widened work requirements: able-bodied adults now must log 80 hours a month of work or training to keep benefits beyond three months, and the age range extends through 64. Eligibility for some noncitizens was removed.",
+    "Updated stocking standards for most SNAP-authorized stores began November 4, and some states have restricted candy and soda."
+   ],
+   "money": [
+    "If you or a family member gets SNAP, report work hours on time; missing paperwork is a common reason benefits stop.",
+    "In California, CalFresh shoppers can also get up to $60 a month back on produce at participating stores.",
+    "Food banks and school meal programs can fill gaps if benefits are cut."
+   ],
+   "risk": [
+    "Rules vary by state; check your state SNAP agency for how the changes apply to your case."
+   ],
+   "sources": [
+    {
+     "t": "SNAP benefits change in October: the new rules",
+     "d": "cronista.com",
+     "u": "https://www.cronista.com/en/finance/snap-benefits-change-on-october-what-millions-of-americans-need-to-know-about-the-new-rules/"
+    },
+    {
+     "t": "SNAP benefits are changing in 2026",
+     "d": "cronista.com",
+     "u": "https://www.cronista.com/en/finance/snap-benefits-are-changing-what-millions-of-americans-need-to-know-about-food-assistance-in-2026/"
+    },
+    {
+     "t": "What to know about the changes to SNAP this month",
+     "d": "blackamericaweb.com",
+     "u": "https://blackamericaweb.com/2026/10/05/snap-benefit-changes-october-2026/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "minwage-2027",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "business"
+   ],
+   "date": "Takes effect Jan 1",
+   "headline": "Raises coming Jan 1: 17 states lift the minimum wage",
+   "caption": "Washington hits $17.73, Connecticut $17.48 and California $17.40. Michigan gets the biggest jump, $1.27. Twenty states stay at the federal $7.25.",
+   "visual": {
+    "type": "board",
+    "title": "Minimum wage on Jan 1, 2027",
+    "rows": [
+     {
+      "k": "Washington",
+      "v": "$17.73"
+     },
+     {
+      "k": "Connecticut",
+      "s": "From $16.94",
+      "v": "$17.48"
+     },
+     {
+      "k": "California",
+      "s": "From $16.90",
+      "v": "$17.40"
+     },
+     {
+      "k": "Rhode Island",
+      "s": "Up $1.00",
+      "v": "$17.00"
+     },
+     {
+      "k": "Michigan",
+      "s": "Biggest raise: +$1.27",
+      "v": "$15.00",
+      "tone": "gain"
+     },
+     {
+      "k": "Federal",
+      "s": "Unchanged since 2009",
+      "v": "$7.25",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "Seventeen states change their minimum wage on January 1, 2027, many through automatic inflation adjustments. New Jersey goes to $16.48 for most workers, Colorado to $15.71 and Virginia to $13.75.",
+    "Florida reached $15 on September 30, 2026. Alaska goes to $15 on July 1, 2027, and Hawaii jumps to $18 in January 2028.",
+    "Many cities set higher local rates; dozens in California and Washington also rise on January 1."
+   ],
+   "money": [
+    "A $1.27 raise is worth about $2,642 a year for a full-time worker, before taxes.",
+    "Business owners: budget the new payroll now and update required workplace posters.",
+    "Expect January price bumps at restaurants and services in states with big increases."
+   ],
+   "risk": [
+    "Some state rates were still pending final announcement; confirm your state’s labor department page."
+   ],
+   "sources": [
+    {
+     "t": "2027 state-by-state & local minimum wage changes",
+     "d": "experian.com",
+     "u": "https://www.experian.com/blogs/employer-services/2027-state-by-state-local-minimum-wage-changes-and-posting-updates/"
+    },
+    {
+     "t": "17 states raise their minimum wage on Jan 1, 2027",
+     "d": "startbusinessbystate.com",
+     "u": "https://startbusinessbystate.com/?p=16755"
+    },
+    {
+     "t": "California will raise statewide minimum wage",
+     "d": "gov.ca.gov",
+     "u": "https://www.gov.ca.gov/2026/07/31/governor-newsom-announces-california-will-raise-statewide-minimum-wage/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "edu-wage",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "states",
+    "business"
+   ],
+   "date": "Explainer",
+   "headline": "What a $1.27 raise is really worth",
+   "caption": "Minimum wage math for workers and for the businesses paying it.",
+   "scenes": [
+    {
+     "k": "Paycheck math",
+     "t": "Michigan: $13.73 → $15.00.",
+     "s": "That is a $1.27 raise per hour on January 1."
+    },
+    {
+     "k": "For workers",
+     "t": "It adds up fast.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Per 40-hour week",
+        "+$50.80"
+       ],
+       [
+        "Per month",
+        "~$220"
+       ],
+       [
+        "Per full-time year",
+        "+$2,642",
+        "wide"
+       ]
+      ]
+     },
+     "say": "That is fifty dollars and eighty cents a week, or about twenty-six hundred dollars a year, before taxes."
+    },
+    {
+     "k": "For a small business",
+     "t": "10 workers = +$26,416 a year.",
+     "s": "That is the extra payroll for ten full-time minimum-wage employees."
+    },
+    {
+     "k": "Where it goes",
+     "t": "Prices, hours or margins.",
+     "s": "Owners usually raise prices a little, trim hours, or accept thinner profit."
+    },
+    {
+     "k": "The gap",
+     "t": "20 states are still at $7.25.",
+     "s": "The federal minimum has not changed since 2009."
+    },
+    {
+     "k": "Your move",
+     "t": "Know your local rate.",
+     "s": "Many cities pay more than the state. Check before you take or price a job."
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "state-checks",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "taxes"
+   ],
+   "date": "Now through Dec",
+   "headline": "State money still going out: rebates and property tax help",
+   "caption": "New York is still mailing $100–$200 energy rebates through December. Pennsylvania takes property tax and rent rebate applications until the end of 2026.",
+   "visual": {
+    "type": "deals",
+    "title": "State payments right now",
+    "items": [
+     {
+      "a": "New York",
+      "b": "POWER energy rebate",
+      "amt": "$100–200",
+      "st": "Automatic · mailing through December",
+      "c": "ok"
+     },
+     {
+      "a": "Pennsylvania",
+      "b": "Property Tax/Rent Rebate",
+      "amt": "$380–1K",
+      "st": "Older adults & people with disabilities · apply by end of 2026",
+      "c": "pend"
+     },
+     {
+      "a": "New Jersey",
+      "b": "Stay NJ",
+      "amt": "Up to $6.5K",
+      "st": "Senior property tax relief · Nov installment",
+      "c": "ok"
+     },
+     {
+      "a": "Michigan",
+      "b": "Working Families Tax Credit",
+      "amt": "$836 avg",
+      "st": "Paid through state tax refunds",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "New York’s Protecting Our Wallets Energy Rebate, a one-time payment in the 2026–27 budget, pays $100 to $200. Payments are automatic and arrival dates vary even between neighbors.",
+    "Pennsylvania’s Property Tax/Rent Rebate Program pays $380 to $1,000 to qualifying older adults and people with disabilities, and applications can be filed until the end of 2026.",
+    "New Jersey’s Stay NJ program pays seniors up to $6,500 in property tax relief in quarterly installments. Michigan says its expanded working families credit averaged $836 for about 653,000 recipients last year."
+   ],
+   "money": [
+    "Most of these are automatic, but some require an application with a deadline; Pennsylvania’s closes at year end.",
+    "Tell older relatives in these states; property tax relief programs are often missed.",
+    "State rebates are generally not taxed federally, but confirm with IRS guidance or a tax pro."
+   ],
+   "risk": [
+    "Amounts and eligibility depend on income and filing history."
+   ],
+   "sources": [
+    {
+     "t": "New York POWER rebate payments continuing through December",
+     "d": "fingerlakes1.com",
+     "u": "https://www.fingerlakes1.com/2026/11/06/still-waiting-for-a-check-new-yorks-power-rebate-payments-continuing-through-december/"
+    },
+    {
+     "t": "State tax refunds and rebates",
+     "d": "financebuzz.com",
+     "u": "https://financebuzz.com/news/state-tax-refund-and-rebate"
+    },
+    {
+     "t": "State stimulus checks 2026: rebates and property relief",
+     "d": "kiplinger.com",
+     "u": "https://www.kiplinger.com/taxes/state-stimulus-checks-december-2022"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "ice-week",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Nov 3–6",
+   "headline": "ICE faces new scrutiny from judges, Congress and voters",
+   "caption": "An Oregon judge found an ICE officer lied in an arrest report. House Democrats are demanding answers on US citizens held by agents. NPR reported voters rebuked the raids at the polls.",
+   "visual": {
+    "type": "points",
+    "title": "Immigration enforcement this week",
+    "items": [
+     "Oregon: judge finds ICE officer lied in an arrest report",
+     "House Democrats press for answers on detained US citizens",
+     "ICE plans to deport some Afghans through Pakistan, an official says",
+     "An indicted officer had served just over a year amid a hiring surge",
+     "New Democratic Congress in January means oversight hearings"
+    ]
+   },
+   "detail": [
+    "The administration has expanded ICE operations with tens of billions of dollars in added funding and has widened enforcement to all undocumented immigrants, according to the Council on Foreign Relations.",
+    "This week a federal judge in Oregon found an ICE officer lied in an arrest report and that the agency violated his order. After a ProPublica investigation, House Democrats demanded answers about US citizens detained by immigration agents.",
+    "NPR reported that voters rebuked the administration’s raids at the polls. With Democrats taking both chambers in January, expect more oversight hearings, while enforcement itself is run by the executive branch."
+   ],
+   "money": [
+    "Industries that rely on immigrant labor, like construction, farming and hospitality, face staffing pressure, which can push up wages and prices.",
+    "Employers: keep I-9 paperwork current; worksite audits carry fines.",
+    "Families with mixed status may want to talk to an immigration attorney about plans for property and accounts."
+   ],
+   "risk": [
+    "This is a fast-moving story with court rulings changing week to week."
+   ],
+   "sources": [
+    {
+     "t": "Daily immigration news clips, November 3, 2026",
+     "d": "aila.org",
+     "u": "https://www.aila.org/immigration-news/daily-immigration-news-clips-november-3-2026"
+    },
+    {
+     "t": "Daily immigration news clips, November 6, 2026",
+     "d": "aila.org",
+     "u": "https://www.aila.org/library/daily-immigration-news-clips-november-6-2026"
+    },
+    {
+     "t": "ICE and deportations: how Trump is reshaping enforcement",
+     "d": "cfr.org",
+     "u": "https://www.cfr.org/article/ice-and-deportations-how-trump-reshaping-immigration-enforcement"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "verizon-warn",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Nov 1",
+   "headline": "Verizon files to cut 1,319 jobs at its New Jersey headquarters",
+   "caption": "Every layoff notice filed in the first week of November came from New Jersey: Verizon, Barclays, Acme and UBS, about 1,528 workers in all.",
+   "visual": {
+    "type": "board",
+    "title": "NJ layoff notices, Nov 1",
+    "rows": [
+     {
+      "k": "Verizon",
+      "s": "Basking Ridge",
+      "v": "1,319"
+     },
+     {
+      "k": "Barclays Services",
+      "s": "Whippany",
+      "v": "80"
+     },
+     {
+      "k": "Acme",
+      "s": "Sussex",
+      "v": "71"
+     },
+     {
+      "k": "UBS",
+      "s": "Weehawken",
+      "v": "58"
+     }
+    ],
+    "foot": "Workers covered by WARN Act notices. Same week in 2025: 17,418 across 278 filings."
+   },
+   "detail": [
+    "WARN Act notices, which large employers must file ahead of mass layoffs, covered about 1,528 workers in the first week of November, all in New Jersey. Verizon accounted for most of them at its Basking Ridge headquarters.",
+    "The total was far below the same week in 2025, when 17,418 workers received notices.",
+    "Earlier in 2026, companies including Amazon, UPS and Oracle announced large cuts."
+   ],
+   "money": [
+    "If you are laid off, file for unemployment right away; benefits usually start from the filing date.",
+    "Losing job-based health insurance lets you enroll in an ACA plan outside open enrollment, often cheaper than COBRA.",
+    "Severance is often negotiable, especially for unused vacation and health coverage."
+   ],
+   "risk": [
+    "WARN filings capture only larger layoffs; smaller cuts are not counted."
+   ],
+   "sources": [
+    {
+     "t": "US layoffs, November 2026, week 1",
+     "d": "warnfirehose.com",
+     "u": "https://warnfirehose.com/blog/2026/11/week-1"
+    },
+    {
+     "t": "New Jersey layoffs, November 2026, week 1",
+     "d": "warnfirehose.com",
+     "u": "https://warnfirehose.com/blog/2026/11/week-1/new-jersey"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "inflation-37",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Latest CPI: Sept",
+   "headline": "Inflation is running at 3.7%, and it is driving everything else",
+   "caption": "Gas prices pushed annual inflation to 3.7% in September. That set the 3.6% Social Security raise and the IRS bracket changes, and it is why the Fed may hike in December.",
+   "visual": {
+    "type": "board",
+    "title": "Inflation ripple effects",
+    "rows": [
+     {
+      "k": "Annual inflation",
+      "s": "As of September",
+      "v": "3.7%",
+      "tone": "loss"
+     },
+     {
+      "k": "Social Security COLA",
+      "s": "For 2027",
+      "v": "3.6%"
+     },
+     {
+      "k": "Fed funds rate",
+      "v": "3.75–4.00%"
+     },
+     {
+      "k": "Dec Fed hike odds",
+      "s": "CME FedWatch after jobs report",
+      "v": "~77%"
+     }
+    ]
+   },
+   "detail": [
+    "Inflation climbed to 3.7% in September as gas prices kept household costs rising, according to Money.",
+    "Those numbers flow straight into your finances: they set the 2027 Social Security COLA, the IRS inflation adjustments and the Fed’s next move.",
+    "With a strong October jobs report, futures traders see about a 77% chance the Fed raises rates on December 9."
+   ],
+   "money": [
+    "Cash earning less than 3.7% is losing value. Compare high-yield savings, CDs and Treasury bills.",
+    "Use the inflation number when asking for a raise: a 3% raise is a pay cut in real terms.",
+    "Lock in fixed rates on loans before a possible hike if you were already planning to borrow."
+   ],
+   "risk": [
+    "Oil’s 15% drop this week could cool inflation in coming months."
+   ],
+   "sources": [
+    {
+     "t": "Here are the new federal income tax brackets for 2027",
+     "d": "money.com",
+     "u": "https://money.com/irs-tax-brackets-standard-deduction-2027/?amp=true"
+    },
+    {
+     "t": "October jobs report lifts December Fed hike odds",
+     "d": "investmentnews.com",
+     "u": "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915"
+    },
+    {
+     "t": "Stock market week ahead (Nov 2–6)",
+     "d": "regardsofwallstreet.com",
+     "u": "https://www.regardsofwallstreet.com/news/stock-market-week-ahead-november-2-2026"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "gold-4k",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Fri Nov 6",
+   "headline": "Gold holds above $4,000 as UBS calls that level a floor",
+   "caption": "Gold closed Friday at $4,074 an ounce, down about 1%. UBS sees limited downside, saying three sources of demand put a floor near $4,000.",
+   "visual": {
+    "type": "stat",
+    "title": "Gold, Friday close",
+    "num": "$4,074",
+    "tone": "acc",
+    "label": "Per ounce, down 0.96% on the day.",
+    "facts": [
+     [
+      "UBS view",
+      "~$4,000 floor",
+      "Three demand pillars"
+     ],
+     [
+      "Late October",
+      "Tumbled",
+      "Per E*Trade weekly recap"
+     ]
+    ]
+   },
+   "detail": [
+    "Gold slipped Friday as Treasury yields and the dollar rose after the strong jobs report. It closed at $4,074 an ounce.",
+    "UBS said three pillars of demand should keep a floor under prices near $4,000. Gold had tumbled in the last week of October while small and mid-cap stocks rallied.",
+    "Higher interest rates tend to weigh on gold because it pays no yield."
+   ],
+   "money": [
+    "At $4,000+ an ounce, old gold jewelry and coins from estate sales or auctions can be worth far more than their price tags; know the melt value before you bid.",
+    "Many investors keep a small slice, often 5–10%, in gold as a hedge.",
+    "Gold ETFs avoid storage and dealer markups compared with physical bars."
+   ],
+   "risk": [
+    "A December rate hike could pressure gold prices."
+   ],
+   "sources": [
+    {
+     "t": "Nightly market digest, Nov 6, 2026",
+     "d": "stockmarketwatch.com",
+     "u": "https://stockmarketwatch.com/digest/2026-11-06"
+    },
+    {
+     "t": "Earnings next week (with UBS gold headline)",
+     "d": "investinglive.com",
+     "u": "https://investinglive.com/stocks/earnings-next-week-can-apple-palantir-and-amd-restore-confidence/"
+    },
+    {
+     "t": "AI retreat stymies bulls (Nov 2 recap)",
+     "d": "us.etrade.com",
+     "u": "https://us.etrade.com/knowledge/library/perspectives/daily-insights/nov2-market-recap"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "bigtech-earn",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Late Oct",
+   "headline": "Earnings beats are not enough: Alphabet, Amazon and Intel all sold off",
+   "caption": "Alphabet slid more than 9% after hours on a search miss and $9 billion in cash burn, overshadowing its cloud growth. Intel and Amazon also dropped sharply after reporting.",
+   "visual": {
+    "type": "points",
+    "title": "Big Tech earnings lesson",
+    "items": [
+     "Alphabet: −9% after hours on a search miss and $9B cash burn",
+     "Intel and Amazon: sharp drops after their reports",
+     "Investors now judge guidance, margins and AI spending",
+     "Apple, Palantir and AMD reported the following week"
+    ]
+   },
+   "detail": [
+    "Late-October earnings showed how fast buyers turn into sellers. Alphabet fell more than 9% after hours as weaker search results and heavy spending outweighed cloud gains.",
+    "Intel and Amazon also sold off after their reports, even where headline earnings beat estimates.",
+    "The common thread: investors want proof that massive AI spending turns into profit and cash flow."
+   ],
+   "money": [
+    "Owning a stock through earnings is a coin flip on reaction, not results. Size positions accordingly.",
+    "Read the guidance, not the headline beat; that is what moves the stock.",
+    "Post-earnings drops in great companies can be buying chances for long-term investors who did their homework."
+   ],
+   "risk": [
+    "A big drop can keep going if guidance cuts follow."
+   ],
+   "sources": [
+    {
+     "t": "Earnings next week: can Apple, Palantir and AMD restore confidence?",
+     "d": "investinglive.com",
+     "u": "https://investinglive.com/stocks/earnings-next-week-can-apple-palantir-and-amd-restore-confidence/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "ichra",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "benefits"
+   ],
+   "date": "2026 trend",
+   "headline": "Employers are switching how they pay for health insurance",
+   "caption": "Adoption of ICHRAs, where a company gives workers a set amount to buy their own plan, jumped 53% in 2026 as group insurance costs climbed.",
+   "visual": {
+    "type": "stat",
+    "title": "Small business benefits",
+    "num": "+53%",
+    "tone": "acc",
+    "label": "Growth in ICHRA adoption in 2026.",
+    "facts": [
+     [
+      "How it works",
+      "Fixed allowance",
+      "Workers pick an ACA plan"
+     ],
+     [
+      "Marketplace sign-ups",
+      "23.1M",
+      "For 2026, down from 24.2M"
+     ]
+    ]
+   },
+   "detail": [
+    "An individual coverage HRA lets an employer reimburse workers tax-free for individual health plans instead of running a group plan. Large and small employers adopted them 53% more in 2026.",
+    "Employers like the fixed cost; workers can keep the plan if they change jobs.",
+    "It overlaps with self-employed and small-business buyers, who are also feeling rising marketplace premiums."
+   ],
+   "money": [
+    "Small business owners: an ICHRA can cap health benefit costs while still offering coverage.",
+    "Employees offered an ICHRA can shop marketplace plans with the allowance, tax-free.",
+    "Compare: if the allowance makes coverage \"affordable,\" you may lose ACA subsidy eligibility."
+   ],
+   "risk": [
+    "Plan choice and costs depend heavily on your local marketplace."
+   ],
+   "sources": [
+    {
+     "t": "ACA premiums are rising again in 2027: the broker conversation",
+     "d": "insurancebusinessmag.com",
+     "u": "https://www.insurancebusinessmag.com/us/news/benefits/aca-premiums-are-rising-again-in-2027--heres-the-broker-conversation-587988.aspx"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "openai-cursor",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Nov 12 & Nov 20",
+   "headline": "OpenAI cuts Cursor off on Nov 12 after SpaceX buys the coding app",
+   "caption": "OpenAI will stop supplying its models to Cursor on November 12. From November 20, new OpenAI rules require approval for model routers and AI gateways.",
+   "visual": {
+    "type": "timeline",
+    "title": "AI platform shakeup",
+    "items": [
+     {
+      "d": "NOV 12",
+      "t": "Cursor loses access to OpenAI models",
+      "s": "After SpaceX acquired the coding tool",
+      "now": true
+     },
+     {
+      "d": "NOV 20",
+      "t": "OpenAI usage policy update",
+      "s": "Routers and AI gateways need approval; direct-access services treated separately"
+     }
+    ]
+   },
+   "detail": [
+    "OpenAI said it will stop supplying models to Cursor, the AI coding editor, on November 12, 2026, after SpaceX bought the tool.",
+    "Separately, OpenAI’s updated usage policies take effect November 20. They distinguish services that resell direct model access from apps that use OpenAI models inside their own features, and require approval for model routers and gateways.",
+    "The moves show AI labs tightening control over who can resell their models."
+   ],
+   "money": [
+    "If your business or side project runs on one AI vendor, build in a backup; access can change with weeks of notice.",
+    "Coding tools that support several model providers protect you from these cutoffs.",
+    "Platform fights create openings for tools and freelancers who help companies switch."
+   ],
+   "risk": [
+    "Details of enforcement are still emerging."
+   ],
+   "sources": [
+    {
+     "t": "OpenAI releases & news",
+     "d": "ai-tldr.dev",
+     "u": "https://ai-tldr.dev/releases/org/openai/"
+    },
+    {
+     "t": "OpenAI usage policy changes from November 20 (related news)",
+     "d": "opentools.ai",
+     "u": "https://opentools.ai/news/openai-frontier-training-offline-containment-pause-october-restart"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "medicare-dates",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Through Dec 7",
+   "headline": "Medicare open enrollment ends Dec 7, and your 2027 benefit notice is coming",
+   "caption": "People on Medicare can switch plans until December 7. If you are on Social Security, your new 2027 amount shows up online in late November.",
+   "visual": {
+    "type": "timeline",
+    "title": "Benefit deadlines",
+    "items": [
+     {
+      "d": "OCT 15",
+      "t": "Medicare open enrollment opened"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Go paperless to see your COLA notice online",
+      "s": "my Social Security account",
+      "now": true
+     },
+     {
+      "d": "LATE NOV",
+      "t": "2027 benefit amounts posted",
+      "s": "For Medicare enrollees, in the Message Center"
+     },
+     {
+      "d": "DEC 7",
+      "t": "Medicare open enrollment ends"
+     },
+     {
+      "d": "DECEMBER",
+      "t": "Paper COLA notices mailed"
+     }
+    ]
+   },
+   "detail": [
+    "Medicare’s annual open enrollment lets people change Medicare Advantage or drug plans each fall, ending December 7.",
+    "The Social Security Administration says people enrolled in Medicare can see their 2027 benefit amount in their my Social Security Message Center starting in late November. Details on Medicare changes for 2027 are published on Medicare.gov.",
+    "To view the COLA notice online rather than wait for mail, sign up for paperless notices by November 18."
+   ],
+   "money": [
+    "Compare drug plans every year: a plan change can save hundreds if your prescriptions changed.",
+    "Help an older parent check their plan before December 7.",
+    "Watch your net check: Medicare premiums come out of Social Security payments."
+   ],
+   "risk": [
+    "Plan changes after Dec 7 are limited to special circumstances."
+   ],
+   "sources": [
+    {
+     "t": "Medicare.gov",
+     "d": "medicare.gov",
+     "u": "https://www.medicare.gov/"
+    },
+    {
+     "t": "Social Security announces 3.6% COLA (Medicare details)",
+     "d": "housingwire.com",
+     "u": "https://www.housingwire.com/articles/social-security-announces-3-6-cola-increase-for-2027/"
+    },
+    {
+     "t": "2027 COLA: what it means and when",
+     "d": "nbcchicago.com",
+     "u": "https://www.nbcchicago.com/news/local/2027-social-security-cola-increase-heres-what-it-means-for-checks-and-when/4002339/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "edu-cola",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "headline": "How Social Security decides your raise",
+   "caption": "The exact math behind the 3.6% COLA, in six scenes.",
+   "scenes": [
+    {
+     "k": "Benefits 101",
+     "t": "Your Social Security raise is not random.",
+     "s": "It is set by a formula in the law."
+    },
+    {
+     "k": "The index",
+     "t": "It tracks CPI-W.",
+     "s": "An inflation index based on what wage earners and clerical workers buy."
+    },
+    {
+     "k": "The math",
+     "t": "This summer vs last summer.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Jul–Sep 2025 avg",
+        "317.265"
+       ],
+       [
+        "Jul–Sep 2026 avg",
+        "328.746"
+       ],
+       [
+        "Increase, rounded",
+        "3.6%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "The average index from July to September this year, compared with last year, rose three point six percent."
+    },
+    {
+     "k": "When it hits",
+     "t": "January checks. SSI on Dec 31.",
+     "s": "The raise applies to December benefits, paid in January."
+    },
+    {
+     "k": "History",
+     "t": "Since 2020, COLAs averaged 3.7%.",
+     "s": "The high was 8.7% in 2023. The low was 1.3% in 2021."
+    },
+    {
+     "k": "Your move",
+     "t": "Check your notice.",
+     "s": "Make sure Medicare premiums and taxes are what you expect."
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "states-gap",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "2026",
+   "headline": "Some states are filling federal gaps with their own money",
+   "caption": "New Mexico fully replaced lost federal ACA help and saw enrollment grow. California restarted its produce rebate. New York keeps mailing energy rebates.",
+   "visual": {
+    "type": "deals",
+    "title": "States stepping in",
+    "items": [
+     {
+      "a": "New Mexico",
+      "b": "ACA premium help",
+      "amt": "100%",
+      "st": "Fully backfilled lost federal credits · enrollment grew",
+      "c": "ok"
+     },
+     {
+      "a": "California",
+      "b": "CalFresh produce rebate",
+      "amt": "$60/mo",
+      "st": "Restarted with $20M",
+      "c": "ok"
+     },
+     {
+      "a": "New York",
+      "b": "POWER energy rebate",
+      "amt": "$200",
+      "st": "Mailing through December",
+      "c": "ok"
+     },
+     {
+      "a": "Michigan",
+      "b": "Working families credit",
+      "amt": "$836",
+      "st": "Average per recipient",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "When the enhanced federal ACA credits expired after 2025, New Mexico went furthest of any state, fully covering the lost assistance. Its marketplace enrollment grew while the national total fell, KFF reports.",
+    "California put $20 million into restarting its CalFresh produce rebate after federal SNAP changes cut average benefits.",
+    "Where you live increasingly decides how much help you get with health care, food and energy bills."
+   ],
+   "money": [
+    "Moving states? Compare state programs and taxes, not just rent; the difference can be thousands a year.",
+    "Check your state’s benefits portal once a year; new programs often launch quietly.",
+    "Small business owners in generous states may find employees value state benefits in their pay decisions."
+   ],
+   "risk": [
+    "State programs depend on budgets and can end when money runs out."
+   ],
+   "sources": [
+    {
+     "t": "9 things to watch for the 2027 ACA open enrollment period",
+     "d": "kff.org",
+     "u": "https://kff.org/affordable-care-act/9-things-to-watch-for-the-2027-aca-open-enrollment-period/"
+    },
+    {
+     "t": "Free fruits and vegetables through CalFresh available again",
+     "d": "ktvu.com",
+     "u": "https://www.ktvu.com/news/free-fruits-vegetables-through-calfresh-available-again"
+    },
+    {
+     "t": "New York POWER rebate payments through December",
+     "d": "fingerlakes1.com",
+     "u": "https://www.fingerlakes1.com/2026/11/06/still-waiting-for-a-check-new-yorks-power-rebate-payments-continuing-through-december/"
+    }
+   ],
+   "ts": "2026-11-09T07:11:26Z"
+  },
+  {
+   "id": "crash",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Thu Nov 5",
+   "headline": "Nasdaq 100 has its worst day since 2020 as chip stocks get crushed",
+   "caption": "Two days after Democrats won Congress, investors dumped AI and chip stocks on fears of tighter rules for data centers. About $3 trillion in value vanished in one session.",
+   "visual": {
+    "type": "stat",
+    "title": "Thursday, Nov 5 close",
+    "num": "−6.36%",
+    "tone": "loss",
+    "label": "Nasdaq 100. The S&P 500 fell 4.35% and the Dow lost 1,833 points.",
+    "rows": [
+     [
+      "SanDisk",
+      -22.26
+     ],
+     [
+      "Micron",
+      -17.46
+     ],
+     [
+      "Western Digital",
+      -17.35
+     ],
+     [
+      "S&P 500",
+      -4.35
+     ]
+    ]
+   },
+   "detail": [
+    "The selloff hit memory and storage makers hardest, then spread to chip equipment and data-center suppliers. The Philadelphia Semiconductor Index fell about 12%, its biggest one-day drop since 2020, and every one of the 30 Dow stocks closed lower.",
+    "The trigger was political. Democrats won control of both chambers, including in states where data-center growth has been contentious, and investors priced in slower AI buildouts and more regulation. Senators Sanders and Ocasio-Cortez are pushing a bill for a data-center moratorium.",
+    "Perspective matters: SanDisk was still up more than 200% for 2026 after the drop, and Micron about 130%. The Nasdaq Composite is now officially in a correction, down 10% from its October 6 record."
+   ],
+   "money": [
+    "Corrections are when long-term buyers get better prices. If you already invest, keep your scheduled buys running instead of stopping.",
+    "Broad index funds spread the risk. A single chip stock can drop 20% in a day; an S&P 500 fund fell 4.35%.",
+    "Write down a watchlist and target prices now, while you are calm, instead of deciding mid-panic."
+   ],
+   "risk": [
+    "Regulation fears may not be priced in yet; dips can keep dipping.",
+    "Never use margin or borrowed money to \"buy the dip.\""
+   ],
+   "sources": [
+    {
+     "t": "Nasdaq 100 suffers worst day since 2020",
+     "d": "investinglive.com",
+     "u": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/"
+    },
+    {
+     "t": "Nasdaq falls 5.5% two days after Democrats’ sweep",
+     "d": "northeasttimes.com",
+     "u": "https://northeasttimes.com/?p=166108"
+    },
+    {
+     "t": "Nasdaq posts biggest daily drop in 19 months (Reuters)",
+     "d": "thenightly.com.au",
+     "u": "https://thenightly.com.au/business/wall-street-opens-lower-as-shares-of-tech-firms-slump-c-23123264"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "edu-dca",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn"
+   ],
+   "date": "Explainer",
+   "headline": "Crash week? How regular people turn drops into discounts",
+   "caption": "Dollar-cost averaging, explained with real math in under a minute.",
+   "scenes": [
+    {
+     "k": "Money moves · 60 sec",
+     "t": "Stocks just had their worst day since 2020.",
+     "s": "Here is how regular investors turn crashes into discounts."
+    },
+    {
+     "k": "The strategy",
+     "t": "Dollar-cost averaging",
+     "s": "Invest the same dollar amount on a schedule. Every week, no matter what the market does."
+    },
+    {
+     "k": "$100 a week",
+     "t": "Cheap weeks buy more shares.",
+     "s": "Same $100, different prices:",
+     "viz": {
+      "type": "dca",
+      "cols": [
+       [
+        50,
+        "2"
+       ],
+       [
+        40,
+        "2.5"
+       ],
+       [
+        25,
+        "4"
+       ],
+       [
+        50,
+        "2"
+       ]
+      ]
+     },
+     "say": "Same hundred dollars each week. At fifty dollars you get two shares. At twenty-five, you get four."
+    },
+    {
+     "k": "The result",
+     "t": "10.5 shares for $400",
+     "s": "Your average cost is $38.10, while the average price was $41.25. The dip did the work.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Avg price",
+        "$41.25"
+       ],
+       [
+        "Your avg cost",
+        "$38.10"
+       ]
+      ]
+     },
+     "say": "Ten and a half shares for four hundred dollars. Your average cost is thirty-eight ten, below the average price of forty-one twenty-five."
+    },
+    {
+     "k": "The catch",
+     "t": "Only on things that recover.",
+     "s": "Use broad index funds, not one hype stock. And never borrowed money."
+    },
+    {
+     "k": "Do this",
+     "t": "Set it. Automate it.",
+     "s": "Most brokerages let you schedule recurring buys for free."
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "midterms",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics"
+   ],
+   "date": "Tue Nov 3",
+   "headline": "Democrats take both the House and Senate in a midterm landslide",
+   "caption": "Seven Senate seats flipped, including Texas, where James Talarico beat Ken Paxton. Republicans lose their trifecta; divided government starts in January.",
+   "visual": {
+    "type": "board",
+    "title": "Congress from Jan 3, 2027",
+    "rows": [
+     {
+      "k": "Senate",
+      "s": "Two races still being counted",
+      "v": "D 54 · R 44"
+     },
+     {
+      "k": "House",
+      "s": "Early count, races still open",
+      "v": "D 231 · R 141"
+     },
+     {
+      "k": "Ballots cast",
+      "s": "Beats the 2018 record of ~119M",
+      "v": "124M+"
+     },
+     {
+      "k": "Texas Senate",
+      "s": "First Democratic win there since 1988",
+      "v": "Talarico (D)"
+     }
+    ]
+   },
+   "detail": [
+    "Democrats needed to flip four Senate seats and gained seven, including a seat in South Carolina, where the party had not won a Senate race since 1998. In the House, Democrats were on pace for their largest majority since 2008.",
+    "Hakeem Jeffries is on track to become the first Black House speaker; he needs 218 votes when the new Congress convenes on January 3. Democratic leadership elections are the week of November 16.",
+    "President Trump congratulated Democrats while distancing himself from the losses. With a Republican president and a Democratic Congress, expect more investigations and fewer big new laws through 2028."
+   ],
+   "money": [
+    "Gridlock usually means fewer surprise tax or spending changes, which markets tend to like over time.",
+    "Sectors Congress targets with hearings move first. This week that was AI data centers and chipmakers.",
+    "Big new federal programs are unlikely before 2028, so plan around current tax rules, not campaign promises."
+   ],
+   "risk": [
+    "Two Senate races and many House seats were still being counted when this was written."
+   ],
+   "sources": [
+    {
+     "t": "Election 2026: Democrats capture both chambers of Congress",
+     "d": "wsbtv.com (AP)",
+     "u": "https://www.wsbtv.com/news/trending/election-2026-democrats-capture-both-houses-congress/5ILOWTVABVDPZFYP7VBBCX4EWE/"
+    },
+    {
+     "t": "Has America seen a midterm upset like this before?",
+     "d": "americanbazaaronline.com",
+     "u": "https://americanbazaaronline.com/2026/11/04/has-america-seen-a-midterm-upset-like-this-before-491503/"
+    },
+    {
+     "t": "Midterm election results: three things to know",
+     "d": "live5news.com",
+     "u": "https://www.live5news.com/2026/11/04/midterm-election-results-three-things-know/"
+    },
+    {
+     "t": "Democrats capture full control of Congress",
+     "d": "nbcdfw.com",
+     "u": "https://www.nbcdfw.com/elections/democrats-control-of-congress/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "edu-gridlock",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "politics"
+   ],
+   "date": "Explainer",
+   "headline": "Why Wall Street can like a split government",
+   "caption": "Gridlock, sector risk, and where to watch for the next move.",
+   "scenes": [
+    {
+     "k": "Politics → money",
+     "t": "Democrats run Congress. Trump runs the White House.",
+     "s": "That is called divided government."
+    },
+    {
+     "k": "Translation",
+     "t": "Gridlock.",
+     "s": "Big new laws need both sides to agree, so there are fewer surprise policy swings."
+    },
+    {
+     "k": "Why investors care",
+     "t": "Less surprise, less risk.",
+     "s": "Markets usually prefer predictable over exciting."
+    },
+    {
+     "k": "But",
+     "t": "Sectors still get hit.",
+     "s": "This week chip and AI stocks plunged on fears of tighter rules for data centers."
+    },
+    {
+     "k": "Your edge",
+     "t": "Follow the hearings.",
+     "s": "The industries Congress puts under the microscope are where volatility shows up first."
+    },
+    {
+     "k": "Remember",
+     "t": "Headlines move prices. Plans make money.",
+     "s": "Decide your rules before the next scary day."
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "jobs",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Fri Nov 6",
+   "headline": "Hot jobs report: 165,000 hires, and a December rate hike now looks likely",
+   "caption": "Employers added nearly triple what economists expected. Unemployment slipped to 4.1%. Futures traders now put the odds of a Fed hike on Dec 9 at about 77%.",
+   "visual": {
+    "type": "vs",
+    "title": "October payrolls",
+    "a": [
+     "Expected",
+     "65K",
+     0.39,
+     "acc"
+    ],
+    "b": [
+     "Actual",
+     "165K",
+     1,
+     "gain"
+    ],
+    "foot": "Unemployment 4.1% (from 4.2%) · Prior two months revised up 84K · Fed funds 3.75–4.00%"
+   },
+   "detail": [
+    "October payrolls came in at 165,000 against forecasts of about 65,000. September was revised to 60,000, and the prior two months together were revised up by 84,000.",
+    "Good news for workers became a worry for markets: a strong labor market gives the Fed room to raise rates again to keep inflation down. CME FedWatch priced a 76.8% chance of a quarter-point hike at the December 8–9 meeting.",
+    "The last jobs report before that decision lands December 4."
+   ],
+   "money": [
+    "Savers win when rates rise. High-yield savings accounts, CDs and Treasury bills pay more; compare rates now.",
+    "If you are buying a car or home soon, rate hikes push loan costs up. Locking a rate earlier can save money.",
+    "Pay down variable-rate debt like credit cards first; those rates climb with every Fed hike."
+   ],
+   "risk": [
+    "One strong report can be revised later. The Dec 4 report could change the odds again."
+   ],
+   "sources": [
+    {
+     "t": "October jobs report beats forecasts, lifting December Fed hike odds",
+     "d": "investmentnews.com",
+     "u": "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915"
+    },
+    {
+     "t": "Stock market recap, November 6, 2026",
+     "d": "alainguillot.com",
+     "u": "https://www.alainguillot.com/stock-market-recap-november-6-2026/"
+    },
+    {
+     "t": "Stock market week ahead (Nov 2–6)",
+     "d": "regardsofwallstreet.com",
+     "u": "https://www.regardsofwallstreet.com/news/stock-market-week-ahead-november-2-2026"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "edu-fed",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "headline": "Why good jobs news made traders nervous",
+   "caption": "The chain from a hiring report to your stock portfolio and your savings account.",
+   "scenes": [
+    {
+     "k": "The puzzle",
+     "t": "165,000 jobs. Way above the 65,000 expected.",
+     "s": "So why did it spook the market?"
+    },
+    {
+     "k": "The chain reaction",
+     "t": "Follow the dominoes.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Strong hiring",
+       "Inflation risk",
+       "Fed raises rates",
+       "Borrowing costs up",
+       "Stock values down"
+      ]
+     },
+     "say": "Strong hiring raises inflation risk. The Fed raises rates. Borrowing costs go up, and stock values come down."
+    },
+    {
+     "k": "The odds",
+     "t": "~77% chance of a December hike.",
+     "s": "That is what futures traders priced right after the report."
+    },
+    {
+     "k": "Who gets hurt",
+     "t": "Growth stocks feel it most.",
+     "s": "Their profits are far in the future, and future dollars are worth less when rates rise."
+    },
+    {
+     "k": "Who wins",
+     "t": "Savers.",
+     "s": "High-yield savings, CDs and Treasury bills all pay more when the Fed hikes."
+    },
+    {
+     "k": "Mark your calendar",
+     "t": "Dec 4 jobs. Dec 9 Fed.",
+     "s": "Those two dates decide the next move."
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "anthropic",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "This week",
+   "headline": "Anthropic’s IPO could launch as soon as Tuesday, possibly the biggest ever",
+   "caption": "The Claude maker plans to list on Nasdaq as ANT. Reports say it could raise $100 billion or more at a $1.5 to $2 trillion valuation, with pricing the week of Nov 16.",
+   "visual": {
+    "type": "ticker",
+    "sym": "ANT",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "Roadshow launch",
+      "s": "Per Renaissance Capital",
+      "v": "As early as Tue"
+     },
+     {
+      "k": "Expected pricing",
+      "v": "Week of Nov 16"
+     },
+     {
+      "k": "Raise",
+      "s": "Reported by WSJ, not in filing",
+      "v": "$100B+"
+     },
+     {
+      "k": "Valuation",
+      "s": "Reported range",
+      "v": "$1.5T–$2T"
+     },
+     {
+      "k": "Last private round",
+      "s": "May 2026",
+      "v": "$965B"
+     }
+    ]
+   },
+   "detail": [
+    "Anthropic made its S-1 public on October 26, with Goldman Sachs and Morgan Stanley leading the underwriters. The filing left the share count and price range blank, so the size and valuation above are reported expectations, not confirmed numbers.",
+    "The filing showed first-half 2026 revenue of about $16.3 billion. Reuters reported some investors valued the company near $1.5 trillion, down from roughly $2 trillion a week earlier.",
+    "For scale: SpaceX priced a $75 billion IPO in June at a $1.75 trillion valuation, the record so far. This week’s AI selloff is the backdrop the deal launches into."
+   ],
+   "money": [
+    "Check now whether your brokerage offers IPO access and what it requires; allocations go to people who request early.",
+    "You can also own a slice indirectly: Amazon and Alphabet are both Anthropic investors.",
+    "Set a maximum price before day one. Hot IPOs often open far above the offer price, and chasing the first-day spike is how people overpay."
+   ],
+   "risk": [
+    "Mega-IPOs can trade below their offer price within months.",
+    "Lock-up expirations, usually around 6 months later, can push the price down."
+   ],
+   "sources": [
+    {
+     "t": "US IPO Week Ahead: vVardis and Rezera on deck as Anthropic launch looms",
+     "d": "renaissancecapital.com",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
+    },
+    {
+     "t": "Anthropic publicly files for IPO: what will ANT be worth?",
+     "d": "benzinga.com",
+     "u": "https://www.benzinga.com/node/62595495"
+    },
+    {
+     "t": "Anthropic makes IPO filing public, plans Nasdaq listing under ANT",
+     "d": "decrypt.co",
+     "u": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant"
+    },
+    {
+     "t": "Anthropic S-1 IPO filing explained",
+     "d": "tech-insider.org",
+     "u": "https://tech-insider.org/ie/anthropic-s1-ipo-filing-nasdaq-ant-2026/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "edu-ipo",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "headline": "How an IPO actually works, and how you get in",
+   "caption": "From the bank’s price range to the lock-up, in six steps.",
+   "scenes": [
+    {
+     "k": "IPO 101",
+     "t": "Anthropic could be the biggest IPO ever.",
+     "s": "Ticker: ANT. Here is how IPOs actually work."
+    },
+    {
+     "k": "Step 1",
+     "t": "The company sells new shares.",
+     "s": "Banks like Goldman Sachs and Morgan Stanley set a price range and line up buyers."
+    },
+    {
+     "k": "Step 2",
+     "t": "Big funds get most of them.",
+     "s": "Regular investors get a small slice through apps that offer IPO access."
+    },
+    {
+     "k": "Step 3",
+     "t": "Day one.",
+     "s": "Anyone can buy once it trades, but hot IPOs often open far above the offer price."
+    },
+    {
+     "k": "Step 4",
+     "t": "Watch the lock-up.",
+     "s": "Insiders usually cannot sell for about six months. When that ends, extra supply can push the price down."
+    },
+    {
+     "k": "The play",
+     "t": "Request early. Set a max. Don’t chase.",
+     "s": "Decide your price before the hype, not during it."
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "oil",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Fri Nov 6",
+   "headline": "Oil plunges about 15% this week on hopes of a US–Iran peace deal",
+   "caption": "Qatar-mediated talks and the midterm results raised hopes the war that began Feb 28 could end. Attacks around the Strait of Hormuz have not fully stopped.",
+   "visual": {
+    "type": "stat",
+    "title": "Oil this week",
+    "num": "−15%",
+    "tone": "gain",
+    "label": "Lower oil is good for drivers and airlines, bad for energy stocks.",
+    "facts": [
+     [
+      "Brent, Nov 3 settle",
+      "$103.60",
+      "Lowest since Oct 7"
+     ],
+     [
+      "WTI, Fri close",
+      "$90.43",
+      ""
+     ],
+     [
+      "War began",
+      "Feb 28, 2026",
+      "US & Israel vs. Iran"
+     ]
+    ]
+   },
+   "detail": [
+    "Prices fell more than 7% on November 2 alone as Iranian and Qatari officials held days of talks on ending the war between Iran and the United States and Israel. President Trump said a deal \"could happen.\"",
+    "Brent had finished October at a six-month high on fears fighting would escalate after the midterms. Talks over a Russia–Ukraine settlement added to the downward pressure.",
+    "No agreement has been signed. The drop reflects expectations, not a return to normal shipping, and Goldman Sachs has warned prices can snap back if talks fail."
+   ],
+   "money": [
+    "Gas prices tend to follow crude with a lag, so fill-up costs could ease over the next few weeks.",
+    "Airlines, trucking and delivery companies benefit from cheaper fuel; energy producers lose.",
+    "If you are hedging against war risk, this is a reminder that peace headlines can erase gains in days."
+   ],
+   "risk": [
+    "A collapse in talks or a new attack on tankers could send oil back up fast."
+   ],
+   "sources": [
+    {
+     "t": "The Iran war isn’t over, but oil traders are pricing in peace",
+     "d": "oilprice.com",
+     "u": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.html"
+    },
+    {
+     "t": "Brent falls 1% on November 3 amid hopes for peace deals",
+     "d": "nationthailand.com",
+     "u": "https://www.nationthailand.com/news/world/40073076"
+    },
+    {
+     "t": "Oil falls as Iran–Qatar talks raise hopes of ending US–Iran war",
+     "d": "political.org",
+     "u": "https://political.org/2026/11/02/oil-falls-nearly-4-as-iran-qatar-talks-raise-hopes-of-progress-toward-ending-us-iran-war/"
+    },
+    {
+     "t": "Nightly market digest, Nov 6",
+     "d": "stockmarketwatch.com",
+     "u": "https://stockmarketwatch.com/digest/2026-11-06"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "tariffs",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world"
+   ],
+   "date": "This week",
+   "headline": "Tariff check: the China truce now runs to Jan 10, and a new levy hits Nov 10",
+   "caption": "The US–China truce was pushed back two months. A 25% tariff on Chinese cargo-handling equipment is scheduled for Tuesday, and Canada’s 50% tariff on $20B of goods is in force.",
+   "visual": {
+    "type": "timeline",
+    "title": "Tariff timeline",
+    "items": [
+     {
+      "d": "FEB 20, 2026",
+      "t": "Supreme Court voids emergency tariffs",
+      "s": "Government ordered to refund about $166 billion"
+     },
+     {
+      "d": "AUG 22, 2026",
+      "t": "Canada: 50% on $20B of exports"
+     },
+     {
+      "d": "NOV 10, 2026",
+      "t": "25% on Chinese cargo-handling equipment",
+      "s": "Scheduled",
+      "now": true
+     },
+     {
+      "d": "JAN 10, 2027",
+      "t": "US–China truce expires",
+      "s": "Extended from Nov 10 during Xi’s September visit"
+     }
+    ]
+   },
+   "detail": [
+    "The November 2025 deal with China cut reciprocal tariffs to a flat 10% through November 10, 2026. During Xi Jinping’s September visit to Washington, both sides agreed to extend that truce to January 10, 2027.",
+    "Separately, a 25% tariff on Chinese-origin maritime and cargo-handling equipment is scheduled to start November 10. Average US tariffs have risen from about 2% to 10% in two years, and the goods trade deficit hit a record.",
+    "Tariff revenue fell for the first time since February, according to recent data, partly because of the court-ordered refunds."
+   ],
+   "money": [
+    "Resellers and small importers: if you sell China-made goods, buying inventory before Jan 10 locks in today’s 10% rate in case talks fail.",
+    "If your business paid the voided emergency tariffs, check with your customs broker about refund claims.",
+    "Expect price swings on imported electronics, tools and home goods around each deadline; that is where flip margins open and close."
+   ],
+   "risk": [
+    "Deadlines have been moved many times; plans built on one date can break."
+   ],
+   "sources": [
+    {
+     "t": "US tariffs rise from 2% to 10% in two years",
+     "d": "maaal.com",
+     "u": "https://maaal.com/en/news/details/us-tariffs-rise-from-2-t/"
+    },
+    {
+     "t": "The TecEx Tariff Tracker",
+     "d": "tecex.com",
+     "u": "https://tecex.com/tariff-tracker/"
+    },
+    {
+     "t": "Trump 2.0 tariff tracker (updated Nov 3)",
+     "d": "tradecomplianceresourcehub.com",
+     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "edu-tariff",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "politics"
+   ],
+   "date": "Explainer",
+   "headline": "Who actually pays a tariff?",
+   "caption": "Follow a tariff from the port to your receipt, and the reseller playbook around deadlines.",
+   "scenes": [
+    {
+     "k": "Tariffs 101",
+     "t": "A tariff is a tax on imports.",
+     "s": "The importer pays it at the US border, not the foreign country."
+    },
+    {
+     "k": "Where it goes",
+     "t": "The cost rolls downhill.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Importer pays duty",
+       "Wholesale price up",
+       "Store price up",
+       "You pay more"
+      ]
+     },
+     "say": "The importer pays the duty. The wholesale price goes up, then the store price, and finally you pay more."
+    },
+    {
+     "k": "Plot twist",
+     "t": "$166 billion in refunds.",
+     "s": "After the Supreme Court struck down the emergency tariffs in February, importers got paid back."
+    },
+    {
+     "k": "Next deadline",
+     "t": "January 10, 2027.",
+     "s": "That is when the US–China truce now expires."
+    },
+    {
+     "k": "Reseller playbook",
+     "t": "Buy before the deadline.",
+     "s": "Stock up on China-made goods you flip, and track which items are exempt."
+    },
+    {
+     "k": "Remember",
+     "t": "Tariffs move prices before headlines catch up.",
+     "s": "Watch the dates, not the speeches."
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "mna",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Nov 2–6",
+   "headline": "Deal week: Marvell agrees to buy Lumentum in a $115B all-stock deal",
+   "caption": "Plus Shield buying Echodyne for $5.3B and a $1.6B bid for Helen of Troy. China blocked SoftBank’s $5.4B purchase of ABB’s robotics unit.",
+   "visual": {
+    "type": "deals",
+    "title": "Biggest deals this week",
+    "items": [
+     {
+      "a": "Marvell",
+      "b": "Lumentum",
+      "amt": "$115B",
+      "st": "All-stock · announced Nov 2",
+      "c": "pend"
+     },
+     {
+      "a": "Shield",
+      "b": "Echodyne",
+      "amt": "$5.3B",
+      "st": "Blackstone financing · Nov 6",
+      "c": "pend"
+     },
+     {
+      "a": "Empower Brands",
+      "b": "Helen of Troy",
+      "amt": "$1.6B",
+      "st": "Proposal · Nov 5",
+      "c": "pend"
+     },
+     {
+      "a": "SoftBank",
+      "b": "ABB Robotics",
+      "amt": "$5.4B",
+      "st": "Blocked by China",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "Marvell’s purchase of optical-component maker Lumentum is an all-stock deal valued around $115 billion, a bet on the AI networking gear inside data centers. Defense-tech firm Shield agreed to buy radar maker Echodyne for $5.3 billion.",
+    "Oaktree-backed Empower Brands proposed buying consumer-products company Helen of Troy for $1.6 billion, and SpaceX is reportedly exploring a purchase of EchoStar’s Boost Mobile.",
+    "Regulators remain the wild card: China blocked SoftBank’s $5.4 billion ABB robotics deal, according to the FT. In the US, comments on the $85 billion Union Pacific–Norfolk Southern merger are due November 18."
+   ],
+   "money": [
+    "Merger arbitrage: a target’s stock usually trades a bit below the deal price. That gap is what traders earn if the deal closes.",
+    "In all-stock deals like Marvell–Lumentum, the payout moves with the buyer’s share price, so the target falls when the buyer falls.",
+    "Blocked deals show the downside: the target can drop back to where it was before the announcement."
+   ],
+   "risk": [
+    "Spreads are small for a reason. A failed deal can wipe out years of small gains."
+   ],
+   "sources": [
+    {
+     "t": "Deal news roundup, Nov 2–6, 2026",
+     "d": "themiddlemarket.com",
+     "u": "https://www.themiddlemarket.com/?p=99518"
+    },
+    {
+     "t": "China blocks SoftBank’s ABB robotics deal (FT), via Nasdaq recap",
+     "d": "investinglive.com",
+     "u": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/"
+    },
+    {
+     "t": "Upcoming M&A deals: pending mergers",
+     "d": "dealroom.net",
+     "u": "https://dealroom.net/blog/upcoming-m-a"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "edu-arb",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "headline": "Merger arbitrage in 60 seconds",
+   "caption": "Why a stock being bought for $100 trades at $95, and who earns the gap.",
+   "scenes": [
+    {
+     "k": "Deal math",
+     "t": "A company announces it is being bought.",
+     "s": "The stock jumps, but usually not all the way to the deal price."
+    },
+    {
+     "k": "The spread",
+     "t": "That gap is the spread.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Offer price",
+        "$100"
+       ],
+       [
+        "Stock trades at",
+        "$95"
+       ],
+       [
+        "Spread if deal closes",
+        "+$5",
+        "wide"
+       ]
+      ]
+     },
+     "say": "If the offer is one hundred dollars and the stock trades at ninety-five, the spread is five dollars."
+    },
+    {
+     "k": "Why the gap?",
+     "t": "Deals can die.",
+     "s": "Regulators, financing or a shareholder vote can kill it."
+    },
+    {
+     "k": "Real example",
+     "t": "China just blocked SoftBank’s $5.4B ABB deal.",
+     "s": "That is the risk arbitrage traders get paid to take."
+    },
+    {
+     "k": "All-stock twist",
+     "t": "Paid in shares, not cash.",
+     "s": "Like Marvell and Lumentum: the payout moves with the buyer’s stock price."
+    },
+    {
+     "k": "The rule",
+     "t": "Small positions. Many deals.",
+     "s": "Never bet big on one merger closing."
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "crypto",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Week of Oct 26–30",
+   "headline": "Bitcoin slides under $78K as risk appetite fades",
+   "caption": "Bitcoin fell 4.8% in the last week of October, ether 6% and solana 6.4%. After the midterms, traders are watching $82,000 as the level that flips the trend.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto, week ending Oct 30",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "v": "$77,198",
+      "ch": -4.8
+     },
+     {
+      "k": "Ether",
+      "v": "$2,241",
+      "ch": -6
+     },
+     {
+      "k": "Solana",
+      "v": "$96.22",
+      "ch": -6.4
+     },
+     {
+      "k": "BTC all-time high",
+      "s": "Oct 6, 2025",
+      "v": "$126,198"
+     }
+    ],
+    "foot": "Bitcoin sits roughly 40% below its record."
+   },
+   "detail": [
+    "Crypto followed tech stocks lower as investors pulled back from speculative assets. Bitcoin closed the week at about $77,198, ether near $2,241 and solana around $96.",
+    "A December rate hike would be a headwind: higher rates make holding assets with no yield less attractive.",
+    "After the election, crypto analysts flagged $82,000 as the key resistance level. Bitcoin’s record is $126,198, set in October 2025."
+   ],
+   "money": [
+    "If you buy crypto, small recurring buys reduce the risk of going all-in at a bad price.",
+    "Keep crypto a small slice of what you invest; a 40% drawdown from the high is normal for bitcoin.",
+    "Track your cost basis now. Crypto sales are taxable, and losses can offset gains."
+   ],
+   "risk": [
+    "Crypto is highly volatile and has little consumer protection.",
+    "Avoid leverage; liquidations hit hardest on fast drops."
+   ],
+   "sources": [
+    {
+     "t": "AI retreat stymies bulls (Nov 2 recap)",
+     "d": "us.etrade.com",
+     "u": "https://us.etrade.com/knowledge/library/perspectives/daily-insights/nov2-market-recap"
+    },
+    {
+     "t": "Why is bitcoin dropping?",
+     "d": "ig.com",
+     "u": "https://www.ig.com/uk/trading-strategies/why-is-bitcoin-dropping-260814"
+    },
+    {
+     "t": "Bitcoin analysis after the US midterms (headline), via recap",
+     "d": "investinglive.com",
+     "u": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "friday",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Fri Nov 6",
+   "headline": "Friday bounce: tech claws back, and AI power stocks surge",
+   "caption": "The Nasdaq rose 1.1% and fear eased, but the S&P 500 still logged its worst week since April 2025. Vistra jumped about 11% and NRG about 10%.",
+   "visual": {
+    "type": "board",
+    "title": "Friday, Nov 6 close",
+    "rows": [
+     {
+      "k": "S&P 500",
+      "v": "7,376.86",
+      "ch": 0.31
+     },
+     {
+      "k": "Nasdaq",
+      "v": "24,579.42",
+      "ch": 1.09
+     },
+     {
+      "k": "Dow",
+      "v": "51,285.73",
+      "ch": -0.46
+     },
+     {
+      "k": "VIX fear gauge",
+      "v": "25.58",
+      "ch": -9.23
+     },
+     {
+      "k": "Gold",
+      "v": "$4,074",
+      "ch": -0.96
+     }
+    ]
+   },
+   "detail": [
+    "Stocks steadied after Thursday’s rout. AI stocks recovered some losses, while the Dow slipped as a hot jobs report pushed Treasury yields and the dollar higher.",
+    "The standouts were companies that power data centers: Vistra rose about 11% after earnings, NRG Energy about 10% and Quanta Services 6%.",
+    "The VIX, Wall Street’s fear gauge, fell 9% but stayed elevated above 25."
+   ],
+   "money": [
+    "Companies that already own valuable infrastructure, like power plants and grid builders, held up better than those that depend on building more.",
+    "A VIX above 20 means bigger daily swings; size positions smaller until it calms down.",
+    "Options get expensive when the VIX is high, which favors selling covered calls on stocks you already own over buying options."
+   ],
+   "risk": [
+    "One green day does not end a correction."
+   ],
+   "sources": [
+    {
+     "t": "Nightly market digest, Nov 6, 2026",
+     "d": "stockmarketwatch.com",
+     "u": "https://stockmarketwatch.com/digest/2026-11-06"
+    },
+    {
+     "t": "Tech bounces, but the S&P 500 has its worst week since April 2025",
+     "d": "pro.thestreet.com",
+     "u": "https://pro.thestreet.com/market-commentary/tech-bounces-but-the-sp-500-still-has-its-worst-week-since-april-2025"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "ca-election",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "politics"
+   ],
+   "date": "Nov 3–4",
+   "headline": "California: Becerra wins governor, the billionaire tax is failing",
+   "caption": "Xavier Becerra becomes the state’s first Latino governor. Prop 40’s wealth tax trails, while Prop 42, which bans new state taxes on investments, is passing.",
+   "visual": {
+    "type": "board",
+    "title": "California results, still counting",
+    "rows": [
+     {
+      "k": "Governor",
+      "s": "Beats Steve Hilton (R)",
+      "v": "Becerra (D)",
+      "tone": "acc"
+     },
+     {
+      "k": "Prop 40",
+      "s": "One-time 5% tax on billionaires",
+      "v": "No 55%",
+      "tone": "loss"
+     },
+     {
+      "k": "Prop 42",
+      "s": "No new taxes on stocks & accounts",
+      "v": "Yes 55%",
+      "tone": "gain"
+     },
+     {
+      "k": "Prop 1",
+      "s": "Veterans & affordable housing bonds",
+      "v": "Yes 59%",
+      "tone": "gain"
+     },
+     {
+      "k": "Prop 39",
+      "s": "Voter ID at the polls",
+      "v": "Trailing",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "Becerra, the former US health secretary, replaces Gavin Newsom, who is termed out. Results come from early counts; California accepts mail ballots postmarked by Election Day, and certification comes in early December.",
+    "Prop 40 would have imposed a one-time 5% tax on net worth above $1 billion to fund health care. Opponents spent more than $300 million against it and backed Props 41 and 42, which were written to cancel it if they got more yes votes. Prop 41 was failing; Prop 42 was passing.",
+    "Prop 3, which makes the existing higher income-tax rates on earnings over about $371,000 permanent instead of expiring in 2031, led in early returns. Prop 45, which would speed up environmental reviews, was trailing."
+   ],
+   "money": [
+    "Prop 42 passing means no new state tax on financial assets like brokerage and investment accounts.",
+    "Prop 1 housing bonds mean more state money for affordable housing; watch for new local application windows.",
+    "High earners: if Prop 3 holds, plan around today’s top California rates staying in place past 2031."
+   ],
+   "risk": [
+    "Counts can shift for days; close measures may flip before certification."
+   ],
+   "sources": [
+    {
+     "t": "Xavier Becerra wins governor’s race",
+     "d": "kqed.org",
+     "u": "https://www.kqed.org/news/12108277/xavier-becerra-wins-governors-race"
+    },
+    {
+     "t": "Proposition 40 results",
+     "d": "kqed.org",
+     "u": "https://www.kqed.org/elections/results/california/proposition-40"
+    },
+    {
+     "t": "Proposition 42 results",
+     "d": "kqed.org",
+     "u": "https://www.kqed.org/elections/results/california/proposition-42"
+    },
+    {
+     "t": "California election results",
+     "d": "nbclosangeles.com",
+     "u": "https://nbclosangeles.com/elections/california-election-results-governor-los-angeles-mayor-2026/3963622/"
+    },
+    {
+     "t": "Split decision: Prop 3 winning, Prop 40 losing",
+     "d": "edsource.org",
+     "u": "https://edsource.org/2026/billionaire-wealth-tax-vote-status/769708"
+    },
+    {
+     "t": "California poised to defeat voter ID, billionaire tax",
+     "d": "courthousenews.com",
+     "u": "https://courthousenews.com/california-poised-to-defeat-voter-id-billionaire-tax-measures/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "calfresh",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california"
+   ],
+   "date": "Back now",
+   "headline": "CalFresh users can get up to $60 a month in free produce again",
+   "caption": "The Fruit and Vegetable EBT program is back with $20 million after running dry in June. The rebate applies automatically at participating stores, for a limited time.",
+   "visual": {
+    "type": "stat",
+    "title": "California program",
+    "num": "$60/mo",
+    "tone": "acc",
+    "label": "Instant rebate on fruits and vegetables for CalFresh households.",
+    "facts": [
+     [
+      "Sign-up",
+      "None",
+      "Applied automatically"
+     ],
+     [
+      "Stores",
+      "92",
+      "Call ahead to confirm"
+     ],
+     [
+      "Funding",
+      "$20M",
+      "Through the end of the year"
+     ]
+    ]
+   },
+   "detail": [
+    "The CalFresh Fruit and Vegetable EBT Program gives an instant rebate when CalFresh shoppers buy fresh produce at participating stores. It was suspended in June after its money ran out.",
+    "Assemblymember Alex Lee secured $20 million in the 2026–27 budget to restart it. Since 2023 it has served more than 546,000 Californians.",
+    "The state says the program is not expanding to new stores, so check that your store is still taking part before you shop."
+   ],
+   "money": [
+    "If you get CalFresh, shopping at a participating store can stretch your benefits by up to $60 a month.",
+    "Know someone on CalFresh? Share it: many people missed it because there is no sign-up.",
+    "Federal changes are cutting average CalFresh benefits by about $39 a month for many households, so this offsets a real loss."
+   ],
+   "risk": [
+    "Funding is limited and could run out before year end."
+   ],
+   "sources": [
+    {
+     "t": "On CalFresh, you can once again get $60 of free fruits and vegetables monthly",
+     "d": "kqed.org",
+     "u": "https://www.kqed.org/news/12102320/on-calfresh-you-can-once-again-get-60-of-free-fruits-and-vegetables-monthly-for-a-limited-time"
+    },
+    {
+     "t": "Free fruits and vegetables through CalFresh available again",
+     "d": "ktvu.com",
+     "u": "https://www.ktvu.com/news/free-fruits-vegetables-through-calfresh-available-again"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "ai",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Nov 2–6",
+   "headline": "AI race: Google’s Gemini 4 Carbon takes #1, Tencent drops a giant open model",
+   "caption": "Gemini 4 Carbon topped the LMArena leaderboard. Tencent released Hy4, a 770-billion-parameter open-weights model. OpenAI says ChatGPT search is now a fifth of Google’s volume.",
+   "visual": {
+    "type": "deals",
+    "title": "AI this week",
+    "items": [
+     {
+      "a": "Google",
+      "b": "Gemini 4 Carbon",
+      "amt": "#1",
+      "st": "LMArena text rating 1528 · Nov 2",
+      "c": "ok"
+     },
+     {
+      "a": "Tencent",
+      "b": "Hy4",
+      "amt": "770B",
+      "st": "Open weights · 1M-token context · Nov 4",
+      "c": "ok"
+     },
+     {
+      "a": "OpenAI",
+      "b": "LifeVal",
+      "amt": "New",
+      "st": "Benchmark for everyday tasks · Nov 2",
+      "c": "pend"
+     },
+     {
+      "a": "ChatGPT",
+      "b": "search volume",
+      "amt": "≈⅕",
+      "st": "Of Google’s, per OpenAI",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Gemini 4 Carbon took the top spot on the LMArena text leaderboard with a rating of 1528. OpenAI released LifeVal, a benchmark that measures how well models handle practical tasks such as government paperwork and vehicle inspections.",
+    "Tencent’s Hy4 is an open-weights mixture-of-experts model with 770 billion parameters and a one-million-token context window, part of a wave of cheaper models squeezing AI prices.",
+    "On the policy side, China said it is speeding up laws to oversee algorithms and computing power, while in the US the new Democratic majority has spooked investors about data-center rules."
+   ],
+   "money": [
+    "Open-weights models keep pushing AI costs down; if you pay for AI tools in a side business, shop around every few months.",
+    "Skills that combine AI with a niche (reselling listings, video editing, paperwork) are where freelancers are getting paid.",
+    "Using AI more is not the same as AI stocks going up: this week usage grew while chip stocks fell."
+   ],
+   "risk": [
+    "Leaderboards change weekly; avoid locking into one paid tool long-term."
+   ],
+   "sources": [
+    {
+     "t": "Realtime AI news, Nov 2",
+     "d": "af.net",
+     "u": "https://af.net/realtime/page/202/?news_page=8"
+    },
+    {
+     "t": "Realtime AI news, Nov 3–4",
+     "d": "af.net",
+     "u": "https://af.net/realtime/page/204/?news_page=1"
+    },
+    {
+     "t": "AI update, November 6, 2026",
+     "d": "marketingprofs.com",
+     "u": "https://www.marketingprofs.com/opinions/2026/56257/ai-update-november-6-2026-ai-news-and-views-from-the-past-week"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "bankrupt",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Oct 28–Nov 5",
+   "headline": "Bankruptcy watch: franchise operators keep cracking",
+   "caption": "A 30-restaurant Denny’s operator, a Mattress Firm franchisee and candy brand Stuckey’s all filed for Chapter 11. High rents and softer spending are squeezing small chains.",
+   "visual": {
+    "type": "deals",
+    "title": "Recent Chapter 11 filings",
+    "items": [
+     {
+      "a": "EYM Diner",
+      "b": "30 Denny’s, Texas",
+      "amt": "Ch. 11",
+      "st": "Filed Nov 5",
+      "c": "bad"
+     },
+     {
+      "a": "D&A Mattress",
+      "b": "Mattress Firm franchisee",
+      "amt": "Ch. 11",
+      "st": "Filed Nov 2 · TX & NM stores",
+      "c": "bad"
+     },
+     {
+      "a": "Mancini Foods",
+      "b": "Florida food maker",
+      "amt": "Ch. 11",
+      "st": "Filed Nov 4 · Subchapter V",
+      "c": "bad"
+     },
+     {
+      "a": "Stuckey’s",
+      "b": "pecan candy brand",
+      "amt": "Ch. 11",
+      "st": "Late Oct · brand keeps operating",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "EYM Diner, which runs about 30 Denny’s restaurants in Texas, is the latest bankruptcy tied to former mega-franchisee EYM Group. D&A Mattress, a Mattress Firm franchisee in Texas and New Mexico, filed on November 2.",
+    "Franchise operators have filed in clusters throughout 2026, citing high lease costs, weaker spending on non-essentials and tighter credit. Bain expects global luxury sales to shrink for a second straight year.",
+    "Chapter 11 lets a company keep operating while it restructures; Stuckey’s says its brand will continue."
+   ],
+   "money": [
+    "Liquidation and closing sales can be a source of cheap inventory for resellers; watch local auction and liquidation listings.",
+    "Use gift cards from struggling chains soon; they can lose value in bankruptcy.",
+    "Rising franchise failures are an early signal of consumer stress, a reason to favor steadier companies."
+   ],
+   "risk": [
+    "Restructured companies can still liquidate later."
+   ],
+   "sources": [
+    {
+     "t": "A 30-unit Denny’s operator files for bankruptcy",
+     "d": "nrn.com",
+     "u": "https://www.nrn.com/family-dining/a-30-unit-denny-s-operator-files-for-bankruptcy"
+    },
+    {
+     "t": "Mattress Firm franchisee D&A Mattress files Chapter 11",
+     "d": "lexpress-franchise.com",
+     "u": "https://lexpress-franchise.com/en-us/news/da-mattress-mattress-firm-franchisee-chapter-11-texas/"
+    },
+    {
+     "t": "Mancini Foods files Chapter 11",
+     "d": "bluebookservices.com",
+     "u": "https://www.bluebookservices.com/?p=456412"
+    },
+    {
+     "t": "Stuckey’s files for bankruptcy, but brand will live on",
+     "d": "wrdw.com",
+     "u": "https://www.wrdw.com/2026/10/30/stuckeys-turns-chapter-11-bankruptcy-after-recent-plant-closure/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "ipos",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Week of Nov 9",
+   "headline": "Also on the IPO calendar: a cavity-treatment maker and a biotech",
+   "caption": "vVardis, which sells an over-the-counter cavity treatment, and Rezera, an inflammation-drug developer, aim to raise about $200M each. New issues are down 4% this year.",
+   "visual": {
+    "type": "board",
+    "title": "IPOs this week",
+    "rows": [
+     {
+      "k": "vVardis (VVVV)",
+      "s": "Cavity treatment · Zug, Switzerland",
+      "v": "$21–24"
+     },
+     {
+      "k": "Rezera (RZRA)",
+      "s": "Biotech · Boston · $200M raise",
+      "v": "$11–13"
+     },
+     {
+      "k": "IPO index, 2026",
+      "s": "Renaissance IPO Index vs. S&P 500 +8.4%",
+      "v": "−4.0%",
+      "tone": "loss"
+     },
+     {
+      "k": "Lock-ups ending",
+      "s": "Insiders free to sell this week",
+      "v": "9"
+     }
+    ]
+   },
+   "detail": [
+    "vVardis plans to raise about $214 million at a market value near $1.3 billion; most of its revenue comes from its over-the-counter US product. Rezera’s lead drug, ruvonoflast, heads into Phase 3 trials in the first half of 2027.",
+    "Newly public stocks have lagged: the Renaissance IPO Index was down 4.0% for the year as of November 5, while the S&P 500 was up 8.4%.",
+    "Nine lock-up periods expire this week, which can add selling pressure to recent IPOs."
+   ],
+   "money": [
+    "Small biotech IPOs are binary bets on trial results; size any position as money you can afford to lose.",
+    "Check lock-up calendars before buying a recent IPO; prices often sag around expiration.",
+    "An IPO ETF spreads risk across many new listings instead of betting on one."
+   ],
+   "risk": [
+    "Price ranges can change or deals can be postponed in a volatile market."
+   ],
+   "sources": [
+    {
+     "t": "US IPO Week Ahead: vVardis and Rezera on deck",
+     "d": "renaissancecapital.com",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  },
+  {
+   "id": "ahead",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "politics"
+   ],
+   "date": "Next 5 weeks",
+   "headline": "The dates that will move your money next",
+   "caption": "Anthropic’s launch, a new China tariff, Democratic leadership votes, the next jobs report and the Fed decision.",
+   "visual": {
+    "type": "timeline",
+    "title": "Coming up",
+    "items": [
+     {
+      "d": "TUE NOV 10",
+      "t": "Anthropic IPO may launch",
+      "s": "Plus 25% tariff on Chinese cargo equipment",
+      "now": true
+     },
+     {
+      "d": "WEEK OF NOV 16",
+      "t": "Anthropic expected to price",
+      "s": "Democrats pick House and Senate leaders"
+     },
+     {
+      "d": "WED NOV 18",
+      "t": "Union Pacific–Norfolk Southern",
+      "s": "Comments due on the $85B merger"
+     },
+     {
+      "d": "FRI DEC 4",
+      "t": "November jobs report"
+     },
+     {
+      "d": "DEC 8–9",
+      "t": "Fed decision",
+      "s": "Futures price ~77% odds of a hike"
+     }
+    ]
+   },
+   "detail": [
+    "This calendar pulls together the dates mentioned across this week’s stories. IPO timing is based on reports and can slip.",
+    "The December 4 jobs report is the last major data point before the Fed’s December 8–9 meeting."
+   ],
+   "money": [
+    "If you plan to request IPO shares, set it up with your broker before the pricing week.",
+    "Move idle cash into high-yield savings before a possible rate hike rather than after.",
+    "Avoid placing big trades right before the Dec 4 and Dec 9 announcements unless you accept bigger swings."
+   ],
+   "risk": [
+    "Schedules change; confirm dates the week of."
+   ],
+   "sources": [
+    {
+     "t": "US IPO Week Ahead",
+     "d": "renaissancecapital.com",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
+    },
+    {
+     "t": "US jobs surge, Fed hike odds rebound",
+     "d": "roic.ai",
+     "u": "https://www.roic.ai/news/us-jobs-surge-fed-hike-odds-rebound-11-06-2026"
+    },
+    {
+     "t": "Upcoming M&A deals",
+     "d": "dealroom.net",
+     "u": "https://dealroom.net/blog/upcoming-m-a"
+    },
+    {
+     "t": "Democrats capture full control of Congress",
+     "d": "nbcdfw.com",
+     "u": "https://www.nbcdfw.com/elections/democrats-control-of-congress/"
+    }
+   ],
+   "ts": "2026-11-09T06:55:00Z"
+  }
+ ]
+}
