@@ -298,13 +298,19 @@ const LABELS = {markets:'Markets', politics:'Politics', world:'War & oil', ai:'A
 let ITEMS = [];
 let UPDATED = null;
 function seedData(){ try{ return JSON.parse(document.getElementById('seed').textContent); }catch(e){ return {items:[]}; } }
+const POST_SOURCES = [
+  'https://raw.githubusercontent.com/shadowprivacyscam-ship-it/money-reels-hourly-posts/main/posts.json',
+  'posts.json'
+];
 async function fetchPosts(){
-  try{
-    const r = await fetch('posts.json?t=' + Date.now(), {cache:'no-store'});
-    if(!r.ok) throw new Error(r.status);
-    const d = await r.json();
-    if(d && Array.isArray(d.items) && d.items.length) return d;
-  }catch(e){}
+  for(const u of POST_SOURCES){
+    try{
+      const r = await fetch(u + '?t=' + Date.now(), {cache:'no-store'});
+      if(!r.ok) throw new Error(r.status);
+      const d = await r.json();
+      if(d && Array.isArray(d.items) && d.items.length) return d;
+    }catch(e){}
+  }
   return null;
 }
 function clean(items){
