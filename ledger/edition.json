@@ -1,10 +1,10 @@
 {
  "edition": {
   "paper": "The Angeleno Ledger",
-  "date_long": "Friday, November 13, 2026",
-  "date_short": "Nov. 13, 2026",
+  "date_long": "Saturday, November 14, 2026",
+  "date_short": "Nov. 14, 2026",
   "vol": "Vol. I",
-  "no": "No. 7"
+  "no": "No. 8"
  },
  "sections": [
   {
@@ -39,44 +39,44 @@
   }
  ],
  "lead": {
-  "headline": "Anthropic Sets $70-$78 IPO Range for a Nasdaq Debut Around Nov. 19 as Hot Inflation Puts a December Fed Hike at About 90%, Brent Jumps to $96 and Bitcoin Sinks Toward $69,000",
-  "deck": "Nvidia closed down 4.3% after its CEO's exit, gold fell about 3% on a 19-month-high dollar, and California gas is down to about $5.63 with oil now turning back up."
+  "headline": "Anthropic Heads Into Wednesday Pricing as Nvidia Loses Its CEO and a December Fed Hike Becomes Fully Priced; Wall Street Still Posts Its Best Week Since August",
+  "deck": "The S&amp;P 500 gained 2.5% for the week to 7,561.67 even as chip stocks slid Friday, the 10-year Treasury yield closed at 5.14%, and October producer prices ran 6.5% above a year earlier."
  },
  "board": [
   [
    "Dec. Fed hike odds",
-   "~89% (25 bp)"
+   "Fully priced (8% for 50 bp)"
   ],
   [
    "30-yr mortgage",
-   "7.18% (Nov. 5)"
+   "7.11% (Nov. 12)"
   ],
   [
    "S&amp;P 500",
-   "7,592.40 (Nov. 12)"
-  ],
-  [
-   "10-yr Treasury",
-   "5.12% (Nov. 12)"
+   "7,561.67 (Nov. 13)"
   ],
   [
    "Brent crude",
-   "$95.82 (Nov. 12)"
+   "$95.84 (Nov. 13)"
   ],
   [
    "Gold",
-   "~$3,867 (Nov. 12)"
+   "~$3,888 (Nov. 13)"
   ],
   [
    "Bitcoin",
-   "~$68.9K (Nov. 13)"
+   "~$68.3K (Nov. 13)"
   ],
   [
-   "Calif. gas (regular)",
-   "$5.63 (Nov. 5)"
+   "Oct. CPI (monthly)",
+   "+0.4%; core +0.3%"
+  ],
+  [
+   "SCE avg. rate",
+   "34.5 cents/kWh (Oct. 1)"
   ]
  ],
- "board_note": "Figures as of Nov. 12-13 unless noted (mortgage and gas Nov. 5; this week's Freddie Mac survey not in sources read); sources in each story.",
+ "board_note": "Figures as of Nov. 12-13 unless noted; the current Fed funds range was not in sources read this run; sources in each story.",
  "frontCols": [
   [
    "anthropic-ipo",
@@ -85,45 +85,49 @@
   ],
   [
    "markets",
-   "iran"
+   "calendar"
   ],
   [
-   "bitcoin",
-   "gold",
-   "gas"
+   "chinatruce",
+   "iran",
+   "coveredca"
   ]
  ],
  "stories": [
   {
    "key": "anthropic-ipo",
    "sec": "biz",
-   "when": "Pricing this week | Nasdaq debut ~Nov 19",
-   "headline": "Anthropic Sets a $70-$78 IPO Range, Valuing It at Up to $1.404 Trillion, With Nasdaq Trading Expected Around Nov. 19 and Reported Demand Several Times the Shares on Offer",
-   "deck": "The range is well below the $2 trillion some outlets floated weeks ago, and up to 20% of the offering is expected to go to retail investors.",
-   "summary": "825M shares at $70-$78 raise up to ~$64.4B; ticker ANT; Nasdaq ~Nov. 19; up to 20% retail.",
+   "when": "Pricing Wed Nov 18 | Nasdaq debut Thu Nov 19",
+   "headline": "Anthropic Heads Toward Pricing on Wednesday Nov. 18 and a Nasdaq Debut Nov. 19, With Its Book Reported About Six Times Covered and Up to 20% of Shares Aimed at Retail Investors",
+   "deck": "The $70-$78 range implies roughly $1.4 trillion fully diluted, well under the $2 trillion once floated, and the founders keep 50.1% of the voting power.",
+   "summary": "825M shares at $70-$78 (up to ~$64.4B); ticker ANT; pricing Nov. 18, trading Nov. 19; ~6x oversubscribed per Bloomberg.",
    "paras": [
-    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Anthropic set a price range of $70 to $78 a share for 825 million Class A shares, with underwriters holding an option on up to 123.75 million more. At the top of the range the offering raises about $64.4 billion and values the company at roughly $1.404 trillion on a fully diluted basis, up from $965 billion in a May funding round. The stock is to trade on Nasdaq under the ticker ANT, with trading expected around Nov. 19.",
-    "Alongside the public sale, seven strategic partners (AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC) agreed to buy $26 billion of non-voting Class N stock at the IPO price. Reporting says up to 20% of the public offering is expected to go to retail investors. One report, citing people familiar, put demand at about six times the shares on offer, though it cautioned that details could change.",
-    "The timing is awkward. The Nasdaq fell 5.5% last week on fears of tougher AI regulation after the midterms, and the company's annualized revenue run rate was reported at about $81 billion at the end of October, up from about $71 billion in late September. Pricing was expected during the week of Nov. 16, with the final range and date still subject to change."
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Anthropic plans to sell 825 million Class A shares at $70 to $78 each, which raises up to about $64.4 billion at the top of the range. Of those shares, 801.4 million are new and 23.6 million come from existing holders, and underwriters have a 30-day option on up to 123.75 million more. A separate $26 billion private placement with seven strategic partners is priced at the IPO price, and the fully diluted valuation is about $1.4 trillion at the top of the range.",
+    "Pricing is expected Wednesday, Nov. 18, with trading on Nasdaq under the ticker ANT on Thursday, Nov. 19, subject to regulatory clearance. Bloomberg, as cited by the Motley Fool, put demand at about six times the shares on offer. Up to 20% of the Class A shares may go to retail investors in the U.S. and other countries, a bigger slice than Arm (about 10%), Reddit (about 8%) or Instacart (up to 5%), according to InvestingLive.",
+    "Some terms matter for after the debut. Directors, officers and non-founder employees can sell up to 10% of their holdings when trading starts, while other holders must wait 180 days or longer, per the Motley Fool. Founders will hold 50.1% of voting power, which limits what public shareholders can influence, according to AlphaSense's read of the filing. An analyst quoted by InvestingLive warned the structure is great for the company but not necessarily for the buyers."
    ],
    "money": [
-    "Retail access does not mean a guaranteed allocation; brokerages usually ration IPO shares, and buying on the first day can mean paying well above the offer price.",
-    "If you own a Nasdaq-100 or total-market index fund, you may end up holding the stock indirectly once index providers add it, so check how much AI exposure you already have before buying more.",
-    "Newly listed mega-caps can swing 10% or more in days; sizing any purchase to an amount you could leave alone for years is a common way to limit regret.",
-    "Settled cash needs to be in your brokerage account before an IPO order, so decide ahead of time whether to move money out of savings or sell something else."
+    "Brokerages usually ration IPO shares, so a retail order can be filled in part or not at all; ask your broker how allocations work before counting on any shares.",
+    "First-day prices can land far above the offer price; a limit order caps what you pay, while a market order does not.",
+    "If you own a total-market or Nasdaq-100 fund you may end up holding the stock indirectly later, so check your existing AI exposure first.",
+    "Money for an IPO order generally needs to be settled cash in the account beforehand, so plan the transfer early rather than selling something in a rush."
    ],
    "sources": [
     {
-     "t": "Anthropic sets IPO range of $70 to $78 per share (TechCrunch)",
-     "u": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+     "t": "Can the Anthropic IPO Save the AI Rally? (Motley Fool)",
+     "u": "https://www.fool.com/investing/2026/11/13/can-the-anthropic-ipo-save-the-ai-rally/"
     },
     {
-     "t": "Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off (Fortune)",
-     "u": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+     "t": "Anthropic reserves up to 20% of its $64 billion IPO for retail investors (InvestingLive)",
+     "u": "https://investinglive.com/stocks/anthropic-reserves-up-to-20-of-its-64-billion-ipo-for-retail-investors/"
     },
     {
-     "t": "Anthropic IPO demand hits six times supply ahead of Nov. 19 Nasdaq debut (CoinCentral)",
-     "u": "https://coincentral.com/anthropic-ipo-demand-hits-six-times-supply-ahead-of-nov-19-nasdaq-debut"
+     "t": "Anthropic's IPO is said to be multiple times oversubscribed (StockAnalysis)",
+     "u": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/"
+    },
+    {
+     "t": "Anthropic IPO Preview (AlphaSense)",
+     "u": "https://www.alpha-sense.com/resources/research-articles/anthropic-ipo-preview/"
     }
    ],
    "prio": 1,
@@ -132,33 +136,37 @@
   {
    "key": "nvidia",
    "sec": "ai",
-   "when": "Thu Nov 12 close | Earnings Tue Nov 17",
-   "headline": "Nvidia Closes Down 4.3% After an Early 14% Plunge on CEO Jensen Huang's Exit, While Downgrades Pile Up Before Tuesday's Earnings",
-   "deck": "Early reports of a roughly 10% drop overstated the closing damage, but analysts have slashed targets and the stock is down more than $1 trillion in value this month.",
-   "summary": "Huang out; Kress interim CEO; stock recovered half its loss to close -4.3%; Truist and Craig-Hallum cut to Hold; earnings Tuesday.",
+   "when": "Earnings Tue Nov 17 | CEO exit Thu Nov 12",
+   "headline": "Nvidia Ends the Week Down About 13% After CEO Jensen Huang's Resignation, With Interim CEO Colette Kress Set to Report Earnings Tuesday",
+   "deck": "The stock closed Friday at $162.85, and HSBC downgraded it to hold, saying it will struggle until a permanent CEO is named.",
+   "summary": "Huang resigned Nov. 12; Kress interim CEO; stock -2% Fri, ~-13% week; earnings Tue 1:20 pm PT.",
    "paras": [
-    "Nvidia shares fell as much as 14% at Thursday's open after Jensen Huang resigned as chief executive, then recovered about half of that and closed down 4.3%. Yesterday's edition described a slide of about 10%; the final close was milder. The stock had already fallen about 27% from its record high through Wednesday, and one report put November losses above $1 trillion in market value.",
-    "CFO Colette Kress, who joined in 2013, is interim CEO while keeping her CFO role, and Harvey Jones, the company's first board chair, said the board has full confidence in her. One account tied the resignation to reports of extramarital affairs, including one with a subordinate, following a board investigation announced Sunday into reports that Huang was targeted by a foreign intelligence effort.",
-    "Analysts moved fast. Truist cut to Hold with a $174 target (from $346), Craig-Hallum cut to Hold with $180 (from $275), RBC cut its target to $230 from $330, and DA Davidson stayed at Buy but trimmed to $200 from $300. Nvidia reports fiscal third-quarter results Tuesday, with a call at 2 p.m. PT, and management had earlier guided to about $108 billion in revenue."
+    "Nvidia told the SEC on Nov. 12 that Jensen Huang had resigned as president, CEO and board member effective immediately. CFO Colette Kress became interim CEO while keeping her finance role, and Harvey C. Jones was named the company's first-ever board chair. The board said it will search for a permanent CEO and consider internal and external candidates, and the company will report fiscal third-quarter results Tuesday, Nov. 17, at about 1:20 p.m. Pacific.",
+    "The stock fell 2.0% on Friday to $162.85 and about 13% for the week, its worst week since April 2025, according to TheStreet. Reports about the circumstances are unproven, and the board has opened an independent investigation. Nvidia's record close was about $5.78 trillion on Oct. 6, and its value has dropped roughly $1.7 trillion, or about 30%, since then, per Mitrade's summary of Motley Fool reporting.",
+    "Expectations for the report are large: consensus is for revenue near $109 billion, earnings of $2.47 a share and January-quarter guidance around $125 billion, per Cardano Capital. The chip index fell 3.4% Friday but rose 8% over the week, TheStreet reported, with AMD up 18.9% and Broadcom up 18.2% for the week even as AMD dropped 9% on Friday."
    ],
    "money": [
-    "Nvidia is now more than 6% of the S&amp;P 500, so even index-fund owners feel its swings; check how concentrated your 401(k) or IRA is in a handful of mega-cap tech names.",
-    "Earnings on Tuesday could move the stock sharply either way; many investors avoid making big single-stock bets right before a known event.",
-    "If you are tempted to buy the dip, spreading purchases over several weeks reduces the risk of picking the wrong day.",
-    "If you hold Nvidia at a loss in a taxable account, selling to harvest the loss can offset gains, but the wash-sale rule blocks repurchase within 30 days."
+    "Single-stock swings this size are why many people hold Nvidia through broad funds; check how much of your S&amp;P 500 or Nasdaq fund it already represents.",
+    "Options and earnings-day moves can be violent; avoid borrowing or using money you need soon to trade around the report.",
+    "If you own the stock outside a retirement account, selling at a loss can offset other gains on your taxes, but wash-sale rules can limit it if you buy back within 30 days.",
+    "A CEO search can drag on for months; long-term holders often decide in advance what would change their thesis, rather than reacting to each headline."
    ],
    "sources": [
     {
-     "t": "Nvidia shares tumble as Wall Street reacts to Huang's exit (SF Standard)",
-     "u": "https://sfstandard.com/2026/11/12/nvidia-shares-tumble-as-wall-street-reacts-huang-s-exit/"
+     "t": "NVIDIA Form 8-K on CEO transition (SEC)",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
     },
     {
-     "t": "Nvidia stock just got downgraded after Jensen Huang's exit (Motley Fool)",
-     "u": "https://www.fool.com/investing/2026/11/12/nvidia-stock-just-got-downgraded-after-jensen-huang-s-exit-should-you-sell/"
+     "t": "Chips Slide Again, but the S&amp;P 500 Still Ends the Week Up 2.5% (TheStreet)",
+     "u": "https://pro.thestreet.com/market-commentary/chips-slide-again-but-the-sp-500-still-ends-the-week-up-2-5"
     },
     {
-     "t": "Wall Street shakes with swings for Nvidia and oil prices (BNN Bloomberg)",
-     "u": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
+     "t": "Nvidia Stock Has Wiped Out $1.7 Trillion in Value Since October (Mitrade)",
+     "u": "https://www.mitrade.com/insights/news/live-news/article-8-2246254-20261111"
+    },
+    {
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     }
    ],
    "prio": 2,
@@ -167,33 +175,37 @@
   {
    "key": "fed",
    "sec": "biz",
-   "when": "Fed meets Dec 8-9 | PPI Fri Nov 13",
-   "headline": "A December Fed Rate Hike Is Now Priced at About 90% After Hot October Inflation, With the 10-Year Treasury Yield Back Above 5%",
-   "deck": "Futures even give a half-point move an 11% chance, up from zero before the CPI report; the dollar hit a 19-month high.",
-   "summary": "CPI +0.35% m/m, core +0.30%; 10-yr at 5.12% Thursday; CME shows ~89% odds of a quarter-point hike.",
+   "when": "Hike priced for Dec | Fed minutes Wed Nov 18",
+   "headline": "A December Fed Rate Hike Is Now Fully Priced, With an 8% Chance of a Half-Point Move, as the 10-Year Yield Closes at 5.14% and Producer Prices Run 6.5% Above a Year Ago",
+   "deck": "Traders see 86 basis points of hikes through the last meeting of 2027, nearly double the 44 a week earlier.",
+   "summary": "Dec. hike fully priced (8% odds of 50 bp); 10-yr 5.14%; PPI +0.3% m/m, 6.5% y/y.",
    "paras": [
-    "October consumer prices rose about 0.35% from September, with core prices up 0.30%, according to Wolf Street's analysis of the report. Because the government did not collect October 2025 price data during the shutdown, year-over-year rates are estimates: roughly 4.0% for headline and 2.8% for core. Services did the damage: non-housing services rose 0.45% in the month, led by airfares, recreation and auto insurance.",
-    "Bond yields jumped. The 10-year Treasury yield rose about 12 basis points to roughly 5.0% on CPI day, a $42 billion 10-year auction cleared at 5.02%, and the yield reached 5.12% on Thursday from 4.98% on Tuesday. According to CME's FedWatch tool as cited by one precious-metals report, traders see about an 89% chance of a quarter-point hike at the Dec. 8-9 meeting and an 11% chance of a half-point hike.",
-    "The next test is the producer price index due Friday. A cooler reading could ease pressure on the dollar and yields, while another hot one would reinforce the hike case."
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. According to CME FedWatch figures cited by TheStreet, a December rate hike went from a 77% chance a week ago to fully priced, with an 8% chance of a half-point move. Markets now price 86 basis points of hikes through the final 2027 meeting, up from 44 basis points a week earlier. The 10-year Treasury yield closed at 5.14%, its highest close since mid-October and up 28 basis points on the week, the most since April 2025, while the 2-year yield ended at 4.85% after rising 34 basis points over the week.",
+    "October producer prices rose 0.3% from September, a little less than the 0.4% economists expected, but they were up 6.5% from a year earlier, the biggest annual jump since November 2022. Core producer prices were up 5.0% on an annualized basis, the highest since December 2022. Consumer prices also surprised on the upside for October, rising 0.4% overall and 0.3% in the core.",
+    "The next event to watch is the release of Federal Reserve meeting minutes on Wednesday, Nov. 18, which falls on the same day Anthropic is expected to price its IPO, according to Cardano Capital's calendar."
    ],
    "money": [
-    "Variable-rate debt such as credit cards and home-equity lines tends to reprice quickly after Fed hikes, so paying down the highest-rate balance first is the most direct response.",
-    "High-yield savings and money-market rates usually rise with Fed hikes; it can be worth checking whether your bank passes increases along.",
-    "Longer-dated Treasuries now yield above 5%, which some savers use for money they will not need for several years, though prices fall if yields keep rising.",
-    "Mortgage shoppers watch the 10-year yield more than the Fed itself; locking a rate when the yield dips can matter."
+    "Higher expected rates tend to raise costs for variable-rate debt such as credit cards and home equity lines; paying those balances down is a guaranteed return.",
+    "Savings, money market and short-term Treasury yields usually follow the Fed up, so compare what your cash is earning against current offers.",
+    "Fixed mortgage rates track the 10-year yield more than the Fed itself, so a rising 10-year can push quotes up even before any hike.",
+    "Long-term bond funds lose value when yields rise; check the duration of any bond fund you own."
    ],
    "sources": [
     {
-     "t": "10-Year Treasury Yield Spikes as Inflation Spreads (Wolf Street)",
-     "u": "https://wolfstreet.com/2026/11/10/10-year-treasury-yield-spikes-as-inflation-spreads-across-economy-driven-by-ugly-core-services-cpi/"
+     "t": "Chips Slide Again, but the S&amp;P 500 Still Ends the Week Up 2.5% (TheStreet)",
+     "u": "https://pro.thestreet.com/market-commentary/chips-slide-again-but-the-sp-500-still-ends-the-week-up-2-5"
     },
     {
-     "t": "Gold tumbles as dollar hits 19-month high on Fed hike bets (USAGold)",
-     "u": "https://www.usagold.com/daily-precious-metals-market-report-november-12-2026/"
+     "t": "Stock market today, Friday Nov. 13 (Yahoo Finance)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-     "t": "Wall Street shakes with swings for Nvidia and oil prices (SFN Today/AP)",
-     "u": "https://www.sfntoday.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
+     "t": "US consumer prices rise 0.4% in October (StockAnalysis)",
+     "u": "https://stockanalysis.com/news/us-cpi-rises-october-2026/"
+    },
+    {
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     }
    ],
    "prio": 3,
@@ -202,95 +214,115 @@
   {
    "key": "markets",
    "sec": "biz",
-   "when": "Thu Nov 12 close",
-   "headline": "Stocks Slip About 0.4% Thursday After a Wild Open, With the S&amp;P 500 at 7,592.40 as Nvidia Swings and Oil Jumps",
-   "deck": "The Dow closed at 52,297.09 and the Nasdaq at 25,366.09; jobless claims stayed low at 189,000.",
-   "summary": "S&amp;P 500 -26.98 to 7,592.40; Dow -189.40; Nasdaq -100.10; Broadcom and AMD rose while CoreWeave fell.",
+   "when": "Fri Nov 13 close | Best week since early Aug",
+   "headline": "Wall Street Ends Its Best Week Since Early August: S&amp;P 500 Up 2.5% to 7,561.67 Even as Tech Slipped 0.9% Friday and Chip Stocks Slid Again",
+   "deck": "The Dow closed at 52,347.55, but the S&amp;P 500 is still about 3.3% below its Oct. 6 high of 7,818.93.",
+   "summary": "S&amp;P 500 7,561.67 (-0.4% Fri, +2.5% wk); Nasdaq 25,136.27; Dow 52,347.55; VIX 19.30.",
    "paras": [
-    "Wall Street recovered most of its early losses but still finished lower Thursday. The S&amp;P 500 fell 26.98 points to 7,592.40, the Dow lost 189.40 to 52,297.09 and the Nasdaq Composite dropped 100.10 to 25,366.09, each about 0.4%. The S&amp;P had been down nearly 1% at the open before swinging positive in the morning.",
-    "Chip stocks split. Broadcom rose 5.5% and AMD 5.9%, while CoreWeave fell 6.9% and Micron slipped 1.6%. Energy shares gained with oil: ExxonMobil rose 1.8% and Marathon Petroleum 2.5%. For comparison, the S&amp;P 500 had jumped 2.4% on Monday to 7,549.94 on falling oil prices and anticipation of inflation data.",
-    "On the economy, weekly jobless claims were 189,000, which remains low by historical standards, and existing-home sales were due out the same day. Cisco and Applied Materials were among the companies scheduled to report."
+    "The S&amp;P 500 closed at 7,561.67 on Friday, down 0.4% on the day and up about 2.5% for the week, while the Nasdaq Composite fell 0.91% to 25,136.27 and the Dow rose 0.10% to 52,347.55, according to Yahoo Finance and Eurasia Business News. The Russell 2000 finished at 2,790.49 and the VIX volatility index at 19.30. It was the best week since early August for the S&amp;P 500, Nasdaq and Dow, TheStreet reported.",
+    "Friday's weakness was concentrated in technology while most other sectors rose. Among S&amp;P 500 stocks, AMD fell 9%, Dell 7% and Cisco 6% on Friday, while Charter and STERIS rose about 4%. For the week, energy led all 11 sectors with a gain of 5.37%, according to Cardano Capital, and the worst stocks were First Solar (down 14.8%), Nvidia (down 12.8%) and Moderna (down 12.1%).",
+    "The S&amp;P 500's weekly close is about 3.3% below its record close of 7,818.93 from Oct. 6, per Cardano Capital. Next week brings earnings from Nvidia on Tuesday and retailers including Home Depot, Target, Lowe's and Walmart."
    ],
    "money": [
-    "A day like this shows how much swinging underneath a flat index; if you rebalance, doing it on a schedule beats reacting to daily moves.",
-    "Low jobless claims mean layoffs are not yet spreading, which is why the Fed can focus on inflation; keep an eye on claims as a gauge of job security.",
-    "Energy shares rose while tech sagged; owning a broad index fund already spreads that risk across sectors.",
-    "Long-term investors often keep cash for the next six to twelve months of expenses outside the market so a drop never forces a sale."
+    "Equal-weight and sector funds had a different week than cap-weighted ones; compare what you own before assuming the headline index matches your account.",
+    "A 2.5% weekly gain followed by a hot-inflation backdrop is a reminder not to chase; automatic monthly investing avoids guessing the timing.",
+    "Retailer earnings next week are a read on how consumers are coping with higher prices, which can hint at where discounts are coming.",
+    "If your portfolio drifted toward tech, rebalancing in a retirement account has no tax cost."
    ],
    "sources": [
     {
-     "t": "The Closing Bell: Wall Street shakes with swings for Nvidia and oil prices (AP via SFN Today)",
-     "u": "https://www.sfntoday.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
+     "t": "Stock market today, Friday Nov. 13 (Yahoo Finance)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-     "t": "Stock market today, Thursday Nov. 12 (Yahoo Finance)",
-     "u": "https://sg.finance.yahoo.com/news/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+     "t": "Stock Market Today, November 13, 2026 (Eurasia Business News)",
+     "u": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
     },
     {
-     "t": "Stock market news for Nov. 10, 2026 (Zacks)",
-     "u": "https://www.zacks.com/stock/news/3026944/stock-market-news-for-nov-10-2026"
+     "t": "Chips Slide Again, but the S&amp;P 500 Still Ends the Week Up 2.5% (TheStreet)",
+     "u": "https://pro.thestreet.com/market-commentary/chips-slide-again-but-the-sp-500-still-ends-the-week-up-2-5"
+    },
+    {
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     }
    ],
    "prio": 4,
    "num": 4
   },
   {
-   "key": "bitcoin",
+   "key": "calendar",
    "sec": "biz",
-   "when": "Fri Nov 13 early | ETF outflows",
-   "headline": "Bitcoin Drops to About $68,850, a Near Three-Month Low, as Fed Hike Bets, ETF Outflows and an MSCI Decision on Strategy Weigh",
-   "deck": "The coin was near $73,660 on Thursday, then fell more than 6% in 24 hours as stablecoin supply shrank at the fastest pace since 2022.",
-   "summary": "BTC ~$68.9K early Friday (-6.6% in 24h); spot ETFs lost $1.44B in five sessions; MSCI dropping Strategy.",
+   "when": "Next 8 weeks",
+   "headline": "The Money Calendar: Nvidia Tuesday, Fed Minutes and Anthropic Pricing Wednesday, Anthropic Trading Thursday, Funding Cliff Dec. 11, Covered California Dec. 31, Medi-Cal Jan. 1, China Truce Jan. 10",
+   "deck": "The dates that can move prices, benefits and bills between now and the new year.",
+   "summary": "Nov. 17 Nvidia; Nov. 18 Fed minutes and Anthropic pricing; Nov. 19 debut; Dec. 4 tariffs; Dec. 11 funding; Dec. 31 Covered CA; Jan. 1 Medi-Cal; Jan. 10 China.",
    "paras": [
-    "Bitcoin slid to about $68,850 in early trading Friday, a near three-month low, down about 6.6% over 24 hours and 9% for the week. On Thursday it had traded near $73,660 after bouncing from a $72,787 low following the hot inflation report, and it remains well below its roughly $87,600 level at the start of the year.",
-    "Several pressures hit at once. U.S. spot Bitcoin ETFs saw about $1.44 billion of net outflows over the five sessions through Nov. 11. Expectations of a December Fed hike weigh on assets that pay no yield. MSCI plans to remove Strategy, Metaplanet and Yellow Cake from its global indexes, and Strategy had warned that an exclusion could force about $2.8 billion of stock sales. Stablecoin supply also shrank by $14.2 billion over 30 days, the sharpest drop since 2022.",
-    "Analysts called the near-term outlook bearish and are watching whether $70,000 holds. Some traders also link the weakness to Democrats' midterm gains and the possibility of more congressional attention to crypto. Ether was near $2,049 on Thursday."
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Next week is packed. Nvidia reports earnings Tuesday, Nov. 17. On Wednesday, Nov. 18, Federal Reserve meeting minutes are due and Anthropic is expected to price its IPO, and Anthropic is expected to begin trading Thursday, Nov. 19, according to Cardano Capital. Home Depot, Target, Lowe's and Walmart also report during the week.",
+    "Further out, polysilicon tariffs take effect Dec. 4, the federal stopgap funding law runs out Dec. 11, and Dec. 31 is both the last day to pick a Covered California plan for coverage all of 2027 and the day the temporary 2.5% Medicare physician payment increase expires. On Jan. 1, California's Medi-Cal work requirement begins for some adults 19 to 64, upholstered-furniture and cabinet tariffs step up, and on Jan. 10 China's two-month pause on rare earth curbs and its 24% tariff on U.S. goods runs out.",
+    "Reporting also expects a Trump-Xi meeting at the APEC summit in Shenzhen, which The National described on Nov. 9 as coming 'next week', so keep an eye on that for trade headlines."
    ],
    "money": [
-    "Crypto trades around the clock, so losses can pile up while you sleep; many holders cap crypto at a small share of their total investments.",
-    "Selling at a loss in a taxable account can create a capital loss that offsets gains, and crypto wash-sale treatment has differed from stocks, so check current IRS guidance before relying on it.",
-    "Crypto-linked stocks and ETFs carry extra risk from index changes like MSCI's; check what your funds actually hold.",
-    "Spreading purchases over time, rather than one lump sum, is a common way to avoid buying a local top."
+    "Put the Dec. 31 health-plan deadline and the Dec. 11 funding date on your phone calendar now; both involve real money if missed.",
+    "If you plan to buy furniture or kitchen cabinets, the scheduled Jan. 1 tariff step-ups are a reason some shoppers buy before year-end.",
+    "Hold off on big one-day trades around events like Nvidia's report; the move can reverse the next morning.",
+    "Check year-end tax moves (retirement contributions, charitable gifts) while there is still time to act."
    ],
    "sources": [
     {
-     "t": "Bitcoin falls to 3-month low of $68,850 (NewsBytes)",
-     "u": "https://www.newsbytesapp.com/news/business/bitcoin-falls-to-3-month-low-of-68-850/story"
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     },
     {
-     "t": "Bitcoin slips below $74,000 as MSCI drops Strategy and Fed hike bets build (CoinCentral)",
-     "u": "https://coincentral.com/bitcoin-btc-price-slips-below-74000-as-msci-drops-strategy-and-fed-hike-bets-build/"
+     "t": "Beyond the Midterms: Congress Faces Converging Year-End Deadlines (Holland &amp; Knight)",
+     "u": "https://www.hklaw.com/en/insights/publications/2026/10/beyond-the-midterms-congress-faces-converging-year-end-deadlines"
+    },
+    {
+     "t": "Covered California kicks off 2027 open enrollment (Covered California)",
+     "u": "https://www.coveredca.com/press-releases/amid-federal-changes-covered-california-kicks-off-2027-open-enrollment-connectors-to-coverage"
+    },
+    {
+     "t": "Stakeholder News, November 9, 2026 (DHCS)",
+     "u": "https://www.dhcs.ca.gov/?p=239834"
+    },
+    {
+     "t": "Trump 2.0 Tariff Tracker (Trade Compliance Resource Hub)",
+     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+    },
+    {
+     "t": "China extends pause on rare earth export curbs for two months (The National)",
+     "u": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/"
     }
    ],
    "prio": 5,
    "num": 5
   },
   {
-   "key": "gold",
+   "key": "crypto-gold",
    "sec": "biz",
-   "when": "Thu Nov 12 | Third straight drop",
-   "headline": "Gold Falls About 3% to Roughly $3,866 and Silver Slips Back Under $50 as the Dollar Hits a 19-Month High",
-   "deck": "The slide, not new gold news, is blamed on rising yields and Fed hike bets; gold is near its late-October one-year low.",
-   "summary": "Gold ~$3,866.51 (-3.05%), silver ~$49.88 (-3.5%); December futures opened under $4,000 for the first time since last week.",
+   "when": "Fri Nov 13",
+   "headline": "Bitcoin Falls 3.8% to About $68,350 as Fed-Hike Bets Build, While Gold Holds Near $3,888",
+   "deck": "Crypto lagged stocks on the week as yields rose, and gold barely moved Friday after a volatile stretch.",
+   "summary": "Bitcoin $68,346 (-3.8%); gold $3,887.60 (+0.06%); WTI $88.92.",
    "paras": [
-    "Gold dropped about 3.05% Thursday to roughly $3,866.51 an ounce, its third straight daily decline, while silver fell about 3.5% to $49.88 and platinum eased about 1.4% to $1,517.70. December futures had opened at $3,994, back under $4,000 for the first time since last week, and gold is now close to its late-October one-year low near $3,870.",
-    "The cause is the dollar, which rallied to a 19-month high as hotter inflation lifted Treasury yields and Fed hike expectations. Higher yields make non-interest-paying gold less attractive. Analyst Ole Hansen pointed to support near $3,970 and noted that lower energy prices could eventually ease inflation, which would weaken the hike case.",
-    "One report calls the area a possible accumulation zone for physical buyers rather than a trend change, but that is opinion, not a forecast. Friday's producer price index is the next signal for the dollar."
+    "Bitcoin fell 3.8% on Friday to $68,346.45, according to Yahoo Finance's market page, losing about $2,700 in a day. The selloff came as traders priced a December Federal Reserve rate hike and the 10-year Treasury yield touched 5.17%, its highest since October. Higher yields generally make assets that pay no income less attractive.",
+    "Gold finished Friday at $3,887.60, up 0.06%, on the same Yahoo page. An earlier market snapshot at 8:31 a.m. Eastern put gold near $3,884.90 and oil near $88.47, with the CNN Fear and Greed Index at 38.8, which is in 'fear' territory, according to The Mortgage Reports.",
+    "Crude oil for December delivery closed at $88.92 on the Yahoo page, up 0.2%."
    ],
    "money": [
-    "Gold has fallen roughly 5% in a month; if you hold it as insurance, the price drop is a reminder it is volatile too.",
-    "Buying coins or bars carries dealer premiums over spot and resale spreads, which eat into short-term gains.",
-    "A stronger dollar makes imports and foreign travel cheaper for Angelenos; it is an input to planning overseas trips.",
-    "Gold ETFs avoid storage costs but still move with the same price; a small share of a portfolio is a common approach."
+    "Crypto can move several percent in a day; only money you could leave alone for years is a common rule of thumb.",
+    "Gold pays no interest, so when cash and bonds yield more, holding it has a cost; weigh that against its role as a hedge.",
+    "Dollar-cost averaging into any volatile asset spreads out entry points rather than betting on a single day.",
+    "Crypto gains and losses are taxable events when sold or traded; keep records."
    ],
    "sources": [
     {
-     "t": "Daily precious metals market report, Nov. 12, 2026 (USAGold)",
-     "u": "https://www.usagold.com/daily-precious-metals-market-report-november-12-2026/"
+     "t": "Stock market today, Friday Nov. 13 (Yahoo Finance)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-     "t": "Gold prices today, Thursday Nov. 12, 2026 (Yahoo Finance)",
-     "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-12-2026-prices-open-back-under-4000-as-rate-hikes-crystallize-121913089.html"
+     "t": "Mortgage Rates Ease in Freddie Mac's Weekly Average (The Mortgage Reports)",
+     "u": "https://themortgagereports.com/92375/mortgage-and-refinance-rates-today-june-06-2022"
     }
    ],
    "prio": 6,
@@ -299,68 +331,64 @@
   {
    "key": "oil",
    "sec": "biz",
-   "when": "Brent $95.82 Thu Nov 12",
-   "headline": "Brent Jumps 3.3% to $95.82 After Trump Says the U.S. Does Not Need an Iran Deal, Though Crude Has Been Far Below Its Wartime Peak",
-   "deck": "Oil has swung between roughly $70 and $150 since the war with Iran began in late February.",
-   "summary": "Brent +3.3% to $95.82 Thursday; WTI and Brent had been falling earlier in the week; energy stocks led.",
+   "when": "Brent $95.84 Fri Nov 13",
+   "headline": "Brent Settles at $95.84 and WTI at $88.56 as Both Post a Second Weekly Decline, With Iran Talks Stalled and Russian Refineries Under Drone Fire",
+   "deck": "Ukrainian strikes have knocked out refining equal to about 30% of Russia's capacity since late October, while U.S. crude stockpiles grew.",
+   "summary": "Brent $95.84 (+$0.02); WTI $88.56; both down for the week; U.S. crude inventories +4.657M barrels.",
    "paras": [
-    "Brent crude settled up 3.3% at $95.82 a barrel Thursday, after briefly jumping from about $92 to above $94 in the morning when President Trump posted that the U.S. does not need a deal with Iran. Earlier in the week crude had been sliding: on Monday WTI fell to $85.93 and Brent to $91.75 as investors awaited the inflation report.",
-    "Since the U.S.-Israel war with Iran began in late February, oil has traded between roughly $70 and $150 a barrel, so Thursday's move is small against that range but reverses the hopes for a settlement that had pushed prices lower. Energy shares rallied, with ExxonMobil up 1.8% and Marathon Petroleum up 2.5%.",
-    "The 10-year Treasury yield rose to 5.12% in the same session, keeping the oil-inflation-rates loop in focus for the Fed."
+    "Brent crude settled at $95.84 a barrel on Friday, up two cents, and U.S. WTI settled at $88.56, down about 0.2%. Both posted a second straight weekly decline, according to Eurasia Business News. Earlier in the week Brent had been near $92.7 on Nov. 11 after recovering from a 10-week low, per Trading Economics, before climbing back toward $96.",
+    "Trading Economics listed several pushes and pulls: Iranian officials deny talks are underway and say the U.S. must lift its blockade and sanctions first, while Ukrainian drone strikes have disrupted refineries representing roughly 30% of Russian processing capacity since late October. Offsetting that, Middle Eastern exports were rising and U.S. crude inventories grew by 4.657 million barrels.",
+    "Energy stocks were the best sector of the week, gaining 5.37%, Cardano Capital reported."
    ],
    "money": [
-    "Oil feeds into gasoline and airfares within weeks; locking in holiday flights sooner can beat waiting if oil keeps rising.",
-    "California gas has been falling, and a jump in crude can stop that trend; fill up when stations are cheap rather than on a fixed schedule.",
-    "Energy stocks gained on the news; broad index funds already hold energy, so you may not need separate bets.",
-    "If you run a delivery or rideshare business, tracking fuel costs weekly helps with pricing and tax deductions."
+    "Gasoline usually follows crude with a lag of a week or two, so Brent's rebound can eventually show up at California pumps.",
+    "Fill-ups on cheap days can help: apps and loyalty programs often take 10 to 25 cents a gallon off.",
+    "Energy-heavy index funds benefit when oil rises; check whether you already own that exposure.",
+    "Airfares and shipping costs also respond to fuel; book flexible tickets early if you travel for the holidays."
    ],
    "sources": [
     {
-     "t": "Oil prices rise after Trump says U.S. doesn't need Iran deal (Transport Topics)",
-     "u": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal"
+     "t": "Stock Market Today, November 13, 2026 (Eurasia Business News)",
+     "u": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
     },
     {
-     "t": "Wall Street shakes with swings for Nvidia and oil prices (AP via SFN Today)",
-     "u": "https://www.sfntoday.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
+     "t": "Brent Settles Above $92 Amid US-Iran Tensions (Trading Economics)",
+     "u": "https://tradingeconomics.com/commodity/brent-crude-oil/news/600509"
     },
     {
-     "t": "Stock market news for Nov. 10, 2026 (Zacks)",
-     "u": "https://www.zacks.com/stock/news/3026944/stock-market-news-for-nov-10-2026"
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     }
    ],
    "prio": 7,
    "num": 7
   },
   {
-   "key": "homes",
+   "key": "mortgage",
    "sec": "biz",
-   "when": "NAR released Nov 12 | Freddie Mac Nov 5",
-   "headline": "Existing-Home Sales Fell 5.5% in October to the Slowest Pace in More Than 16 Years Reports Say, While Mortgage Rates Were 7.18% at Last Reading",
-   "deck": "With the 10-year Treasury yield back above 5%, the recent run of falling mortgage rates may not continue.",
-   "summary": "October existing-home sales -5.5% m/m (Sept: 3.99M), down year over year in all four regions; 30-yr rate 7.18% on Nov. 5.",
+   "when": "Freddie Mac Thu Nov 12",
+   "headline": "Mortgage Rates Slip to 7.11% in Freddie Mac's Weekly Survey, a Fourth Straight Decline, but the Rising 10-Year Yield Threatens to Reverse It",
+   "deck": "The 15-year averaged 6.45%, and Fannie Mae and the MBA both see rates near 7.3%-7.4% by year-end.",
+   "summary": "30-yr 7.11% (from 7.18%); 15-yr 6.45%; 10-yr yield 5.135% Fri a.m.; Fannie 7.4%, MBA 7.3% for Q4.",
    "paras": [
-    "The National Association of Realtors reported Thursday that existing-home sales fell 5.5% in October from September, when sales ran at 3.99 million, and were down from a year earlier in all four regions. A market report described it as the slowest pace in more than 16 years.",
-    "Freddie Mac's most recent survey in the sources read, from Nov. 5, put the average 30-year fixed mortgage rate at 7.18%, down from 7.24% the week before, with the 15-year at 6.57%. That was the third straight weekly decline, but the 10-year Treasury yield has since climbed to 5.12%, which usually pushes mortgage rates up. This week's survey was not in sources read.",
-    "The combination of high rates and weak sales leaves many would-be buyers and sellers waiting, which also helps explain softer rents in parts of Los Angeles."
+    "Freddie Mac's survey dated Nov. 12 put the 30-year fixed mortgage rate at 7.11%, down from 7.18% the week before, which was itself down 6 basis points from 7.24% the week before that, according to RISMedia. The 15-year fell to 6.45%. A year earlier the 30-year averaged 6.22%.",
+    "The decline may not last. The 10-year Treasury yield, which mortgage rates tend to follow, rose to about 5.135% early Friday and ended the day near 5.15%, so daily quotes could move higher. Fannie Mae projects 7.4% for the fourth quarter and the Mortgage Bankers Association projects 7.3%, and the MBA's chief economist expects the Fed's next move to be a hike, The Mortgage Reports said.",
+    "Freddie Mac's figure is a weekly average and not a rate on any specific offer; your quote depends on credit, loan type and costs."
    ],
    "money": [
-    "At 7.18%, each $100,000 borrowed costs roughly $680 a month in principal and interest; shopping three or more lenders often shaves a fraction of a point.",
-    "Sellers who bought with low rates are reluctant to move, which keeps inventory tight; buyers sometimes negotiate seller-paid rate buydowns instead of price cuts.",
-    "If you have a higher-rate loan, refinancing math only works if rates fall meaningfully; run the break-even on closing costs before acting.",
-    "Renters facing flat rents can use that as leverage when renewing."
+    "Ask lenders for rate locks and compare the cost of points; a lock protects you if yields keep rising.",
+    "A higher credit score can cut your quote noticeably; check your report for errors before applying.",
+    "If you already have a rate under 6%, refinancing at 7%+ rarely makes sense.",
+    "Buying down the rate with points only pays off if you hold the loan long enough to recoup the upfront cost."
    ],
    "sources": [
     {
-     "t": "Existing-home sales receded 4.1% in October (NAR)",
-     "u": "https://www.nar.realtor/newsroom/existing-home-sales-receded-4-1-in-october"
+     "t": "Mortgage Rates Ease in Freddie Mac's Weekly Average (The Mortgage Reports)",
+     "u": "https://themortgagereports.com/92375/mortgage-and-refinance-rates-today-june-06-2022"
     },
     {
-     "t": "Primary Mortgage Market Survey (Freddie Mac)",
-     "u": "https://www.freddiemac.com/pmms?mod=ANLink"
-    },
-    {
-     "t": "Wall Street shakes with swings for Nvidia and oil prices (BNN Bloomberg)",
-     "u": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
+     "t": "Mortgage rates edge down third straight week (RISMedia)",
+     "u": "https://www.rismedia.com/2026/11/05/mortgage-rates-edge-down-third-straight-week/"
     }
    ],
    "prio": 8,
@@ -369,218 +397,215 @@
   {
    "key": "ipos",
    "sec": "biz",
-   "when": "Week of Nov 9-13",
-   "headline": "Three IPOs Were Slated This Week, Led by a $214 Million Swiss Dental-Tech Deal, Ahead of Anthropic's Far Larger Offering",
-   "deck": "Renaissance Capital says the backdrop looks weaker than the company likely expected after the post-midterm tech sell-off.",
-   "summary": "vVardis $214M, Rezera $200M, Windward Bio $175M; Anthropic could launch as soon as this week.",
+   "when": "Week of Nov 16 | Three biotech and health IPOs",
+   "headline": "Three IPOs Are Slated for the Week Ahead, Led by Swiss Dental-Tech Company vVardis at $214 Million, as All Eyes Turn to Anthropic's Far Larger Deal",
+   "deck": "Rezera, vVardis and Windward Bio together seek about $589 million.",
+   "summary": "Rezera $200M ($11-$13); vVardis $214M ($21-$24); Windward Bio $175M ($16-$18).",
    "paras": [
-    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Renaissance Capital's weekly preview listed three IPOs for the week of Nov. 9: vVardis, a Swiss maker of non-invasive cavity treatments, seeking $214 million at $21-$24 a share; Rezera, a Boston developer of oral inflammation drugs, seeking $200 million at $11-$13; and Windward Bio, a Swiss respiratory biotech, seeking $175 million at $16-$18. The preview did not give exact listing dates.",
-    "The same preview said Anthropic could launch its IPO as early as Tuesday, with pricing possibly in the week of Nov. 16, and described the market as weaker than the company probably wanted after tech stocks fell sharply following the midterm results."
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Renaissance Capital lists three IPOs on the calendar for the week ahead without giving exact pricing dates: Rezera, a Boston inflammatory-disease biotech, seeking $200 million at $11 to $13 a share; vVardis, a Zug, Switzerland company that sells non-invasive cavity treatments, seeking $214 million at $21 to $24; and Windward Bio, a Basel, Switzerland biotech, seeking $175 million at $16 to $18.",
+    "The three combined would raise about $589 million, a small fraction of Anthropic's offering of up to about $64.4 billion, which is expected to price on Nov. 18 per Cardano Capital. Biotech IPOs are often volatile because their value rests on trial results."
    ],
    "money": [
-    "Small IPOs, especially biotech, can be volatile and illiquid; many investors treat them as a tiny speculative slice, if at all.",
-    "Retail investors often cannot get IPO allocations at the offer price, so first-day buyers frequently pay a premium.",
-    "Quiet periods and lockups matter: insiders usually cannot sell right away, and expirations can pressure prices later.",
-    "Reading the prospectus's risk factors takes minutes and often shows the real story."
+    "Small IPOs can be thinly traded and swing sharply; limit orders protect against paying a spike price.",
+    "Early biotech investors often hold for years before any revenue; position size matters.",
+    "Mutual funds that hold recent IPOs give broad exposure without picking a single company.",
+    "Check the lockup expiration date, when insiders can start selling, which has historically pressured prices."
    ],
    "sources": [
     {
-     "t": "US IPO Week Ahead: dental-tech vVardis and two biotechs on deck (Renaissance Capital)",
+     "t": "US IPO Week Ahead (Renaissance Capital)",
      "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-two-biotechs-on-deck-as"
     },
     {
-     "t": "Anthropic sets IPO range of $70 to $78 per share (TechCrunch)",
-     "u": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     }
    ],
    "prio": 9,
    "num": 9
   },
   {
-   "key": "calendar",
-   "sec": "biz",
-   "when": "Next eight weeks",
-   "headline": "The Money Calendar: PPI Today, Nvidia Nov. 17, Anthropic Trading About Nov. 19, Polysilicon Tariffs Dec. 4, Fed Dec. 8-9, Funding Cliff Dec. 11, China Truce Jan. 10",
-   "deck": "Eight dates that can move your portfolio, your bills or your benefits.",
-   "summary": "PPI Fri; Nvidia Tue; Anthropic ~Nov. 19; Dec. 4 tariffs; Fed Dec. 8-9; Dec. 11 shutdown deadline; Dec. 31 plan pick; Jan. 1 rules; Jan. 10 truce.",
+   "key": "anthropic-s1",
+   "sec": "ai",
+   "when": "IPO filing | Nov 10-13",
+   "headline": "Anthropic's Filing Shows $33.2 Billion in Nine-Month Revenue, a $567 Million Third-Quarter Operating Loss and About $901 Billion in Compute Commitments",
+   "deck": "Annualized revenue reached about $81 billion in October, while the filing devotes 94 pages to risk factors.",
+   "summary": "9-mo revenue $33.2B; Q3 $17B; Q3 operating loss $567M; run rate ~$81B; compute commitments ~$901B.",
    "paras": [
-    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Friday, Nov. 13: producer price index, a key read on whether the dollar and yields keep rising. Tuesday, Nov. 17: Nvidia earnings with a 2 p.m. PT call, the first test after CEO Huang's exit. About Nov. 19: expected first trading day for Anthropic (ticker ANT) on Nasdaq, per reports. Nov. 23-27: tentative Senate Thanksgiving recess.",
-    "Dec. 4: Section 232 tariffs and minimum import prices on polysilicon begin. Dec. 8-9: Fed meeting, with a quarter-point hike priced at about 89%. Dec. 11: current federal funding expires. Dec. 31: last day to pick a Covered California plan for coverage starting Jan. 1; open enrollment runs to Jan. 31.",
-    "Jan. 1, 2027: Medi-Cal work requirements for expansion adults begin and the 25% tariff on upholstered furniture and cabinets steps up. Jan. 10, 2027: the U.S.-China trade truce checkpoint."
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Anthropic's IPO filing shows revenue of $33.2 billion in the first nine months of 2026, up from $2.5 billion a year earlier, with $17 billion in the third quarter versus $11.6 billion in the second. The company posted a $567 million operating loss in the third quarter after a $974 million operating profit in the second, and its annualized revenue run rate was about $81 billion at the end of October, per AlphaSense's preview.",
+    "The filing lists about $901 billion of compute commitments, including about $452 billion due through 2030 and $70.7 billion within 12 months, and warns that Q3 growth slowed compared with Q2. It also lists competition from open-weight models, training costs and a possible catastrophic AI incident that could exceed insurance coverage. Capital raised through June totaled $141 billion at a last valuation of $965 billion.",
+    "The $26 billion private placement includes $10 billion each from Nvidia and Google, according to Cardano Capital."
    ],
    "money": [
-    "Put the dates you control (plan selection, tax moves, rate locks) on your calendar now so market news does not rush decisions.",
-    "If you plan to buy furniture or cabinets, buying before the Jan. 1 tariff step-up may avoid higher pricing, though retailers may already price in costs.",
-    "Rate hike dates matter for variable loans; review balances before Dec. 8.",
-    "Federal workers and contractors may want a cash cushion before Dec. 11."
+    "A valuation near 17 times annualized sales (the Motley Fool's estimate) leaves little room for error; compare multiples across AI names before buying.",
+    "Heavy compute commitments mean profits depend on usage growth; read the risk factors yourself before investing.",
+    "AI funds may hold the stock after the IPO; check what yours owns.",
+    "Hype-driven IPOs often cool within months; a plan to hold or sell, set in advance, beats improvising on day one."
    ],
    "sources": [
     {
-     "t": "Government shutdown deadline Dec. 11, 2026: lame-duck calendar (Fresh Calendars)",
-     "u": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "t": "Anthropic IPO Preview (AlphaSense)",
+     "u": "https://www.alpha-sense.com/resources/research-articles/anthropic-ipo-preview/"
     },
     {
-     "t": "Trump 2.0 tariff tracker (Trade Compliance Resource Hub)",
-     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+     "t": "Nasdaq Snaps a Four-Week Slide as Nvidia's CEO Resigns (Cardano Capital)",
+     "u": "https://cardanocapital.substack.com/p/nasdaq-snaps-a-four-week-slide-up"
     },
     {
-     "t": "Gold prices today, Thursday Nov. 12, 2026 (Yahoo Finance)",
-     "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-12-2026-prices-open-back-under-4000-as-rate-hikes-crystallize-121913089.html"
-    },
-    {
-     "t": "Covered California 2027 open enrollment (Covered California)",
-     "u": "https://www.coveredca.com/press-releases/covered-california-s-open-enrollment-2027-amid-federal-changes-covered-california-continues-to"
+     "t": "Can the Anthropic IPO Save the AI Rally? (Motley Fool)",
+     "u": "https://www.fool.com/investing/2026/11/13/can-the-anthropic-ipo-save-the-ai-rally/"
     }
    ],
    "prio": 10,
    "num": 10
   },
   {
-   "key": "chinatruce",
-   "sec": "trade",
-   "when": "Truce checkpoint Jan 10, 2027",
-   "headline": "The U.S.-China Trade Truce Now Runs to Jan. 10, 2027, but Bessent Calls It a Checkpoint and No New Tariff Cuts Came With It",
-   "deck": "Suspensions of new retaliatory tariffs, rare-earth export controls and port fees stay in place while talks on a bigger package continue.",
-   "summary": "Extended two months from Nov. 10; USTR proposed port-fee suspension through Jan. 9; China stack unchanged.",
+   "key": "anthropic-power",
+   "sec": "ai",
+   "when": "Reported Nov 10",
+   "headline": "Anthropic Commits $3.4 Billion for 1.7 Gigawatts of Gas Generators, the Largest Direct Power-Equipment Purchase by an AI Company",
+   "deck": "Its filing warns that gas supply, pipeline capacity and long equipment lead times could constrain its data center buildout.",
+   "summary": "$3.4B for 1.7 GW of gas generators from OnePWR; available within two years; S-1 flags gas and equipment risks.",
    "paras": [
-    "Treasury Secretary Scott Bessent announced on Sept. 23 that the Busan truce, due to expire Nov. 10, 2026, would run to Jan. 10, 2027. It keeps in place the U.S. suspension of new retaliatory tariffs on China, a mutual suspension of new rare-earth and high-tech export controls, and the Section 301 maritime action on port fees and certain duties. USTR proposed extending the maritime suspension through Jan. 9, though that was not final when the guide was published.",
-    "The extension did not cut tariffs. The current China stack, as described, is the regular duty plus a 12.5% Section 301 forced-labor tariff, product-specific Section 301 rates and Section 232 metals duties. Bessent said a broader economic package could be agreed by January, or the current arrangement could roll forward again; topics such as AI and chip export controls and Taiwan arms sales were reported as under discussion only.",
-    "If neither side acts before Jan. 10, suspended threats and export-control suspensions would be live again under whatever legal authorities apply."
+    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Anthropic is committing $3.4 billion to heavy-duty natural gas generators totaling 1.7 gigawatts, according to the Financial Times as reported by Fortune. The supplier is San Antonio-based OnePWR Solutions, which had earlier agreed to supply the generators to Caterpillar, and Anthropic took over those commitments. The package includes engineering and construction services, and the equipment is expected to be available within two years.",
+    "Fortune calls it the largest direct investment in power-generation equipment by an AI company. The filing warns of 'increased competition among users for the same natural gas supply and pipeline capacity' in the areas where it builds, that transformers, turbines and generators can take years to procure, and that the company may need to buy long-lead equipment at above-market prices."
    ],
    "money": [
-    "Importers and small online sellers who source from China should price Q1 inventory with a possible January tariff reset in mind.",
-    "Consumers buying electronics or cranes-and-equipment-adjacent goods may see price changes if the truce lapses; early-winter sales can be a hedge.",
-    "Farm-export-linked and rare-earth-dependent companies swing on truce headlines; diversify rather than bet on a single outcome.",
-    "Watch the Dec. 4 polysilicon tariff for solar costs."
+    "AI's appetite for electricity is a driver of power-bill debates; check your utility's rate notices and time-of-use plan options.",
+    "Natural gas price swings affect utility costs; budget billing can smooth bills.",
+    "Energy-infrastructure funds are one way investors bet on AI's power demand, with risks of their own.",
+    "Home efficiency upgrades pay back faster when power prices rise."
    ],
    "sources": [
     {
-     "t": "US-China trade truce extended to Jan. 2027: what it means (Tariffs Tool)",
-     "u": "https://www.tariffstool.com/guides/us-china-trade-truce-extended-january-2027"
+     "t": "Anthropic $3.4 billion deal for gas-powered data centers (Fortune)",
+     "u": "https://fortune.com/2026/11/10/anthropic-3-4-billion-deal-gas-data-centers-ai-ipo/"
     },
     {
-     "t": "Trump 2.0 tariff tracker (Trade Compliance Resource Hub)",
-     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+     "t": "Anthropic IPO Preview (AlphaSense)",
+     "u": "https://www.alpha-sense.com/resources/research-articles/anthropic-ipo-preview/"
     }
    ],
    "prio": 11,
    "num": 11
   },
   {
-   "key": "tariffcal",
+   "key": "chinatruce",
    "sec": "trade",
-   "when": "Dec 4 | Jan 1 | Feb 9",
-   "headline": "Tariffs by the Calendar: Polysilicon Dec. 4, Furniture and Cabinets Step Up Jan. 1, Nicaragua Jan. 1, Drone Components Feb. 9",
-   "deck": "The trade-compliance tracker shows a steady drumbeat of sector duties even as the courts review others.",
-   "summary": "Polysilicon 10%-15% Dec. 4; furniture to 30% and cabinets to 50% Jan. 1; drone parts 25% Feb. 9.",
+   "when": "Truce to Jan 10 | Trump-Xi at APEC",
+   "headline": "China Pauses Rare Earth Export Curbs and a 24% Tariff on U.S. Goods Until Jan. 10 Ahead of an Expected Trump-Xi Meeting, While a 10% Fee Stays",
+   "deck": "The U.S. suspended a Section 301 maritime action and is extending 178 tariff exclusions for Chinese goods.",
+   "summary": "Truce to Jan. 10; China's 24% tariff on U.S. goods suspended, 10% stays; U.S. extends 178 exclusions.",
    "paras": [
-    "Section 232 tariffs and minimum import prices on polysilicon take effect Dec. 4: 10% for the UK, 15% for the EU, Japan, South Korea, Switzerland, Taiwan and Liechtenstein, and 15% for other countries. On Jan. 1, 2027, the 25% duty on upholstered wooden furniture and on kitchen cabinets and vanities for most countries is scheduled to rise to 30% for furniture and 50% for cabinets and vanities.",
-    "Also on Jan. 1, the Section 301 rate on Nicaraguan goods not originating under CAFTA-DR rises from 0% to 10%, then to 15% in 2028. A 25% tariff on certain unmanned-aircraft components takes effect Feb. 9, 2027, and status reports on robotics and industrial machinery (Apr. 26) and wind turbines (Apr. 20) are due in April."
+    "China suspended some critical-mineral export controls for two months, extending a trade truce that was due to expire. China's Ministry of Commerce says the extension runs to Jan. 10, and China's finance ministry said a 24% tariff on U.S. goods will be suspended for two months while a 10% fee stays in place. The U.S. Trade Representative suspended action from a Section 301 investigation into China's maritime and logistics sectors, and the U.S. is extending 178 existing Section 301 exclusions, according to The National.",
+    "The announcement formalizes a deal made before an expected Trump-Xi meeting at the APEC summit in Shenzhen, which The National's Nov. 9 report described as 'next week'. Treasury Secretary Scott Bessent urged Chinese Vice Premier He Lifeng to carry out the Busan commitments 'fully and immediately', and a former senior U.S. official said China has 'overpromised and underdelivered' on minerals, agriculture, engines and Boeing. China controls 60% of mined and 91% of refined magnet rare earths, per the IEA data cited."
    ],
    "money": [
-    "Remodelers and homeowners planning a kitchen project may want to order cabinets before Jan. 1 if a quote is firm; ask suppliers whether prices already reflect the step-up.",
-    "Solar installers could see module costs rise after Dec. 4, which is relevant if you are comparing quotes this month.",
-    "Furniture is a common holiday purchase; sales may not offset tariff cost increases early next year.",
-    "Small businesses can ask customs brokers about duty drawback and classification before the dates."
+    "Rare earths feed EV motors, wind turbines and electronics, so truce news can move prices of goods using them.",
+    "If you import from China for a business, the Jan. 10 date is a planning deadline; ask your broker about duty exposure.",
+    "Retailers stocking up on Chinese goods before Jan. 10 may mean discounts now and tighter inventories later.",
+    "Soybean and other farm exporters are among the winners when the truce holds."
    ],
    "sources": [
     {
-     "t": "Trump 2.0 tariff tracker (Trade Compliance Resource Hub)",
-     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+     "t": "China extends pause on rare earth export curbs for two months (The National)",
+     "u": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/"
     },
     {
-     "t": "US-China trade truce extended to Jan. 2027 (Tariffs Tool)",
-     "u": "https://www.tariffstool.com/guides/us-china-trade-truce-extended-january-2027"
+     "t": "Trump 2.0 Tariff Tracker (Trade Compliance Resource Hub)",
+     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
     }
    ],
    "prio": 12,
    "num": 12
   },
   {
-   "key": "canada",
+   "key": "tariffcal",
    "sec": "trade",
-   "when": "Section 338 in effect since Aug 22",
-   "headline": "Canada Faces 50% Section 338 Duties Since Aug. 22, With Scope Changes Sept. 15 and Oct. 30 and Ottawa's Counter-Tariffs on About $27.6 Billion of U.S. Goods",
-   "deck": "Retaliation took effect Sept. 8, meaning California exporters and cross-border shoppers feel it from both sides.",
-   "summary": "50% U.S. duty on Canadian goods; scope adjusted twice; Canada hits back on ~$27.6B.",
+   "when": "Dec 4 | Jan 1 | Feb 9",
+   "headline": "Tariffs by the Calendar: Polysilicon Dec. 4, Upholstered Furniture to 30% and Cabinets to 50% on Jan. 1, Drone Components Feb. 9",
+   "deck": "Section 232 robotics and wind-turbine actions are also in motion, and Section 301 forced-labor tariffs of 10% to 12.5% have applied since July 24.",
+   "summary": "Dec. 4 polysilicon; Jan. 1 furniture 30% / cabinets 50%; Feb. 9 drone parts 25%.",
    "paras": [
-    "According to the trade-compliance tracker, a 50% Section 338 duty on Canadian goods took effect Aug. 22, 2026, with scope changes effective Sept. 15 and Oct. 30. Canada's counter-tariffs on about $27.6 billion of U.S. products took effect Sept. 8.",
-    "Separately, Section 301 forced-labor tariffs of 10% to 12.5% depending on the country took effect July 24, with exemptions for Section 232 goods and USMCA-qualifying goods. Pending investigations on Germany and Ireland (excess capacity) and Vietnam (intellectual property) have rates still to be set."
+    "A tariff tracker updated Nov. 3 lists Section 232 polysilicon tariffs and minimum import prices starting Dec. 4, and the 25% rate on upholstered wooden furniture and on kitchen cabinets and vanities from non-partner countries ending Dec. 31, rising to 30% for furniture and 50% for cabinets and vanities on Jan. 1, 2027. Section 232 duties of 25% on drone components start Feb. 9, 2027.",
+    "Proclamations dated Oct. 28 on robotics and industrial machinery and Oct. 22 on wind turbines took initial action, with status reports due Apr. 26 and Apr. 20, 2027. Section 301 forced-labor tariffs of 10% to 12.5% are in effect since July 24, and Section 301 excess-capacity investigations covering 16 economies are threatened but not implemented. The tracker is a secondary source whose entries sometimes conflict, so confirm rates against official notices.",
+    "Earlier Section 232 orders are already in force. Sourcemap's summary of the April 2 proclamations says steel, aluminum and copper duties of 10% to 50% apply to the full value of the product, not just the metal, and that patented pharmaceuticals face a 100% default rate, 15% for the EU, Japan and Switzerland and 10% for the U.K., with effective dates of July 31 for listed companies and Sept. 29 for all others."
    ],
    "money": [
-    "Anyone importing Canadian lumber-adjacent or consumer goods should check the latest product list before ordering.",
-    "Canadian retaliation raises prices on some U.S. exports, which can hit California food and goods sellers; diversification of buyers helps.",
-    "USMCA-qualifying goods are exempt from the Section 301 forced-labor tariffs; confirming origin paperwork can save duty.",
-    "Travelers shopping across the border should check updated personal-exemption and duty rules."
+    "Furniture and cabinet buyers face a hard Jan. 1 step-up; ordering and delivery before then can matter.",
+    "Solar installers face polysilicon duties starting Dec. 4, which can raise panel quotes.",
+    "Ask contractors whether bids lock in material prices or pass through tariff changes.",
+    "Small importers should check whether goods fall under new HTS codes before shipping."
    ],
    "sources": [
     {
-     "t": "Trump 2.0 tariff tracker (Trade Compliance Resource Hub)",
+     "t": "Trump 2.0 Tariff Tracker (Trade Compliance Resource Hub)",
      "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
     },
     {
-     "t": "US-China trade truce extended to Jan. 2027 (Tariffs Tool)",
-     "u": "https://www.tariffstool.com/guides/us-china-trade-truce-extended-january-2027"
+     "t": "U.S. Issues New Section 232 Tariff Orders on Steel, Aluminum, Copper and Pharmaceuticals (Sourcemap)",
+     "u": "https://www.sourcemap.com/blog/u.s.-issues-new-section-232-tariff-orders-on-steel-aluminum-copper-and-pharmaceuticals"
     }
    ],
    "prio": 13,
    "num": 13
   },
   {
-   "key": "sec122",
+   "key": "canada",
    "sec": "trade",
-   "when": "CIT ruling May 7 | Appeal pending",
-   "headline": "A Trade Court Declared the Section 122 Tariff Proclamation Invalid in May, but With No Universal Injunction Customs Is Still Collecting While the Government Appeals",
-   "deck": "The ruling shows how tariff authority is still being fought in court even as new tariffs rest on other laws.",
-   "summary": "CIT ruled Proclamation 11012 invalid May 7; no universal injunction; collection continues pending appeal.",
+   "when": "In effect since Aug 22",
+   "headline": "Canada Faces 50% Section 338 Duties on Listed Goods Since Aug. 22, With No USMCA Exemption Except Certain Vehicle Parts, and Ottawa Hit Back on About $27.6 Billion of U.S. Goods",
+   "deck": "Canada's counter-tariffs of 15%, 25% or 50% cover more than 600 product categories, alongside a C$7.5 billion aid package.",
+   "summary": "50% on Annex I goods since Aug. 22; Canada's 15-50% counter-tariffs since Sept. 8 on ~$27.6B.",
    "paras": [
-    "The Court of International Trade declared Proclamation 11012, the Section 122 tariff action, invalid on May 7, 2026, but did not issue a universal injunction, so Customs and Border Protection continues to collect the duties. The government has appealed, and the tracker does not report later developments.",
-    "The Supreme Court earlier struck down the IEEPA tariffs, which is why the Busan fentanyl-tariff reduction no longer affects the China rate; newer tariffs now rest on Sections 232, 301 and 338 instead."
+    "The United States has applied a 50% tariff under Section 338 of the Tariff Act of 1930 to goods listed in Annex I of the proclamations since Aug. 22, 2026, on top of other duties and excluding goods already under Section 232 tariffs. Covington says the list spans chemicals, prepared food and beverages, plastics, metal items, machinery, cosmetics, wood and paper products, industrial equipment and electronics, and there is no USMCA-origin exemption except for certain passenger vehicle parts and no in-transit exception. The proclamations cite Canadian measures on motor vehicles, dairy and alcohol.",
+    "Prime Minister Mark Carney announced Canada's response on Aug. 25, effective Sept. 8, covering more than 600 product categories and about $27.6 billion of U.S. goods at rates of 15%, 25% or 50%, with focus on steel and aluminum, dairy, textiles and apparel, appliances, farm equipment, pulp and paper and electronics, plus a C$7.5 billion package for affected workers and businesses. The Nov. 3 tariff tracker lists scope changes to the U.S. duties on Sept. 15 and Oct. 30."
    ],
    "money": [
-    "Importers may want to document duties paid under challenged authorities in case refunds become available later.",
-    "Consumers are unlikely to see refunds directly; the money flows to importers of record.",
-    "Because legal outcomes can take months, businesses often budget as if duties will stick.",
-    "Trade-law news can move retail and shipping stocks; avoid trading on the first headline."
+    "Cross-border shoppers and small importers should check whether goods fall on the Annex I list before ordering.",
+    "Canadian-made appliances, dairy and apparel can cost more if counter-tariffs apply to U.S. versions.",
+    "Ask suppliers who pays the duty before signing; contracts often shift it to the buyer.",
+    "Travelers can still carry small purchases, but rules vary; check customs guidance before trips."
    ],
    "sources": [
     {
-     "t": "Trump 2.0 tariff tracker (Trade Compliance Resource Hub)",
-     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
+     "t": "Section 338 Tariffs on Canada Take Effect as Canada Announces Retaliatory Response (Covington)",
+     "u": "https://www.cov.com/en/news-and-insights/insights/2026/08/section-338-tariffs-on-canada-take-effect-as-canada-announces-retaliatory-response"
     },
     {
-     "t": "US-China trade truce extended to Jan. 2027 (Tariffs Tool)",
-     "u": "https://www.tariffstool.com/guides/us-china-trade-truce-extended-january-2027"
+     "t": "Trump 2.0 Tariff Tracker (Trade Compliance Resource Hub)",
+     "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
     }
    ],
    "prio": 14,
    "num": 14
   },
   {
-   "key": "refunds",
+   "key": "refunds-courts",
    "sec": "trade",
-   "when": "CAPE open since Apr 20",
-   "headline": "Tariff Refunds Via CBP's CAPE Process Are Generally Due Within 60-90 Days of Acceptance, but Some Entries Remain Ineligible and the Government Is Appealing on Finally Liquidated Ones",
-   "deck": "Entries on drawback claims or under open protest are not yet eligible.",
-   "summary": "CAPE launched Apr. 20; refunds ~60-90 days after acceptance; appeal covers finally liquidated entries.",
+   "when": "CAPE open | Appeals pending",
+   "headline": "Tariff Refunds Are Flowing Through CBP's CAPE System, Generally 60-90 Days After Acceptance, While the Government Appeals on Finally Liquidated Entries",
+   "deck": "The Supreme Court struck down the IEEPA tariffs Feb. 20, and a trade court found the Section 122 proclamation invalid May 7 without a universal injunction.",
+   "summary": "CAPE since Apr. 20; refunds 60-90 days; Section 122 invalid but still collected; appeals pending.",
    "paras": [
-    "Customs and Border Protection launched its CAPE refund functionality for IEEPA duties on Apr. 20, 2026, and expects refunds generally within 60 to 90 days of acceptance. Entries on drawback claims, under open protest or otherwise excluded are not yet eligible.",
-    "The government is appealing the part of the Court of International Trade order covering finally liquidated entries, so importers whose entries were already finalized may not get money until that is resolved. The refunds go to importers of record, not to consumers who paid higher prices."
+    "The Supreme Court struck down the IEEPA tariffs on Feb. 20, 2026 and left the refund question open. CBP launched its CAPE refund system on April 20, and only importers of record and brokers who filed the original entries can apply. Refunds generally issue 60 to 90 days after a declaration is accepted, though compliance review can delay them, according to the tariff tracker.",
+    "Entries tied to drawback claims, open protests or AD/CVD liquidation instructions are not currently accepted. The government is appealing an order to refund finally liquidated entries and says only importers with pending trade-court cases would be eligible in CAPE Phase 3. Separately, the Court of International Trade ruled the Section 122 proclamation invalid on May 7 but issued no universal injunction, so CBP can keep collecting while the government appeals.",
+    "GHY International's progress report, using CBP data as of Sept. 11, said CBP had accepted about $134.7 billion in potential and certified refunds and sent about $122 billion to Treasury for disbursement, while 20,184 refunds (about $1.3 billion) were held because importers had not supplied ACH bank details. On July 15 Judge Eaton ordered CBP to reliquidate certain finally liquidated entries across about 3,700 IEEPA cases, and Phase 3, covering those entries, was scheduled to launch Oct. 6 for plaintiffs who submitted an importer-of-record number by July 30. Members of Congress urged CBP on Sept. 9 to fix administrative delays, including account approvals not completed within 90 days."
    ],
    "money": [
-    "Small importers should confirm whether their entries are open or finally liquidated; deadlines for protests are short.",
-    "Customs brokers often handle CAPE filings; compare fees against the refund size.",
-    "Consumers will not get direct refunds, but retailers receiving refunds may help prices stabilize over time.",
-    "Keep import records for years; refund programs often reward good documentation."
+    "Importers: confirm that your broker filed the original entries, since only they can apply.",
+    "Businesses that paid IEEPA duties may be owed refunds; ask your customs broker about CAPE.",
+    "Refunds do not automatically reach consumers; prices may not fall when duties are refunded.",
+    "Keep records of entries and duties paid for at least several years."
    ],
    "sources": [
     {
-     "t": "Trump 2.0 tariff tracker (Trade Compliance Resource Hub)",
+     "t": "Trump 2.0 Tariff Tracker (Trade Compliance Resource Hub)",
      "u": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/"
     },
     {
-     "t": "US-China trade truce extended to Jan. 2027 (Tariffs Tool)",
-     "u": "https://www.tariffstool.com/guides/us-china-trade-truce-extended-january-2027"
+     "t": "CBP Launches CAPE for IEEPA Duty Refunds (GHY International)",
+     "u": "https://www.ghy.com/trade-compliance/cbp-cape-ieepa-refund-progress/"
     }
    ],
    "prio": 15,
@@ -589,460 +614,437 @@
   {
    "key": "iran",
    "sec": "world",
-   "when": "Thu Nov 12 | Brent $95.82",
-   "headline": "Trump Says the U.S. Does Not Need a Deal With Iran, Sidelining Vance's Outreach, and Rubio Says Washington Is in No Hurry as Both Sides Run Competing Blockades",
-   "deck": "The reversal came days after talk of momentum toward a settlement; oil jumped, but the war has already pushed it between $70 and $150.",
-   "summary": "Trump posts there is no need for a deal; Vance's planned contact reportedly sidelined; Brent +3.3%.",
+   "when": "Nov 10-12 statements",
+   "headline": "Rubio Says the Blockade and Sanctions Make Major Strikes Unnecessary, Trump Calls Further Strikes 'Quite Unlikely', and Vance Is Reported to Favor a Deal as Iran Rejects Talks",
+   "deck": "Brent settled at $95.84 on Friday, and Iran says the U.S. must lift its blockade and sanctions before direct talks.",
+   "summary": "Blockade and sanctions continue; Trump says strikes unlikely; Iran denies talks; Brent $95.84.",
    "paras": [
-    "President Trump said Thursday that the U.S. no longer wants negotiations with Iran, writing that the U.S. does not need a deal. The statement reversed comments earlier in the week about momentum toward a settlement and sidelined Vice President JD Vance, who had been trying to arrange a meeting with a senior Iranian official in Qatar; Iran denied any talks were scheduled.",
-    "Secretary of State Marco Rubio said the U.S. was in no hurry because it believed it held the upper hand in the Strait of Hormuz, where both sides are running competing blockades. Regional partners warned of prolonged uncertainty. Brent briefly jumped above $94 on the post and finished the day up 3.3% at $95.82."
+    "Secretary of State Marco Rubio said on Nov. 10 in Paris that the economic campaign against Iran is so effective that major combat operations are not needed and that pressure 'is going to get even worse', while calling Iran's demands 'totally unrealistic' but saying the U.S. is open to diplomacy. President Trump said the same day that further strikes were 'quite unlikely' and that Gulf allies preferred the status quo of the blockade of Iranian ports. Vice President JD Vance is reported to favor a deal, per Al Jazeera citing a Reuters source.",
+    "Iran says it wants sanctions lifted, a smaller U.S. military presence, restored oil waivers and frozen funds released. Foreign Minister Abbas Araghchi said Nov. 11 the war will not end by military means or more sanctions, and security chief Mohsen Rezaei said there are no negotiations. A Reuters/Ipsos poll found 71% of Americans favor congressional legislation to halt the Iran war. Trading Economics reported that Trump later said the U.S. no longer needs a deal, and Brent rose to near $96."
    ],
    "money": [
-    "Fuel is the main household link; California gas has fallen for six straight weeks, but renewed war risk can reverse that quickly.",
-    "Airlines and shippers pass on fuel costs with a lag; book travel earlier if prices are rising.",
-    "Defense and energy stocks often rise on escalation, but index funds already hold both.",
-    "Keeping a small cash buffer for volatile energy bills is a conventional hedge."
+    "Higher oil is the main route from this conflict to your wallet, via gasoline, airfares and shipping costs.",
+    "Defense and energy stocks tend to rise on escalation and fall on peace headlines; do not trade the news.",
+    "A diversified portfolio is built to absorb geopolitical shocks without constant adjustments.",
+    "Keep an emergency fund in case prices stay elevated into winter."
    ],
    "sources": [
     {
-     "t": "Trump sidelines Vance from Iran talks (Middle East Eye)",
-     "u": "https://www.middleeasteye.net/news/trump-sidelines-vance-iran-talks-says-no-need-negotiate"
+     "t": "Rubio backs blockade, Vance wants deal: Is Trump's team split on Iran war? (Al Jazeera)",
+     "u": "https://aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran"
     },
     {
-     "t": "Oil prices rise after Trump says U.S. doesn't need Iran deal (Transport Topics)",
-     "u": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal"
-    },
-    {
-     "t": "Wall Street shakes with swings for Nvidia and oil prices (AP via SFN Today)",
-     "u": "https://www.sfntoday.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
+     "t": "Brent Settles Above $92 Amid US-Iran Tensions (Trading Economics)",
+     "u": "https://tradingeconomics.com/commodity/brent-crude-oil/news/600509"
     }
    ],
    "prio": 16,
    "num": 16
   },
   {
-   "key": "ukraine",
+   "key": "shutdown",
    "sec": "world",
-   "when": "Talks ended Nov 11 | Envoys in Moscow Thu",
-   "headline": "Abu Dhabi Talks End With a Large Prisoner Swap but No Peace Breakthrough as Kushner and Witkoff Brief Putin in Moscow, Then Meet Zelensky in Ireland",
-   "deck": "Territory, Europe's seat at the table and mutual distrust remain the sticking points.",
-   "summary": "First trilateral meeting since the Iran war began; swap agreed; Russia rejects European role.",
+   "when": "Funding ends Dec 11",
+   "headline": "Congress Is Back for a Lame-Duck Session With Funding Expiring Dec. 11, Only 3 of 12 Spending Bills Passed by the House, and the Flood Insurance Program Also on the Clock",
+   "deck": "Surface transportation, a farm bill, the defense bill and a possible tax package are all in the year-end pile.",
+   "summary": "Stopgap funds government through Dec. 11; House passed 3 of 12 bills; NFIP, highways expire too.",
    "paras": [
-    "The two-day, U.S.-mediated talks in Abu Dhabi ended Wednesday with an agreement on a major prisoner exchange but no breakthrough on peace. Russia's chief negotiator Vladimir Medinsky said understandings were reached in some places and not others, and Secretary of State Marco Rubio called the meeting very productive while saying a breakthrough will take time.",
-    "Sticking points include Moscow's territorial claims, which Ukraine rejects, Russia's rejection of a European role that Washington wants, and what Jared Kushner called deep distrust. Kushner and Steve Witkoff planned to brief Vladimir Putin in Moscow on Thursday and then meet Ukrainian President Volodymyr Zelensky in Ireland. One headline on a news page suggested Putin agreed to let Europe join, but the article body did not confirm it."
+    "Congress returned Nov. 9 for a lame-duck session, with Republicans in charge until the new Congress is sworn in in early January. The stopgap law funds federal operations through Dec. 11, so Congress needs full-year fiscal 2027 appropriations or another stopgap to avoid a funding gap starting Dec. 12. As of early November the House had passed 3 of the 12 regular bills, per IfYouSpent.",
+    "Holland &amp; Knight notes the National Flood Insurance Program authorization, surface-transportation extensions and EPA's TSCA fee authority expire alongside funding, and that the temporary 2.5% Medicare physician payment increase, community health center funding and TANF run out Dec. 31. The NDAA, the farm bill and a possible tax package remain open. Separately, one outside projection puts the debt limit (about $41.1 trillion) being reached around May 2027."
    ],
    "money": [
-    "Peace headlines have repeatedly moved oil and European energy prices; changes in your fuel and utility costs are the likelier channel.",
-    "Defense and grain-related stocks react to talks news; avoid trading on the first report.",
-    "Sanctions relief or tightening can affect fertilizer and commodity prices over months.",
-    "Diversified funds absorb headline risk better than single-theme bets."
+    "Federal workers and contractors may want a bigger cash cushion in December in case of a lapse.",
+    "If you are buying a home in a flood zone, ask your lender how an NFIP lapse would affect closing.",
+    "Past shutdowns often delayed some economic data; plan for noisy numbers.",
+    "Markets have historically shrugged off short shutdowns, but a long one in 2025 lasted 43 days."
    ],
    "sources": [
     {
-     "t": "Ukraine and Russia agree to large prisoner swap after two days of talks in Abu Dhabi (ABC News)",
-     "u": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
+     "t": "Lame-duck Congress, shutdown deadline and markets (IfYouSpent)",
+     "u": "https://news.ifyouspent.com/en/news/lame-duck-congress-shutdown-deadline-markets-november-2026"
     },
     {
-     "t": "Abu Dhabi talks end with prisoner exchange but no peace breakthrough (Moscow Times)",
-     "u": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
+     "t": "Beyond the Midterms: Congress Faces Converging Year-End Deadlines (Holland &amp; Knight)",
+     "u": "https://www.hklaw.com/en/insights/publications/2026/10/beyond-the-midterms-congress-faces-converging-year-end-deadlines"
     }
    ],
    "prio": 17,
    "num": 17
   },
   {
-   "key": "shutdown",
+   "key": "ukraine",
    "sec": "world",
-   "when": "Funding ends Dec 11",
-   "headline": "Shutdown Clock: Federal Funding Runs Out Dec. 11, Full-Year Bills Are Not Done and a Stopgap Looks Likelier as Congress Gets Back to Work",
-   "deck": "Appropriations chair Tom Cole reportedly said there is not enough time to finish the bills.",
-   "summary": "Stopgap CR (H.R. 6500) runs through Dec. 11; agencies would begin shutting at 12:01 a.m. Dec. 12 without action.",
+   "when": "Talks ended Nov 11",
+   "headline": "Abu Dhabi Talks End With a Large Prisoner Swap in Principle but No Peace Breakthrough, as U.S. Envoys Head to Moscow and Dublin",
+   "deck": "Core disputes over security guarantees and occupied territory remain unresolved.",
+   "summary": "POW swap agreed in principle; no breakthrough; Kushner and Witkoff to see Putin, then Zelensky.",
    "paras": [
-    "The stopgap law the House passed 370-48 on Sept. 1 and Trump signed Sept. 2 funds the government through Friday, Dec. 11, 2026. If Congress passes neither full-year bills nor another stopgap by then, agencies without funding would begin shutting down at 12:01 a.m. on Saturday, Dec. 12. The Senate passed its version in July, 90-6.",
-    "House Appropriations Chairman Tom Cole reportedly said there is not enough time to finish the full-year bills, raising the odds of another stopgap. Congress returned Nov. 9 for a lame-duck session described as far from a deal, with a tentative Senate Thanksgiving recess Nov. 23-27 and a second recess Dec. 21-31. In past shutdowns Social Security and SSI payments continued and the Postal Service kept delivering mail; the most recent full shutdown lasted 43 days, from Oct. 1 to Nov. 12, 2025."
+    "Two days of U.S.-mediated talks in Abu Dhabi ended without a major breakthrough, though Russia and Ukraine agreed in principle to a large prisoner swap that NPR described as the biggest humanitarian release since the war began in 2022. Russia's Defense Ministry said the swap could happen within two or three weeks, and no final numbers were given.",
+    "Jared Kushner and Steve Witkoff planned to meet Putin in Moscow on Thursday, Nov. 12, and then travel to Dublin to meet Zelenskyy. Core disputes remain over postwar security guarantees, the status of occupied territory and Europe's role in any settlement, per NPR."
    ],
    "money": [
-    "Federal workers and contractors commonly build a cushion of a few weeks of expenses in December; check your credit union's shutdown loan programs.",
-    "Shutdowns delay some data releases and permits; plans that depend on federal approvals may slip.",
-    "Markets have usually reacted modestly to shutdowns; the bigger risk is panic selling.",
-    "SNAP and other programs can be affected by long lapses; know your county's backup resources."
+    "Peace headlines move European energy and defense stocks; avoid reacting to single-day swings.",
+    "Ukrainian strikes on Russian refineries are one factor in oil prices.",
+    "Grain and fertilizer prices are sensitive to the war; they feed into grocery costs with a lag.",
+    "A durable deal would take time to affect your costs."
    ],
    "sources": [
     {
-     "t": "Government shutdown deadline Dec. 11, 2026: lame-duck calendar (Fresh Calendars)",
-     "u": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+     "t": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough (NPR via KUNC)",
+     "u": "https://www.kunc.org/npr-news/2026-11-11/russia-and-ukraine-agree-to-a-prisoner-exchange-as-talks-end-with-no-big-breakthrough"
     },
     {
-     "t": "House passes continuing resolution funding government through Dec. 11 (NASFAA)",
-     "u": "https://www.nasfaa.org/news-item/39735/House_Passes_Continuing_Resolution_Funding_Government_Through_December_11"
+     "t": "Brent Settles Above $92 Amid US-Iran Tensions (Trading Economics)",
+     "u": "https://tradingeconomics.com/commodity/brent-crude-oil/news/600509"
     }
    ],
    "prio": 18,
    "num": 18
   },
   {
-   "key": "anthropic-power",
-   "sec": "ai",
-   "when": "Reported Nov 10",
-   "headline": "Anthropic Commits $3.4 Billion for 1.7 Gigawatts of Gas Generators, the Largest Direct Power-Equipment Buy by an AI Company, as Its S-1 Flags Power as a Constraint",
-   "deck": "The deal takes over Caterpillar-linked generator commitments from OnePWR Solutions and should deliver within about two years.",
-   "summary": "$3.4B for 1.7 GW; supplier OnePWR; S-1 discloses ~$900.9B in committed compute and infrastructure spending.",
+   "key": "cpi-wallet",
+   "sec": "law",
+   "when": "Oct CPI released Nov 10",
+   "headline": "What October's Inflation Hit: Prices Up 0.4% in a Month, Car Insurance Up 0.7%, Food Up 0.5% and Shelter Up 0.3% After September's 0.6%",
+   "deck": "The government did not publish annual rates for October because of the 2025 shutdown's data gap.",
+   "summary": "Oct CPI +0.4% (core +0.3%); car insurance +0.7%; food +0.5%; shelter +0.3%; energy +0.7%.",
    "paras": [
-    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Anthropic is committing $3.4 billion to secure 1.7 gigawatts of heavy-duty natural gas generators for its data centers, which the Financial Times described as the largest direct investment in power-generation equipment by an AI company. The supplier is OnePWR Solutions of San Antonio, and Anthropic took over generator commitments OnePWR had made with Caterpillar. The generators are expected to become available within about two years.",
-    "The company's S-1 flags power as a major constraint, warning that electrical equipment can take years to procure and may cost above market rates, and that gas-dependent sites face fuel-price volatility and pipeline limits. It discloses about $900.9 billion in aggregate committed computing and infrastructure spending. Other AI firms are also securing power: Alphabet bought Intersect Power for $4.75 billion, xAI uses gas turbines, Meta is building on-site gas generation in Ohio, and Microsoft and Amazon have nuclear agreements."
+    "Consumer prices rose 0.4% in October after rising 0.6% in September, above the 0.3% economists expected, while core prices rose 0.3% against a forecast of 0.2%, according to StockAnalysis. Shelter rose 0.3% and accounted for more than 30% of the increase, energy rose 0.7%, food rose 0.5%, and motor vehicle insurance rose 0.7%.",
+    "No 12-month rate was published for October, because the Bureau of Labor Statistics did not collect October 2025 prices during that year's 43-day shutdown. The last annual rate, for September, was 3.7%. Separately, producer prices were up 6.5% from a year earlier in October, per TheStreet."
    ],
    "money": [
-    "AI's power appetite can push up regional electricity prices over time; compare your utility's rate plans and time-of-use options.",
-    "Gas-turbine and electrical-equipment makers are a way investors play the buildout, but those stocks already reflect much of it.",
-    "Home energy efficiency and solar-plus-storage can hedge against rising rates.",
-    "Check whether your utility is proposing data-center-related rate cases; public comment periods are open to ratepayers."
+    "Shop around for car insurance; rates differ widely between insurers for the same driver.",
+    "Cost-of-living clauses in a lease or contract may tie raises to CPI; check yours.",
+    "Grocery price comparisons across stores can offset a 0.5% monthly jump.",
+    "Inflation-linked Treasury bonds protect principal against rising prices."
    ],
    "sources": [
     {
-     "t": "Anthropic's $3.4 billion deal for gas generators (Fortune)",
-     "u": "https://fortune.com/2026/11/10/anthropic-3-4-billion-deal-gas-data-centers-ai-ipo/"
+     "t": "US consumer prices rise 0.4% in October (StockAnalysis)",
+     "u": "https://stockanalysis.com/news/us-cpi-rises-october-2026/"
     },
     {
-     "t": "Anthropic sets IPO range of $70 to $78 per share (TechCrunch)",
-     "u": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+     "t": "Lame-duck Congress, shutdown deadline and markets (IfYouSpent)",
+     "u": "https://news.ifyouspent.com/en/news/lame-duck-congress-shutdown-deadline-markets-november-2026"
+    },
+    {
+     "t": "Chips Slide Again, but the S&amp;P 500 Still Ends the Week Up 2.5% (TheStreet)",
+     "u": "https://pro.thestreet.com/market-commentary/chips-slide-again-but-the-sp-500-still-ends-the-week-up-2-5"
     }
    ],
    "prio": 19,
    "num": 19
   },
   {
-   "key": "anthropic-partners",
-   "sec": "ai",
-   "when": "IPO Nov 19 expected",
-   "headline": "Seven Chip and Cloud Giants Will Buy $26 Billion of Anthropic Stock Alongside the IPO, While Revenue Run Rate Reached About $81 Billion",
-   "deck": "AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC would hold non-voting Class N shares bought at the IPO price.",
-   "summary": "$26B private placement to seven strategic partners; run rate ~$81B at end of October vs ~$71B in late September.",
+   "key": "coveredca",
+   "sec": "prog",
+   "when": "Pick a plan by Dec 31 | Open to Jan 31",
+   "headline": "Covered California Open Enrollment Runs to Jan. 31, With State Help Expanded to $300 Million and Incomes up to 200% of Poverty Eligible; Pick a Plan by Dec. 31 for All of 2027",
+   "deck": "About 55% of enrollees will see no premium increase, and nearly 200,000 can choose between two $0 Silver plans.",
+   "summary": "Enroll by Dec. 31 for full-year coverage; state subsidies $190M to $300M; 725,000 pay $100 or less.",
    "paras": [
-    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Alongside the public offering, seven strategic partners agreed to buy $26 billion of non-voting Class N stock at the IPO price: AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC. Combined with the public sale of up to $64.4 billion, reports say the sales would exceed SpaceX's June listing as a record.",
-    "Fortune reported the company's annualized revenue run rate reached about $81 billion at the end of October, up from roughly $71 billion in late September. The circular nature of the deals, with chip and cloud suppliers investing in a major customer, is part of what analysts debate when judging how durable AI spending is."
+    "Open enrollment runs Nov. 1 through Jan. 31, 2027, and consumers must select a plan by Dec. 31 to have coverage for all of 2027. Covered California says about 725,000 Californians pay $100 or less a month, 20% of enrollees have a $0 premium, 55% will see no increase, and more than 330,000 will pay less because of expanded state subsidies.",
+    "The state raised its subsidy program from $190 million in 2026 to $300 million in 2027, making about 200,000 more people eligible. State help reaches incomes up to 200% of the federal poverty level, about $31,920 for an individual or $66,000 for a family of four. The state money does not fully replace the nearly $2.5 billion a year in federal aid that came before enhanced federal premium credits expired. About 1.1 million uninsured Californians are estimated to be eligible, 461,000 for Covered California subsidies and 682,000 for Medi-Cal. Help is available at (800) 300-1506.",
+    "A second Covered California release adds that 12 insurers offer 2027 plans, including one new insurer, that 358,000 enrollees (20%) pay $0 a month, and that more than 500,000 people, about 30% of enrollees, are projected to get a state subsidy. Enrollment help is free and available in multiple languages, and about 16,000 certified enrollers operate statewide."
    ],
    "money": [
-    "When your suppliers are also investors, revenue can look stronger than demand from independent customers; reading how analysts discuss it helps.",
-    "Index funds will eventually hold more of these linked companies, concentrating risk in a few names.",
-    "AI-linked stocks fell sharply last week; diversification beyond tech is the standard cushion.",
-    "Consider whether your employer's stock plus your funds already overweight AI."
+    "Check the subsidy calculator even if you declined coverage before; eligibility expanded.",
+    "Comparing metal tiers matters: lower premiums can come with higher deductibles.",
+    "Picking a plan by Dec. 31 avoids a gap at the start of the year.",
+    "If your income is low enough, Medi-Cal may be free; the same application screens for it."
    ],
    "sources": [
     {
-     "t": "Anthropic sets IPO range of $70 to $78 per share (TechCrunch)",
-     "u": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+     "t": "Covered California kicks off 2027 open enrollment (Covered California)",
+     "u": "https://www.coveredca.com/press-releases/amid-federal-changes-covered-california-kicks-off-2027-open-enrollment-connectors-to-coverage"
     },
     {
-     "t": "Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off (Fortune)",
-     "u": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+     "t": "Covered California continues 2027 open enrollment (Covered California)",
+     "u": "https://www.coveredca.com/press-releases/covered-california-s-open-enrollment-2027-amid-federal-changes-covered-california-continues-to"
     }
    ],
    "prio": 20,
    "num": 20
   },
   {
-   "key": "aiselloff",
-   "sec": "ai",
-   "when": "Week of Nov 2-6 | Rebound since",
-   "headline": "AI Stocks Whipsaw After the Midterms: The Nasdaq Fell 5.5% Last Week on Regulation Fears, Then Rebounded Monday as the S&amp;P 500 Jumped 2.4%",
-   "deck": "Chip leaders are split this week, with Broadcom and AMD rising on Thursday while CoreWeave fell.",
-   "summary": "Post-midterm AI sell-off erased nearly $2.5 trillion in one session; Monday rebound; Thursday mixed.",
+   "key": "medical",
+   "sec": "prog",
+   "when": "Jan 1, 2027 | Nov 19 webinar",
+   "headline": "Medi-Cal's Work Requirement Starts Jan. 1 for Some Adults 19-64, While Members With 'Unsatisfactory' Immigration Status Move to Fee-for-Service the Same Day",
+   "deck": "DHCS is running a Coverage Ambassador webinar Nov. 19 and offering up to $60 million in housing-program grants.",
+   "summary": "Jan. 1, 2027: work/school/training/volunteer requirement; Nov. 19 webinar; Flex Pools $60M, apps due Dec. 17.",
    "paras": [
-    "Disclosure: this briefing was written by Claude, an AI made by Anthropic. The facts below come from outside reporting. Fortune reported that after Democrats' midterm gains, the AI sector sold off sharply on fears of stricter regulation and tougher scrutiny of data-center buildouts. The Nasdaq fell 5.5% last week, erasing nearly $2.5 trillion of market value in one session, and some analysts warned it was nearing correction territory.",
-    "Stocks rebounded Monday, with the S&amp;P 500 up 2.4% to 7,549.94, and on Thursday chip leaders split: Broadcom rose 5.5% and AMD 5.9% while CoreWeave fell 6.9%. A market report said the swings suggest Wall Street sees limited fallout for the AI industry from Nvidia's CEO change."
+    "The California Department of Health Care Services says that starting Jan. 1, 2027, some Medi-Cal members ages 19 to 64 will need to meet a work, school, training or volunteer requirement to keep coverage. On the same date, members with 'unsatisfactory immigration status' move from managed care to fee-for-service, and DHCS published a toolkit to help providers prepare.",
+    "A Coverage Ambassador webinar on the work requirements is set for Nov. 19, 11 a.m. to 12:30 p.m. Pacific. Separately, up to $60 million in Flexible Housing Subsidy Pool grants is available to county behavioral health agencies, with applications due Dec. 17 at 5 p.m.",
+    "Orange County's Social Services Agency summarizes the wider timeline: the Medi-Cal work rule applies to adults 19-64 in the ACA expansion group, who must earn at least $580 a month, complete 80 hours a month of job training, volunteering or community service, attend school at least half-time, or combine activities. Retroactive coverage shrinks Jan. 1 to one month for adults 19-64 without children and two months for others, and six-month renewals begin Mar. 1, 2027 for adults 19-64 in the expansion group. Medi-Cal asset limits drop from $130,000 for one person to $21,000 on Jul. 1, 2027. The county notes that dates and rules may change."
    ],
    "money": [
-    "If AI names dominate your 401(k), check whether target-date or index funds already overweight them.",
-    "Regulation risk cuts both ways: it can slow AI spending but also reduce risks of overbuilding.",
-    "Rebalancing after big swings brings your portfolio back to your plan.",
-    "Avoid margin on volatile tech positions; forced selling magnifies losses."
+    "Report any address, phone or job changes to your county so renewal notices do not get lost.",
+    "Start documenting work, school or volunteer hours now if you may be covered by the rule.",
+    "If you lose Medi-Cal, Covered California may open a special enrollment period; ask early.",
+    "Community clinics can help with paperwork at no cost."
    ],
    "sources": [
     {
-     "t": "Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off (Fortune)",
-     "u": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+     "t": "Stakeholder News, November 9, 2026 (DHCS)",
+     "u": "https://www.dhcs.ca.gov/?p=239834"
     },
     {
-     "t": "Stock market news for Nov. 10, 2026 (Zacks)",
-     "u": "https://www.zacks.com/stock/news/3026944/stock-market-news-for-nov-10-2026"
-    },
-    {
-     "t": "Wall Street shakes with swings for Nvidia and oil prices (BNN Bloomberg)",
-     "u": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/"
+     "t": "Changes to Medi-Cal and CalFresh (Orange County Social Services Agency)",
+     "u": "https://ssa.ocgov.com/Changes-Medi-cal-Calfresh"
     }
    ],
    "prio": 21,
    "num": 21
   },
   {
-   "key": "gas",
+   "key": "fairplan",
    "sec": "law",
-   "when": "AAA Nov 5 | Auto Club Nov 12",
-   "headline": "California Gas Averages $5.63 and Los Angeles-Long Beach $5.70, Down 20 Cents in a Week for a Sixth Straight Weekly Drop, but Thursday's Oil Jump Threatens the Trend",
-   "deck": "LA County hit its lowest level since Sept. 4 last week, and the national average fell for 13 straight days.",
-   "summary": "CA $5.63, LA-LB $5.70, U.S. $3.90 (as of Nov. 5); LA County $5.871 on Nov. 6.",
+   "when": "Renewals since Oct 15",
+   "headline": "California FAIR Plan Rates Rise 29.1% on Average for More Than 675,000 Customers Since Oct. 15, and Some Wildfire-Zone Premiums Could Double",
+   "deck": "Total exposure was $768 billion in June, up 250% since September 2022, against a cash balance of $200 million to $400 million.",
+   "summary": "+29.1% average; effective Oct. 15; wildfire-zone premiums may double; exposure $768B.",
    "paras": [
-    "The Auto Club reported that, as of Nov. 5, Los Angeles-Long Beach regular averaged $5.70, California $5.63 and the nation $3.90, each about 20 cents lower than a week earlier and 83 to 94 cents above a year ago. It was the sixth straight weekly drop, which AAA attributed to oil under $100 and seasonal demand declines.",
-    "Another daily tally had the LA County average at $5.871 on Nov. 6, down 53.6 cents in a month and still $1.02 above a year ago, and the lowest since Sept. 4; the national average had fallen 13 straight days. The Auto Club said lower oil could keep prices falling, but Brent rose 3.3% Thursday to $95.82."
+    "The California FAIR Plan raised rates by 29.1% on average, which KQED called the highest bump in recent history, effective Oct. 15 for more than 675,000 policyholders. The Plan had requested 35.8% last September. Homeowners in high-risk wildfire areas may pay much more and some premiums could double, while lower-risk urban Bay Area customers may see reductions.",
+    "The Plan's total exposure was $768 billion as of June 2026, up 11% since September 2025 and 250% since September 2022, and its direct cash balance is between $200 million and $400 million. It relies on reinsurance, bonds, assessments on private insurers and surcharges. A Stanford study cited found homeowners premiums are up 84% since 2020 and FAIR Plan enrollment rose from under 2% to 5% of homes.",
+    "Separately, the California Department of Insurance said on Oct. 19 that it created a voluntary, public 'comprehensiveness review' of proposed insurance rates before a formal Proposition 103 filing, which the Office of Administrative Law approved. Insurers may skip it. The department says its rate-review work has saved consumers $6.6 billion since 2019 and cites an average homeowners cost of about $1,500 a year statewide, framing the change as part of Commissioner Ricardo Lara's Sustainable Insurance Strategy."
    ],
    "money": [
-    "Prices vary by $1 or more across LA neighborhoods; checking a price app before filling up saves real money.",
-    "Warehouse-club and grocery fuel programs often undercut stations by 20 to 40 cents.",
-    "With prices still about a dollar above last year, a fuel-efficient driving routine matters more than waiting.",
-    "Holiday travelers should price flights now as fuel costs feed fares."
+    "FAIR Plan covers fire only; many homeowners need a separate 'difference in conditions' policy, which adds cost.",
+    "Ask a broker to compare private carriers each renewal; availability is changing.",
+    "Wildfire-hardening steps like ember-resistant vents may earn discounts with some insurers.",
+    "Re-check your coverage limits so a rebuilding cost does not exceed them.",
+    "Watch the new public rate-review process for your insurer; filings can show what may change at renewal."
    ],
    "sources": [
     {
-     "t": "Auto Club: gas prices continue downward rapidly for sixth straight week (AAA/Auto Club)",
-     "u": "https://news.aaa-calif.com/news/auto-club-gas-prices-continue-downward-rapidly-for-sixth-straight-week"
+     "t": "California FAIR Plan announces 29.1% rate hike for homeowners (KQED)",
+     "u": "https://www.kqed.org/news/12094860/california-fair-plan-announces-29-1-rate-hike-for-homeowners-this-fall"
     },
     {
-     "t": "Average LA County gas price drops to lowest amount since Sept. 4 (MyNewsLA)",
-     "u": "https://mynewsla.com/orange-county/2026/11/06/average-la-county-gas-price-drops-to-lowest-amount-since-sept-4/"
+     "t": "Insurance Commissioner press release, Oct. 19, 2026 (California Department of Insurance)",
+     "u": "https://www.insurance.ca.gov/0400-news/0100-press-releases/2026/release037-2026.cfm"
     }
    ],
    "prio": 22,
    "num": 22
   },
   {
-   "key": "wallet",
+   "key": "tax2027",
    "sec": "law",
-   "when": "Oct. CPI released Nov 10",
-   "headline": "What October's Hot Inflation Hit: Airfares Up 0.84%, Auto Insurance Up 0.71% and Groceries Up 0.44% in a Month",
-   "deck": "Rent of primary residence rose just 0.20% in the month, about 2.9% year over year by one analyst's estimate.",
-   "summary": "Core services +0.34%; non-housing services +0.45%; food at home +0.44%; energy +0.70%.",
+   "when": "IRS 2027 figures",
+   "headline": "2027 Tax Numbers Are Set: Standard Deduction $16,600 Single, $33,200 Joint and $24,925 Head of Household; Child Credit $2,300; Gift Exclusion $20,000",
+   "deck": "The 37% bracket starts at $661,375 for single filers and $793,650 for joint filers.",
+   "summary": "Std deduction $16,600/$33,200/$24,925; CTC $2,300; 10% bracket to $12,800 single.",
    "paras": [
-    "Wolf Street's analysis of the October report found non-housing services up 0.45% in the month, with recreation services up 0.82%, airfares and public transportation up 0.84% and auto insurance up 0.71%. Food at home rose 0.44%, energy rose 0.70% and core goods rose 0.39%.",
-    "Housing was calmer: rent of primary residence rose 0.20% and owners' equivalent rent 0.32%. Year-over-year figures are estimates because the government did not collect October 2025 pricing during the shutdown. The report pushed yields higher and revived Fed rate-hike bets."
+    "The IRS announced its 2027 inflation adjustments: a standard deduction of $16,600 for single filers, $33,200 for joint filers and $24,925 for heads of household. For single filers the 10% bracket tops out at $12,800, the 22% bracket starts above $52,025, the 24% above $109,125, the 32% above $208,325, the 35% above $264,550 and the 37% above $661,375. For joint filers the 10% bracket ends at $25,600 and the 37% bracket starts at $793,650.",
+    "The child tax credit is $2,300, with up to $1,800 refundable. The annual gift exclusion is $20,000, the health FSA limit is $3,500 with up to $700 carryover, and the estate tax basic exclusion for 2027 deaths is $15,480,000, per CPA Practice Advisor. Accounting Today, citing Rev. Proc. 2026-35, adds that the earned income credit for families with three or more children rises to $8,496 from $8,231, the adoption credit to $18,250, and the transportation fringe to $350 a month."
    ],
    "money": [
-    "Auto insurance is rising fast; shopping quotes at renewal and asking about discounts can save hundreds a year.",
-    "Grocery costs are climbing; store brands and bulk buys help blunt the increase.",
-    "Flat-ish rents give renters leverage at renewal, especially in Los Angeles where listings have been soft.",
-    "Wages that trail inflation make a monthly budget review more valuable."
+    "These apply to returns filed in 2028; the numbers for returns due this spring are different.",
+    "Adjust your W-4 if a raise or new job changes your bracket.",
+    "A health FSA at $3,500 can shelter some expenses from tax.",
+    "Gifts up to $20,000 per person per year avoid gift-tax filing."
    ],
    "sources": [
     {
-     "t": "10-Year Treasury Yield Spikes as Inflation Spreads (Wolf Street)",
-     "u": "https://wolfstreet.com/2026/11/10/10-year-treasury-yield-spikes-as-inflation-spreads-across-economy-driven-by-ugly-core-services-cpi/"
+     "t": "IRS Adjusts Tax Brackets, Standard Deduction for Tax Year 2027 (CPA Practice Advisor)",
+     "u": "https://www.cpapracticeadvisor.com/2026/11/05/irs-adjusts-tax-brackets-standard-deduction-for-tax-year-2027/193358/"
     },
     {
-     "t": "Stock market today, Thursday Nov. 12 (Yahoo Finance)",
-     "u": "https://sg.finance.yahoo.com/news/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+     "t": "IRS Sets Inflation Adjustments for Tax Year 2027 (Accounting Today)",
+     "u": "https://www.accountingtoday.com/news/irs-sets-inflation-adjustments-for-tax-year-2027"
     }
    ],
    "prio": 23,
    "num": 23
   },
   {
-   "key": "tax2027",
+   "key": "cola",
    "sec": "law",
-   "when": "IRS set 2027 figures",
-   "headline": "2027 Tax Numbers Are Set: Standard Deduction $16,600 Single, $33,200 Joint and $24,925 Head of Household, Child Credit $2,300, Gift Exclusion $20,000",
-   "deck": "The top 37% bracket starts above $661,375 for singles and $793,650 for joint filers; these apply to returns filed in 2028.",
-   "summary": "Standard deduction up $1,000 joint; CTC $2,300 ($1,800 refundable); health FSA $3,500; EITC max $8,496 (3+ kids).",
+   "when": "COLA announced Oct 14",
+   "headline": "Social Security's 2027 Raise Is 3.6%, About $75 More a Month for the Average Retiree, but a Projected $6.60 Part B Premium Jump Takes Some Back",
+   "deck": "The taxable earnings cap rises to $192,300, and about 21 million Medicare enrollees get a one-time $90 premium rebate.",
+   "summary": "COLA 3.6% (~$75/mo); Part B projected $209.50 (+$6.60); wage base $192,300.",
    "paras": [
-    "The IRS's 2027 inflation adjustments set the standard deduction at $33,200 for joint filers (up $1,000), $16,600 for single filers and $24,925 for heads of household. The child tax credit rises $100 to $2,300, with $1,800 refundable. The annual gift exclusion is $20,000, up from $19,000, and the estate exclusion is $15.48 million.",
-    "Other limits include a health FSA cap of $3,500 with a $700 carryover, a maximum earned income credit of $8,496 for families with three or more children, a $350 monthly transit and parking fringe and an adoption credit up to $18,250. One report notes some figures in the source article look garbled, so check the revenue procedure before relying on less common limits."
+    "The Social Security Administration announced a 3.6% cost-of-living adjustment on Oct. 14, based on CPI-W for July through September. It averages about $75 a month for retired workers and about $59 for disability and survivor beneficiaries, begins in January for nearly 72 million people, and SSI recipients get theirs Dec. 31. Notices go out by mail and online in early December.",
+    "Medicare trustees projected the standard Part B premium rising from $202.90 to $209.50, which would cut the average retiree's net gain to about $68.40 a month. CMS is expected to confirm the number in November. The Part B deductible is projected to rise from $283 to about $292. The maximum earnings subject to Social Security tax rises to $192,300 from $184,500, and about 21 million people in traditional Medicare get a one-time $90 premium rebate, according to the Star-Advertiser."
    ],
    "money": [
-    "Higher deductions mean more income is shielded; adjust withholding via a new W-4 only if your situation changed.",
-    "A $3,500 health FSA cap lets you set aside more pre-tax for medical costs; plan during open enrollment.",
-    "Families with children should confirm credit eligibility, especially the refundable portion.",
-    "Gifts up to $20,000 per person can be made tax-free of gift-tax reporting."
+    "Review your Medicare Advantage and Part D options during open enrollment; costs change each year.",
+    "Higher earners should note the $192,300 wage cap in paycheck planning.",
+    "Check your December notice for your exact new amount and any premium deduction.",
+    "Seniors with low income may qualify for programs that pay Part B premiums."
    ],
    "sources": [
     {
-     "t": "IRS adjusts tax brackets, standard deduction for tax year 2027 (CPA Practice Advisor)",
-     "u": "https://www.cpapracticeadvisor.com/2026/11/05/irs-adjusts-tax-brackets-standard-deduction-for-tax-year-2027/193358/"
+     "t": "Social Security says retirees will get a 3.6% raise for 2027 (Honolulu Star-Advertiser)",
+     "u": "https://www.staradvertiser.com/2026/10/14/breaking-news/social-security-says-retirees-will-get-a-3-6-raise-for-2027/"
     },
     {
-     "t": "IRS sets inflation adjustments for tax year 2027 (Accounting Today)",
-     "u": "https://www.accountingtoday.com/news/irs-sets-inflation-adjustments-for-tax-year-2027"
+     "t": "Social Security's 2027 COLA Rises 3.6%, but Medicare Costs Could Eat Into the Extra $75 a Month (IBTimes UK)",
+     "u": "https://www.ibtimes.co.uk/social-security-2027-cola-rises-36-medicare-costs-could-eat-retirees-extra-75-month-1826209"
     }
    ],
    "prio": 24,
    "num": 24
   },
   {
-   "key": "fairplan",
-   "sec": "law",
-   "when": "Renewals since Oct 15",
-   "headline": "California FAIR Plan Rates Rise 29.1% on Average for More Than 675,000 Customers Since Oct. 15, and Some Wildfire-Zone Premiums Could Double",
-   "deck": "A Stanford study found California homeowners' premiums up 84% since 2020, and FAIR Plan share of homes rose from under 2% to 5%.",
-   "summary": "Average +29.1% at renewal on or after Oct. 15; some pay more than double; private insurers are writing again.",
+   "key": "calfresh",
+   "sec": "prog",
+   "when": "Rules since Jun 1, 2026",
+   "headline": "CalFresh Work Rules: Some Adults 18-64 Must Complete Up to 20 Hours a Week of Work, School, Training or Volunteering to Keep Benefits, Unless Exempt or in a Waived County",
+   "deck": "Parents and caregivers of a child under 14 are exempt, as are people unable to work, pregnant people and others.",
+   "summary": "Since Jun. 1: work/training/volunteer up to 20 hrs/wk or 80 hrs/month; many exemptions; waivers by county.",
    "paras": [
-    "The California FAIR Plan, the state's insurer of last resort, is raising rates by an average of 29.1% at renewals on or after Oct. 15, affecting more than 675,000 customers. The plan had asked for 35.8%. Increases vary by home: homes near high wildfire-risk areas could see much more, some wildfire premiums could double, while lower-risk and some urban Bay Area policyholders may pay less.",
-    "A June Stanford study found homeowners' premiums are up 84% since 2020 and FAIR Plan enrollment rose from under 2% to 5% of homes. KQED noted more traditional insurers are writing in California again, so some FAIR Plan customers may find private coverage, though mountain residents say finding any insurer is the harder problem."
+    "The California Department of Social Services says that starting June 1, 2026 some CalFresh recipients ages 18 to 64 may need to meet work and community-engagement rules to keep benefits. The requirement is up to 20 hours a week or 80 hours averaged monthly, through paid work, volunteering, job training, school, workfare (where the county sets hours) or a combination. Residents of counties with a high-unemployment waiver are exempt.",
+    "Exemptions include parents or caregivers of a child under 14, people physically or mentally unable to work, pregnant people, people receiving or applying for disability benefits, certain people facing addiction, domestic violence or homelessness, American Indian and California Indian people, and students enrolled at least half-time. CDSS offers an online pre-screening tool to check status.",
+    "Orange County's Social Services Agency describes the same rule as applying to adults 18-64 without a disability or a dependent child under 14, who must average 20 hours a week or earn $217.50 a week before taxes or otherwise face a three-month limit in a three-year period. LA County DPSS recommends applying or renewing early at BenefitsCal.com, setting renewal reminders and calling 211 for support services."
    ],
    "money": [
-    "Get quotes from at least three private insurers or a broker before your FAIR Plan renewal.",
-    "Mitigation steps such as defensible space and ember-resistant vents can lower premiums with some insurers.",
-    "FAIR Plan policies typically cover fire only, so a separate difference-in-conditions policy may be needed.",
-    "Keep a home inventory and photos in case of a claim."
+    "Use the state's pre-screening tool before assuming you are covered by the rule.",
+    "Keep pay stubs and volunteer logs; you may need to show hours.",
+    "Food banks can fill gaps if benefits lapse.",
+    "Report changes in household size or work promptly."
    ],
    "sources": [
     {
-     "t": "California FAIR Plan announces 29.1% rate hike for homeowners this fall (KQED)",
-     "u": "https://www.kqed.org/news/12094860/california-fair-plan-announces-29-1-rate-hike-for-homeowners-this-fall"
+     "t": "CalFresh FAQ on work requirements (California Department of Social Services)",
+     "u": "https://www.cdss.ca.gov/benefits-services/food-nutrition-services/calfresh/frequently-asked-questions"
     },
     {
-     "t": "California FAIR Plan customers face 29% average rate hike as wildfire risk grows (KMPH)",
-     "u": "https://kmph.com/news/local/california-fair-plan-customers-face-29-average-rate-hike-as-wildfire-risk-grows"
+     "t": "Changes to Medi-Cal and CalFresh (Orange County Social Services Agency)",
+     "u": "https://ssa.ocgov.com/Changes-Medi-cal-Calfresh"
+    },
+    {
+     "t": "Keep Your Benefits (LA County DPSS)",
+     "u": "https://dpss.lacounty.gov/en/keep-benefits.html"
     }
    ],
    "prio": 25,
    "num": 25
   },
   {
-   "key": "caemploy",
+   "key": "sce",
    "sec": "law",
-   "when": "Effective Jan 1, 2027",
-   "headline": "New California Work Laws for 2027: Bereavement Leave for a 'Designated Person,' a Revised Stay-or-Pay Ban and a $19.75 Farmworker Minimum",
-   "deck": "Employers with five or more workers must allow bereavement leave, and repeat pay-data filing failures could cost up to $1,000 per employee.",
-   "summary": "SB 1149 bereavement; AB 1697 stay-or-pay ban Jan. 1, 2027; AB 2646 ag minimum $19.75; SB 1237 penalties.",
+   "when": "Rates changed Oct 1",
+   "headline": "Edison Customers: Average Residential Rate Is 34.5 Cents per kWh Since Oct. 1, About $2.79 More a Month for a Typical 500 kWh Household; the Climate Credit Takes About $6 Off",
+   "deck": "Wildfire restoration and recovery bond costs push rates up, offset by costs that have been fully recovered.",
+   "summary": "Avg 34.4 to 34.5 cents/kWh; typical bill $185.85 to $188.64; CARE $111.06 to $111.25.",
    "paras": [
-    "A law-firm roundup of what Gov. Newsom signed says that, unless noted, new laws take effect Jan. 1, 2027. SB 1149 requires employers with five or more employees to allow bereavement leave for the death of a designated person, which can include extended relatives or chosen family, with employers allowed to limit it to one designated person per 12 months. AB 2646 sets a $19.75 hourly minimum for approved agricultural employees, indexed annually.",
-    "AB 1697 delays the operative date of the stay-or-pay ban (AB 692) to Jan. 1, 2027, adding exemptions for certain grant-funded recruitment and retention bonuses, repayment of advanced PTO on voluntary separation and some securities and insurance affiliation agreements. SB 1237 raises the penalty for repeat failures to file the pay data report to up to $1,000 per employee, with the filing due in May 2027 for employers with 100 or more employees."
+    "Southern California Edison says its average residential rate rose from 34.4 to 34.5 cents per kilowatt-hour on Oct. 1, or 33.3 cents including the California Climate Credit. A typical residential customer on its TOU-D-4-9pm plan using 500 kWh a month goes from $185.85 to $188.64, an increase of $2.79 or 1.5%, and a CARE customer from $111.06 to $111.25.",
+    "The utility lists Woolsey Fire restoration costs of $49.7 million and wildfire-claims recovery bonds of $140.1 million as increases, plus $59.7 million from a 2022 review, offset by $628.1 million of costs now fully recovered. The Climate Credit is a semi-annual bill credit.",
+    "For context, state regulators approved a roughly 10% Edison rate increase in September 2025, adding about $17 a month to the average residential bill, with further annual increases possible through 2028, per FOX 11 Los Angeles."
    ],
    "money": [
-    "Check your offer letter or bonus agreement for repayment terms before signing; the stay-or-pay rules change what can be clawed back.",
-    "If you lose a loved one, ask HR about the designated-person leave starting in 2027.",
-    "Small employers should update handbooks now to avoid penalties.",
-    "Farmworkers should confirm which program rate applies to them."
+    "Compare time-of-use plans; shifting laundry and charging outside 4 to 9 p.m. can lower bills.",
+    "Income-qualified customers should check CARE eligibility for a lower rate.",
+    "Look for the semi-annual Climate Credit on your bill.",
+    "LADWP customers have separate rates; check which utility serves you."
    ],
    "sources": [
     {
-     "t": "California's new employment laws for 2027 (California Employment Law Report)",
-     "u": "https://www.californiaemploymentlawreport.com/2026/10/californias-new-employment-laws-for-2027-what-newsom-signed-what-he-vetoed-and-your-to-do-list/"
+     "t": "Our rates are changing October 1, 2026 (Southern California Edison)",
+     "u": "https://www.sce.com/save-money/rates-financing/residential-rate-plans/understanding-updates-to-your-bill"
     },
     {
-     "t": "State quick hits: California privacy and AI legislative updates (Venable)",
-     "u": "https://www.venable.com/insights/publications/2026/09/state-quick-hits-california-privacy-and-ai"
+     "t": "SoCal Edison rate hike: how much your bill will increase (FOX 11 Los Angeles)",
+     "u": "https://www.foxla.com/news/socal-edison-rate-hike-electricity-bill-increase"
     }
    ],
    "prio": 26,
    "num": 26
   },
   {
-   "key": "coveredca",
+   "key": "myfirstev",
    "sec": "prog",
-   "when": "Pick a plan by Dec 31 | Open to Jan 31",
-   "headline": "Covered California Open Enrollment Runs to Jan. 31 With Expanded State Help for Incomes up to 200% of Poverty, and 55% of Enrollees See No Premium Increase",
-   "deck": "State subsidy funding rises to $300 million, but it cannot fully replace about $2.5 billion in lost federal aid.",
-   "summary": "Plan by Dec. 31 for Jan. 1 coverage; 358,000 pay $0; state aid up to $31,920 single or $66,000 for a family of four.",
+   "when": "Rolling",
+   "headline": "MyFirstEV: Up to $3,500 Off a New First Electric Vehicle Under $50,000 and $1,750 Off a Used One Under $25,000, Applied at the Dealership From a $270 Million Fund",
+   "deck": "Half the money comes from the state budget and half from participating automakers; hybrids do not qualify.",
+   "summary": "$3,500 new (<$50K MSRP), $1,750 used (<$25K); first-time EV buyers; $270M fund; instant at dealer.",
    "paras": [
-    "Covered California's 2027 open enrollment runs Nov. 1 through Jan. 31, 2027, and people who want coverage starting Jan. 1 must pick a plan by Dec. 31. Twelve insurers offer plans, including one new insurer. About 725,000 enrollees pay $100 or less a month, including 358,000 who pay nothing, and 55% will see no increase in their monthly premium.",
-    "State subsidy funding rises from $190 million to $300 million, extending help to incomes up to 200% of the federal poverty level, or $31,920 for one person and $66,000 for a family of four. About 200,000 more people newly qualify, and nearly 200,000 can choose between two $0 Silver plans. The state money cannot fully replace roughly $2.5 billion a year in federal aid lost when enhanced federal credits expired. Free help is available at (800) 300-1506 or CoveredCA.com."
+    "California's MyFirstEV program gives first-time electric-vehicle buyers an instant rebate at the dealership: up to $3,500 on a new EV with a manufacturer's price under $50,000 and up to $1,750 on a used EV under $25,000. Vehicles must be fully battery-electric, and hybrids do not count, according to Engadget's July 14 report.",
+    "The $270 million fund is half from the 2026-27 state budget and half from participating automakers, part of a broader $600 million clean-transportation investment. The article did not mention income limits. Electrive adds that the state allocated $135.5 million through the 2026-27 budget, matched by participating automakers, and that the program responds to repeal of the federal EV tax credit."
    ],
    "money": [
-    "Shopping the 2027 plans, even if you like your current one, can reveal a lower premium or a $0 Silver option.",
-    "Check state-subsidy eligibility if your household income is near 200% of poverty.",
-    "Pick by Dec. 31 to avoid a coverage gap.",
-    "Free certified enrollers can find tax-credit eligibility you might miss."
+    "Ask the dealer to confirm the rebate is applied before you sign.",
+    "Compare against any federal or utility incentives that may still apply.",
+    "Used EVs under $25,000 are a lower-cost way in.",
+    "Check home-charging costs with your utility's EV rate."
    ],
    "sources": [
     {
-     "t": "Covered California's open enrollment 2027 (Covered California)",
-     "u": "https://www.coveredca.com/press-releases/covered-california-s-open-enrollment-2027-amid-federal-changes-covered-california-continues-to"
+     "t": "California's MyFirstEV provides a $3,500 instant rebate (Engadget)",
+     "u": "https://engadget.com/2214847/californias-myfirstev-provides-a-dollar3500-instant-rebate-to-first-time-buyers"
     },
     {
-     "t": "Covered California kicks off 2027 open enrollment (Covered California)",
-     "u": "https://www.coveredca.com/press-releases/amid-federal-changes-covered-california-kicks-off-2027-open-enrollment-connectors-to-coverage"
+     "t": "California launches instant EV rebates for first-time buyers (electrive)",
+     "u": "https://www.electrive.com/2026/07/14/california-launches-instant-ev-rebates-for-first-time-buyers/"
     }
    ],
    "prio": 27,
    "num": 27
   },
   {
-   "key": "medical",
-   "sec": "prog",
-   "when": "Jan 1, 2027 | Mar 1, 2027",
-   "headline": "Medi-Cal's Work Requirement Starts Jan. 1 for Adults 19-64, Followed by Six-Month Renewals Starting Mar. 1; Estimates Project Up to 2.1 Million Could Lose Coverage",
-   "deck": "Retroactive coverage shrinks to one month for adults without children, and some immigrant coverage ends June 30, 2027.",
-   "summary": "Work/volunteer/school hours from Jan. 1; six-month renewals Mar. 1; DHCS projects up to 1.8M disenrollments by June 2028.",
+   "key": "openai",
+   "sec": "ai",
+   "when": "Sept-Nov releases",
+   "headline": "OpenAI's GPT-6.1 Sol Arrived at One-Fifth the Token Price of Its Predecessor, OpenAI Shelved a Planned Astra Upgrade, and November Brought New Image and Cyber Models",
+   "deck": "A GPT-6 Cyber model costs $20 per million input tokens and $100 per million output tokens for approved users.",
+   "summary": "GPT-6.1 Sol (Sep 29) cheaper; GPT-6.1 Astra not launched; Nov 4 image models; Nov 5 GPT-6 Cyber.",
    "paras": [
-    "The state health department says Medi-Cal work, volunteer, school or training requirements begin Jan. 1, 2027 for adults 19-64 without children under 13, with exemptions. Retroactive coverage also shrinks that day, to one month for adults without children and two months for others. Starting March 1, 2027, some adults must renew every six months instead of annually, and missed deadlines can cost coverage.",
-    "One state-focused summary says the requirement is 80 hours a month or equivalent earnings and cites a DHCS projection of up to 1.8 million disenrollments by June 2028, versus about 2.1 million from the Legislative Analyst's Office, with some people shifting to Covered California or employer plans. Immigrant-related changes include federally funded coverage narrowing Oct. 1, 2026, and state-funded full-scope coverage ending June 30, 2027 for affected members. Copays of up to 5% of household income begin Oct. 1, 2028."
+    "OpenAI showed GPT-6.1 Sol at DevDay on Sept. 29, saying it delivers nearly the intelligence of GPT-6 Astra for agentic coding, computer use and professional work at one-fifth the standard token prices. The Wall Street Journal reported OpenAI scrapped the planned GPT-6.1 Astra over safety concerns, per TechCrunch. At low reasoning effort, responses with a factual error fell from 11.4% to 7.7% versus GPT-6 Sol.",
+    "OpenAI's changelog lists two image models, gpt-image-2.6 Sunburst and Flare, on Nov. 4, and GPT-6 Cyber on Nov. 5 for authorized vulnerability work, with access requiring approval, a 1,050,000-token context window and prices of $20 per million input and $100 per million output tokens."
    ],
    "money": [
-    "Keep your address, phone and email current with your county so you get renewal notices.",
-    "Ask your county early about exemptions and how to report hours.",
-    "If you lose Medi-Cal, check Covered California; losing coverage opens a special enrollment period in many cases.",
-    "Keep pay stubs and volunteer logs to prove hours."
+    "Cheaper models lower the cost of AI features in apps and services you use.",
+    "Compare free tiers before paying for a subscription.",
+    "Be wary of AI tools that claim guaranteed returns.",
+    "Businesses can test smaller models first to cut spending."
    ],
    "sources": [
     {
-     "t": "Tracking federal impact: Medi-Cal eligibility (DHCS)",
-     "u": "https://www.dhcs.ca.gov/tracking-federal-impact-medi-cal-eligibility/"
+     "t": "OpenAI launches GPT-6.1 Sol (TechCrunch)",
+     "u": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
     },
     {
-     "t": "Medi-Cal work requirements, six-month renewals and immigrant eligibility: every 2026-27 date (California Today)",
-     "u": "https://californiatoday.com/news/medi-cal/medi-cal-work-requirements-six-month-renewals-and-immigrant-eligibility-every-2026-27-date-you-need-to-know/"
+     "t": "AI Model Releases: November 2026 Update (Essam Amdani)",
+     "u": "https://essamamdani.com/blog/ai-model-releases-november-2026"
     }
    ],
    "prio": 28,
    "num": 28
   },
   {
-   "key": "calfresh",
-   "sec": "prog",
-   "when": "Rules since Jun 1",
-   "headline": "CalFresh Work Rules: Adults 18-64 Without Young Children Must Average 20 Hours a Week to Keep Benefits Past Three Months, and Alpine County Lost Its Waiver Nov. 1",
-   "deck": "Seven counties are waived through Oct. 31, 2027: Colusa, Imperial, Kings, Merced, Monterey, Plumas and Tulare.",
-   "summary": "3 months in 3 years without work, training or an exemption; groups newly covered include ages 55-64 and veterans.",
+   "key": "ai-politics",
+   "sec": "ai",
+   "when": "Panel Oct 15 | Post-election",
+   "headline": "Washington's AI Fight Turns on Preemption: Panelists Expected No Federal Law Before the Midterms and Said Broad Limits on State Rules Would Struggle",
+   "deck": "Texas froze new data-center grid connections in August, and data centers have become a symbol of broader AI anxiety.",
+   "summary": "Preemption is the sticking point; bipartisan skepticism; Texas froze new data-center connections in Aug.",
    "paras": [
-    "California's social services department says adults 18 to 64 who can work and do not live with a CalFresh member under 14 must work an average of 20 hours a week, volunteer, or be in school or training, or they can receive CalFresh for only three months in a three-year period. As of June 1, 2026, people 55 to 64, parents whose youngest child is 14 or older, people experiencing homelessness, veterans and former foster youth are newly subject to the rules unless another exemption applies.",
-    "County waivers for Nov. 1, 2026 through Oct. 31, 2027 cover Colusa, Imperial, Kings, Merced, Monterey, Plumas and Tulare; Alpine County's waiver ended Oct. 31. A local report said the work test can be met by earning at least $217.50 a week before taxes. Exemptions include disability, pregnancy and conditions that prevent 20 hours of work."
+    "At an Oct. 15 Broadband Breakfast panel held before the Nov. 3 elections, speakers expected the vote to produce no major federal AI law but said the aftermath could change both parties' approach. Preemption of state and local AI rules was named the main sticking point, with one panelist expecting Democrats to refuse a bill that broadly preempts states. The Senate voted 99-1 in July 2025 to strip a 10-year moratorium on state AI enforcement from a budget bill.",
+    "Panelists said data centers have become a symbol of AI anxiety, noting Texas Gov. Greg Abbott froze new data-center grid connections in August. Bipartisan bills discussed included the AI LEAD Act, which would treat AI systems as products for liability purposes, and the FRONTIER Act, which would add audits and incident reporting for the largest developers. Because this panel preceded the election, treat its predictions as forecasts rather than outcomes.",
+    "Techstrong.ai's Sept. 17 report adds that the House passed the bipartisan Ratepayer Protection Act 417-3, directing state utility regulators to consider requiring data centers to cover the full cost of new generation and transmission, and that an AP-NORC and University of Chicago poll found nearly two-thirds of Americans extremely or very concerned about data centers raising energy prices."
    ],
    "money": [
-    "Use the state's pre-screening tool or call 1-877-847-3663 to see if you are exempt before losing benefits.",
-    "Report work, volunteer or school hours promptly; missing paperwork is a common reason for loss.",
-    "Food banks and school meal programs can fill gaps while you sort out eligibility.",
-    "Veterans and former foster youth should ask about exemptions."
+    "Local data-center fights can affect utility rates; attend or watch your utility commission hearings.",
+    "State AI rules vary; companies you use may change features by state.",
+    "Regulation fears have hit AI stocks before; avoid overweighting one theme.",
+    "Consumer-protection rules on AI claims can help you dispute misleading ads."
    ],
    "sources": [
     {
-     "t": "CalFresh able-bodied adults without dependents (California Department of Social Services)",
-     "u": "https://www.cdss.ca.gov/inforesources/calfresh/abawd"
+     "t": "Midterms Could Change the Politics of AI (Broadband Breakfast)",
+     "u": "https://broadbandbreakfast.com/midterms-could-change-the-politics-of-ai/"
     },
     {
-     "t": "New CalFresh work requirements start June 1 (KTVU)",
-     "u": "https://www.ktvu.com/news/california-calfresh-work-requirement-changes-2026"
+     "t": "Congress Struggles to Regulate AI Security Risks Amid Rising Voter Anxiety (Techstrong.ai)",
+     "u": "https://techstrong.ai/articles/congress-struggles-to-regulate-ai-security-risks-amid-rising-voter-anxiety/"
     }
    ],
    "prio": 29,
    "num": 29
-  },
-  {
-   "key": "zev",
-   "sec": "prog",
-   "when": "Rolling",
-   "headline": "MyFirstEV: Up to $3,500 Off a First Electric Vehicle, $1,750 Off a Used One, Applied at the Dealership With a $270 Million Fund",
-   "deck": "New cars must carry an MSRP of $50,000 or less and used cars must cost $25,000 or less.",
-   "summary": "Instant discount for first-time EV buyers; battery-electric only; participating automakers phase in through November.",
-   "paras": [
-    "California's MyFirstEV program gives first-time zero-emission-vehicle buyers or lessees up to $3,500 off a new car and up to $1,750 off a used one, applied at the point of sale with no separate claim. New vehicles must have an MSRP up to $50,000, and used ones must cost up to $25,000 and be sold through a manufacturer's pre-owned program. Another report says the fund is $270 million, split between the state budget and automakers, and that hybrids do not qualify.",
-    "Hyundai, Lucid and Tesla were first; Ford, Rivian, Chevrolet and Kia were due in August, Toyota/Lexus, Honda and Subaru in September and Mitsubishi from November, with Nissan and Volvo undated. The sources did not mention income caps."
-   ],
-   "money": [
-    "Ask the dealer to confirm the discount is applied before you sign; check that your brand is participating.",
-    "Gas still above $5.60 makes EV running costs attractive, but compare home-charging costs and your utility's EV rate plan.",
-    "Funds are finite; shoppers sometimes act sooner to avoid running out.",
-    "Used-EV eligibility is limited to manufacturer programs, so private-party sales do not qualify."
-   ],
-   "sources": [
-    {
-     "t": "California activates $3,500 rebates for first-time ZEV buyers (Electrive)",
-     "u": "https://electrive.com/2026/08/10/california-activates-3500-rebates-for-first-time-zev-buyers"
-    },
-    {
-     "t": "California's MyFirstEV provides a $3,500 instant rebate (Engadget)",
-     "u": "https://engadget.com/2214847/californias-myfirstev-provides-a-dollar3500-instant-rebate-to-first-time-buyers"
-    }
-   ],
-   "prio": 30,
-   "num": 30
   }
  ]
 }
